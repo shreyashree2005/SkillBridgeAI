@@ -42,3 +42,5 @@ Supporting folders: `datasets/` (seed data), `assets/` (shared media),
 🚧 **In active development** — built step by step.
 
 ## 👤 Author
+
+Built as a portfolio project to demonstrate full-stack + AI engineering.
