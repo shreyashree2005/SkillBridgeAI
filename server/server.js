@@ -1,68 +1,39 @@
-const express = require("express");
-const cors = require("cors");
-const dotenv = require("dotenv");
+// Entry point: connect to MongoDB, start HTTP + Socket.IO, shut down cleanly.
+const http = require('http');
+const env = require('./config/env');
+const { connectDB, disconnectDB } = require('./config/db');
+const app = require('./app');
+const initSockets = require('./sockets');
+const logger = require('./utils/logger');
 
-dotenv.config();
+const start = async () => {
+  try {
+    await connectDB(env.MONGO_URI);
+  } catch (err) {
+    logger.error(`MongoDB connection failed: ${err.message}`);
+    logger.error('Check MONGO_URI in server/.env and that MongoDB is running (see README → Troubleshooting).');
+    process.exit(1);
+  }
 
-const connectDB = require("./config/db");
-const healthRoutes = require("./routes/health.routes");
-const authRoutes = require("./routes/auth");
+  const server = http.createServer(app);
+  initSockets(server);
 
-// Connect MongoDB
-connectDB();
-
-const app = express();
-
-// Middleware
-app.use(cors());
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-
-// ==========================================
-// HOME
-// ==========================================
-app.get("/", (req, res) => {
-  res.json({
-    message: "🌉 SkillBridge AI API is running",
-    version: "1.0.0"
+  server.listen(env.PORT, () => {
+    logger.info(`✅ Server running on http://localhost:${env.PORT} (${env.NODE_ENV})`);
   });
-});
 
-// ==========================================
-// HEALTH ROUTES
-// ==========================================
-app.use("/api", healthRoutes);
+  const shutdown = (signal) => {
+    logger.info(`${signal} received, shutting down…`);
+    server.close(async () => {
+      await disconnectDB();
+      process.exit(0);
+    });
+    setTimeout(() => process.exit(1), 10000).unref();
+  };
+  process.on('SIGINT', () => shutdown('SIGINT'));
+  process.on('SIGTERM', () => shutdown('SIGTERM'));
+};
 
-// ==========================================
-// AUTH ROUTES
-// ==========================================
-app.use("/api/auth", authRoutes);
+process.on('unhandledRejection', (err) => logger.error('Unhandled rejection:', err));
 
-// ==========================================
-// 404
-// ==========================================
-app.use((req, res) => {
-  res.status(404).json({
-    error: "Route not found"
-  });
-});
-
-// ==========================================
-// ERROR HANDLER
-// ==========================================
-app.use((err, req, res, next) => {
-  console.error("❌ Error:", err.message);
-
-  res.status(500).json({
-    error: "Something went wrong on the server"
-  });
-});
-
-// ==========================================
-// START SERVER
-// ==========================================
-const PORT = process.env.PORT || 5000;
-
-app.listen(PORT, () => {
-  console.log(`✅ Server running on http://localhost:${PORT}`);
-});
+start();

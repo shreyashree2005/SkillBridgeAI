@@ -1,49 +1,24 @@
 // server/utils/jwt.js
+//
+// Handles all JWT operations. The token contains the user id and a
+// "token version". Logging out bumps the version stored on the user, which
+// instantly invalidates every token issued before (real server-side logout).
 
 const jwt = require('jsonwebtoken');
+const env = require('../config/env');
 
-/**
- * WHY THIS FILE?
- * 
- * Handles all JWT operations:
- * - Generate tokens
- * - Verify tokens
- * - Extract user from token
- * 
- * Keeps code organized and reusable
- */
+const generateToken = (user) =>
+  jwt.sign({ id: String(user._id), v: user.tokenVersion || 0 }, env.JWT_SECRET, {
+    expiresIn: env.JWT_EXPIRES_IN,
+  });
 
-/**
- * GENERATE TOKEN
- * 
- * Creates a JWT token when user logs in
- * Token contains user ID
- * Token expires in 7 days
- */
-const generateToken = (userId) => {
-  return jwt.sign(
-    { id: userId }, // Data inside token
-    process.env.JWT_SECRET, // Secret key to sign it
-    { expiresIn: '7d' } // Token expires in 7 days
-  );
-};
-
-/**
- * VERIFY TOKEN
- * 
- * Checks if token is valid and not expired
- * Returns the user ID from inside the token
- */
+// Returns the decoded payload, or null if the token is invalid or expired.
 const verifyToken = (token) => {
   try {
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    return decoded;
-  } catch (error) {
+    return jwt.verify(token, env.JWT_SECRET);
+  } catch {
     return null;
   }
 };
 
-module.exports = {
-  generateToken,
-  verifyToken,
-};
+module.exports = { generateToken, verifyToken };
