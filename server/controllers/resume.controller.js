@@ -34,7 +34,9 @@ const upload = async (req, res) => {
   const old = await Resume.find({ user: req.user._id }).sort({ createdAt: -1 }).skip(MAX_RESUMES_PER_USER).select('_id');
   if (old.length) await Resume.deleteMany({ _id: { $in: old.map((r) => r._id) } });
 
-  res.status(201).json({ success: true, message: 'Resume analysed.', data: { resume } });
+  // `select: false` only applies to queries, so drop the raw text from this response explicitly.
+  const { text, ...summary } = resume.toJSON();
+  res.status(201).json({ success: true, message: 'Resume analysed.', data: { resume: summary } });
 };
 
 // GET /api/resumes
