@@ -233,9 +233,7 @@ const answerInterview = async (req, res) => {
   const q = session.questions.find((x) => x.qid === qid);
   if (!q) throw AppError.notFound('Question not found in this session.');
 
-  const evaluation = await ai.interviewEvaluate({
-    question: q.question, type: q.type, expected_points: q.expectedPoints, answer,
-  });
+  const evaluation = await ai.interviewEvaluate({ qid: q.qid, answer });
   q.answer = answer;
   q.evaluation = {
     score: evaluation.score,
