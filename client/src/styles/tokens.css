@@ -1,0 +1,79 @@
+/* Design tokens. Every colour in the app comes from here, so light and dark
+   themes are defined in one place. Theme = OS preference unless the user picks
+   one (stored as <html data-theme="light|dark">). */
+:root {
+  color-scheme: light;
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --surface-2: #f2f2ef;
+  --surface-3: #e9e9e5;
+  --border: #e4e4df;
+  --border-strong: #d0d0c9;
+  --text: #121212;
+  --text-2: #52514e;
+  --text-3: #7a7974;
+
+  --accent: #4f46e5;
+  --accent-hover: #4338ca;
+  --accent-soft: #eef0ff;
+  --accent-text: #3730a3;
+  --on-accent: #ffffff;
+
+  --good: #0f7b3d;      --good-soft: #e7f6ec;
+  --warning: #9a6500;   --warning-soft: #fdf3dc;
+  --danger: #c02c2c;    --danger-soft: #fdeaea;
+  --info: #1c5cab;      --info-soft: #e8f1fd;
+
+  /* Data-viz roles (validated reference palette) */
+  --viz-surface: #ffffff;
+  --viz-grid: #ebebe7;
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --ord-1: #86b6ef; --ord-2: #5598e7; --ord-3: #2a78d6; --ord-4: #1c5cab; --ord-5: #104281; --ord-6: #0d366b;
+
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.05);
+  --shadow: 0 1px 3px rgb(0 0 0 / 0.06), 0 6px 16px rgb(0 0 0 / 0.05);
+  --shadow-lg: 0 12px 40px rgb(0 0 0 / 0.14);
+  --sidebar-w: 248px;
+  --topbar-h: 60px;
+  --focus: 0 0 0 3px rgb(79 70 229 / 0.35);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --bg: #0e0e10; --surface: #17171a; --surface-2: #1e1e22; --surface-3: #27272c;
+    --border: #2a2a30; --border-strong: #3a3a42;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e88;
+    --accent: #7c74ff; --accent-hover: #918aff; --accent-soft: #23214a; --accent-text: #c4c0ff; --on-accent: #0e0e10;
+    --good: #4cc37a; --good-soft: #13281b; --warning: #e0a63a; --warning-soft: #2c2210;
+    --danger: #f06b6b; --danger-soft: #331515; --info: #6da7ec; --info-soft: #14243a;
+    --viz-surface: #17171a; --viz-grid: #2a2a30;
+    --series-1: #3987e5; --series-2: #d95926;
+    --ord-1: #184f95; --ord-2: #256abf; --ord-3: #3987e5; --ord-4: #6da7ec; --ord-5: #9ec5f4; --ord-6: #cde2fb;
+    --shadow: 0 1px 3px rgb(0 0 0 / 0.4), 0 6px 16px rgb(0 0 0 / 0.3);
+    --shadow-lg: 0 12px 40px rgb(0 0 0 / 0.5);
+    --focus: 0 0 0 3px rgb(124 116 255 / 0.45);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0e0e10; --surface: #17171a; --surface-2: #1e1e22; --surface-3: #27272c;
+  --border: #2a2a30; --border-strong: #3a3a42;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e88;
+  --accent: #7c74ff; --accent-hover: #918aff; --accent-soft: #23214a; --accent-text: #c4c0ff; --on-accent: #0e0e10;
+  --good: #4cc37a; --good-soft: #13281b; --warning: #e0a63a; --warning-soft: #2c2210;
+  --danger: #f06b6b; --danger-soft: #331515; --info: #6da7ec; --info-soft: #14243a;
+  --viz-surface: #17171a; --viz-grid: #2a2a30;
+  --series-1: #3987e5; --series-2: #d95926;
+  --ord-1: #184f95; --ord-2: #256abf; --ord-3: #3987e5; --ord-4: #6da7ec; --ord-5: #9ec5f4; --ord-6: #cde2fb;
+  --shadow: 0 1px 3px rgb(0 0 0 / 0.4), 0 6px 16px rgb(0 0 0 / 0.3);
+  --shadow-lg: 0 12px 40px rgb(0 0 0 / 0.5);
+  --focus: 0 0 0 3px rgb(124 116 255 / 0.45);
+}
