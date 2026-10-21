@@ -1,0 +1,229 @@
+id,title,level,skills,durationHours,ratingAverage
+course-001,Python Foundations,beginner,Python;Programming Fundamentals,3.6,4.8
+course-002,Python in Practice,intermediate,Python;Programming Fundamentals,4.3,3.9
+course-003,Python Mastery,advanced,Python;Programming Fundamentals,4.6,4.3
+course-004,Git Foundations,beginner,Git,3.7,4.0
+course-005,Git in Practice,intermediate,Git,6.1,3.8
+course-006,Git Mastery,advanced,Git,4.3,4.7
+course-007,SQL Foundations,beginner,SQL,4.8,3.7
+course-008,SQL in Practice,intermediate,SQL,5.0,3.9
+course-009,SQL Mastery,advanced,SQL,3.8,3.7
+course-010,REST APIs Foundations,beginner,REST APIs;Programming Fundamentals,4.6,4.2
+course-011,REST APIs in Practice,intermediate,REST APIs;Programming Fundamentals,4.6,4.2
+course-012,REST APIs Mastery,advanced,REST APIs;Programming Fundamentals,5.0,3.9
+course-013,Linux Foundations,beginner,Linux,5.6,4.5
+course-014,Linux in Practice,intermediate,Linux,5.8,4.6
+course-015,Linux Mastery,advanced,Linux,4.3,4.3
+course-016,Docker Foundations,beginner,Docker;Linux,5.8,4.8
+course-017,Docker in Practice,intermediate,Docker;Linux,4.5,3.7
+course-018,Docker Mastery,advanced,Docker;Linux,3.1,4.7
+course-019,JavaScript Foundations,beginner,JavaScript;Programming Fundamentals,4.9,4.2
+course-020,JavaScript in Practice,intermediate,JavaScript;Programming Fundamentals,3.9,4.2
+course-021,JavaScript Mastery,advanced,JavaScript;Programming Fundamentals,4.0,4.3
+course-022,Unit Testing Foundations,beginner,Unit Testing;Programming Fundamentals,6.2,4.2
+course-023,Unit Testing in Practice,intermediate,Unit Testing;Programming Fundamentals,4.3,4.5
+course-024,Unit Testing Mastery,advanced,Unit Testing;Programming Fundamentals,3.8,4.3
+course-025,Computer Networks Foundations,beginner,Computer Networks,3.8,4.5
+course-026,Computer Networks in Practice,intermediate,Computer Networks,5.2,4.6
+course-027,Computer Networks Mastery,advanced,Computer Networks,4.3,4.2
+course-028,AWS Foundations,beginner,AWS;Linux,6.8,4.9
+course-029,AWS in Practice,intermediate,AWS;Linux,4.3,4.2
+course-030,AWS Mastery,advanced,AWS;Linux,5.6,3.8
+course-031,Statistics Foundations,beginner,Statistics,3.9,3.8
+course-032,Statistics in Practice,intermediate,Statistics,6.6,4.8
+course-033,Statistics Mastery,advanced,Statistics,3.3,4.6
+course-034,Machine Learning Foundations,beginner,Machine Learning;Python,3.7,4.2
+course-035,Machine Learning in Practice,intermediate,Machine Learning;Python,6.6,4.0
+course-036,Machine Learning Mastery,advanced,Machine Learning;Python,5.1,4.2
+course-037,CI/CD Foundations,beginner,CI/CD;Git,4.3,3.8
+course-038,CI/CD in Practice,intermediate,CI/CD;Git,4.2,3.8
+course-039,HTML Foundations,beginner,HTML,4.2,4.0
+course-040,HTML in Practice,intermediate,HTML,4.9,4.5
+course-041,CSS Foundations,beginner,CSS;HTML,3.6,4.2
+course-042,CSS in Practice,intermediate,CSS;HTML,4.3,4.6
+course-043,React Foundations,beginner,React;JavaScript,2.9,4.2
+course-044,React in Practice,intermediate,React;JavaScript,3.8,4.4
+course-045,Node.js Foundations,beginner,Node.js;JavaScript,4.7,4.7
+course-046,Node.js in Practice,intermediate,Node.js;JavaScript,4.6,4.1
+course-047,Database Design Foundations,beginner,Database Design;SQL,3.6,4.7
+course-048,Database Design in Practice,intermediate,Database Design;SQL,5.5,4.1
+course-049,Communication Foundations,beginner,Communication,4.6,4.3
+course-050,Communication in Practice,intermediate,Communication,3.4,4.8
+course-051,Linear Algebra Foundations,beginner,Linear Algebra,3.7,4.8
+course-052,Linear Algebra in Practice,intermediate,Linear Algebra,4.3,4.7
+course-053,TypeScript Foundations,beginner,TypeScript;JavaScript,3.7,4.0
+course-054,TypeScript in Practice,intermediate,TypeScript;JavaScript,5.8,4.8
+course-055,Pandas Foundations,beginner,Pandas;Python,5.0,3.8
+course-056,Pandas in Practice,intermediate,Pandas;Python,4.2,4.7
+course-057,Data Structures Foundations,beginner,Data Structures;Programming Fundamentals,2.8,3.9
+course-058,Data Structures in Practice,intermediate,Data Structures;Programming Fundamentals,6.2,4.5
+course-059,Kubernetes Foundations,beginner,Kubernetes;Docker,4.0,4.2
+course-060,Kubernetes in Practice,intermediate,Kubernetes;Docker,4.8,4.6
+course-061,Network Security Foundations,beginner,Network Security;Computer Networks,3.6,3.9
+course-062,Network Security in Practice,intermediate,Network Security;Computer Networks,4.5,4.3
+course-063,Object-Oriented Programming Foundations,beginner,Object-Oriented Programming;Programming Fundamentals,6.8,4.8
+course-064,Object-Oriented Programming in Practice,intermediate,Object-Oriented Programming;Programming Fundamentals,7.2,4.7
+course-065,Responsive Design Foundations,beginner,Responsive Design;CSS,7.1,3.9
+course-066,Responsive Design in Practice,intermediate,Responsive Design;CSS,4.4,4.6
+course-067,Web Accessibility Foundations,beginner,Web Accessibility;HTML,4.8,4.0
+course-068,Web Accessibility in Practice,intermediate,Web Accessibility;HTML,3.8,4.0
+course-069,Figma Foundations,beginner,Figma,4.9,3.9
+course-070,Figma in Practice,intermediate,Figma,4.3,4.0
+course-071,Authentication Foundations,beginner,Authentication;REST APIs,4.7,4.2
+course-072,Authentication in Practice,intermediate,Authentication;REST APIs,6.3,4.5
+course-073,Express.js Foundations,beginner,Express.js;Node.js,5.2,4.2
+course-074,Express.js in Practice,intermediate,Express.js;Node.js,4.4,3.9
+course-075,MongoDB Foundations,beginner,MongoDB,6.2,4.6
+course-076,MongoDB in Practice,intermediate,MongoDB,3.9,4.1
+course-077,Data Visualization Foundations,beginner,Data Visualization;Python,5.1,4.6
+course-078,Data Visualization in Practice,intermediate,Data Visualization;Python,4.4,3.8
+course-079,scikit-learn Foundations,beginner,scikit-learn;Machine Learning,5.0,3.6
+course-080,scikit-learn in Practice,intermediate,scikit-learn;Machine Learning,5.8,3.6
+course-081,Deep Learning Foundations,beginner,Deep Learning;Machine Learning,3.8,4.9
+course-082,Deep Learning in Practice,intermediate,Deep Learning;Machine Learning,3.9,3.8
+course-083,Terraform Foundations,beginner,Terraform;AWS,4.9,4.8
+course-084,Terraform in Practice,intermediate,Terraform;AWS,4.0,4.7
+course-085,UI/UX Design Foundations,beginner,UI/UX Design,4.8,4.4
+course-086,UI/UX Design in Practice,intermediate,UI/UX Design,2.9,3.8
+course-087,Operating Systems Foundations,beginner,Operating Systems;Programming Fundamentals,2.9,4.4
+course-088,Operating Systems in Practice,intermediate,Operating Systems;Programming Fundamentals,5.8,4.4
+course-089,C++ Foundations,beginner,C++;Programming Fundamentals,4.2,4.7
+course-090,C++ in Practice,intermediate,C++;Programming Fundamentals,4.7,4.6
+course-091,PostgreSQL Foundations,beginner,PostgreSQL;SQL,4.8,3.7
+course-092,PostgreSQL in Practice,intermediate,PostgreSQL;SQL,3.5,3.7
+course-093,System Design Foundations,beginner,System Design;Database Design,3.8,3.9
+course-094,System Design in Practice,intermediate,System Design;Database Design,3.7,3.9
+course-095,Excel Foundations,beginner,Excel,5.8,4.5
+course-096,Excel in Practice,intermediate,Excel,6.6,4.5
+course-097,Data Analysis Foundations,beginner,Data Analysis;Statistics,3.8,3.8
+course-098,Data Analysis in Practice,intermediate,Data Analysis;Statistics,5.7,4.0
+course-099,Apache Spark Foundations,beginner,Apache Spark;Python,3.7,4.5
+course-100,Apache Spark in Practice,intermediate,Apache Spark;Python,4.3,4.8
+course-101,PyTorch Foundations,beginner,PyTorch;Deep Learning,5.1,3.7
+course-102,PyTorch in Practice,intermediate,PyTorch;Deep Learning,4.5,4.8
+course-103,Large Language Models Foundations,beginner,Large Language Models;Natural Language Processing,5.0,3.9
+course-104,Large Language Models in Practice,intermediate,Large Language Models;Natural Language Processing,4.1,4.0
+course-105,Prompt Engineering Foundations,beginner,Prompt Engineering,5.1,4.5
+course-106,Prompt Engineering in Practice,intermediate,Prompt Engineering,4.7,4.3
+course-107,Bash Foundations,beginner,Bash;Linux,3.2,3.9
+course-108,Bash in Practice,intermediate,Bash;Linux,4.6,4.8
+course-109,React Native Foundations,beginner,React Native;React,5.0,4.4
+course-110,React Native in Practice,intermediate,React Native;React,5.2,3.9
+course-111,Wireframing Foundations,beginner,Wireframing;UI/UX Design,3.5,4.9
+course-112,Wireframing in Practice,intermediate,Wireframing;UI/UX Design,7.0,4.8
+course-113,API Testing Foundations,beginner,API Testing;REST APIs,6.5,4.2
+course-114,API Testing in Practice,intermediate,API Testing;REST APIs,5.1,4.7
+course-115,ETL Foundations,beginner,ETL;SQL,6.3,4.0
+course-116,ETL in Practice,intermediate,ETL;SQL,3.6,4.8
+course-117,Data Warehousing Foundations,beginner,Data Warehousing;SQL,5.5,4.2
+course-118,Data Warehousing in Practice,intermediate,Data Warehousing;SQL,3.7,4.2
+course-119,Algorithms Foundations,beginner,Algorithms;Data Structures,3.7,4.8
+course-120,Algorithms in Practice,intermediate,Algorithms;Data Structures,4.6,3.9
+course-121,Unity Foundations,beginner,Unity;C#,3.3,4.4
+course-122,Unity in Practice,intermediate,Unity;C#,4.4,3.7
+course-123,C# Foundations,beginner,C#;Programming Fundamentals,3.6,4.6
+course-124,C# in Practice,intermediate,C#;Programming Fundamentals,4.6,4.8
+course-125,C Foundations,beginner,C;Programming Fundamentals,4.8,3.7
+course-126,C in Practice,intermediate,C;Programming Fundamentals,4.8,4.1
+course-127,Embedded Systems Foundations,beginner,Embedded Systems;C,3.6,3.7
+course-128,Embedded Systems in Practice,intermediate,Embedded Systems;C,3.3,3.8
+course-129,Next.js Foundations,beginner,Next.js;React,3.4,4.7
+course-130,Next.js in Practice,intermediate,Next.js;React,4.9,3.8
+course-131,Web Security Foundations,beginner,Web Security;REST APIs,3.3,3.8
+course-132,Web Security in Practice,intermediate,Web Security;REST APIs,4.2,3.7
+course-133,Power BI Foundations,beginner,Power BI;Data Analysis,4.5,4.3
+course-134,Power BI in Practice,intermediate,Power BI;Data Analysis,3.0,3.7
+course-135,Tableau Foundations,beginner,Tableau;Data Analysis,4.6,4.4
+course-136,Tableau in Practice,intermediate,Tableau;Data Analysis,4.1,4.0
+course-137,Jupyter Foundations,beginner,Jupyter;Python,6.5,4.4
+course-138,Jupyter in Practice,intermediate,Jupyter;Python,6.2,4.8
+course-139,NumPy Foundations,beginner,NumPy;Python,5.5,4.6
+course-140,NumPy in Practice,intermediate,NumPy;Python,5.1,4.3
+course-141,Feature Engineering Foundations,beginner,Feature Engineering;Pandas,3.3,4.4
+course-142,Feature Engineering in Practice,intermediate,Feature Engineering;Pandas,2.3,3.8
+course-143,TensorFlow Foundations,beginner,TensorFlow;Deep Learning,4.5,4.7
+course-144,TensorFlow in Practice,intermediate,TensorFlow;Deep Learning,4.3,4.0
+course-145,MLOps Foundations,beginner,MLOps;Machine Learning,3.8,3.8
+course-146,MLOps in Practice,intermediate,MLOps;Machine Learning,3.6,4.6
+course-147,Natural Language Processing Foundations,beginner,Natural Language Processing;Machine Learning,6.2,3.7
+course-148,Natural Language Processing in Practice,intermediate,Natural Language Processing;Machine Learning,3.9,4.1
+course-149,FastAPI Foundations,beginner,FastAPI;Python,4.7,3.7
+course-150,FastAPI in Practice,intermediate,FastAPI;Python,5.5,4.8
+course-151,Prometheus Foundations,beginner,Prometheus;Docker,4.1,3.9
+course-152,Prometheus in Practice,intermediate,Prometheus;Docker,3.3,4.3
+course-153,Serverless Foundations,beginner,Serverless;AWS,5.6,4.8
+course-154,Serverless in Practice,intermediate,Serverless;AWS,6.5,4.0
+course-155,Flutter Foundations,beginner,Flutter;Dart,5.5,4.4
+course-156,Flutter in Practice,intermediate,Flutter;Dart,5.8,4.4
+course-157,Kotlin Foundations,beginner,Kotlin;Programming Fundamentals,2.8,3.7
+course-158,Kotlin in Practice,intermediate,Kotlin;Programming Fundamentals,4.8,4.4
+course-159,Swift Foundations,beginner,Swift;Programming Fundamentals,4.5,3.9
+course-160,Swift in Practice,intermediate,Swift;Programming Fundamentals,5.5,3.7
+course-161,Firebase Foundations,beginner,Firebase;JavaScript,5.0,3.7
+course-162,Firebase in Practice,intermediate,Firebase;JavaScript,5.9,4.0
+course-163,SIEM Foundations,beginner,SIEM;Network Security,5.7,3.7
+course-164,SIEM in Practice,intermediate,SIEM;Network Security,5.5,4.1
+course-165,Penetration Testing Foundations,beginner,Penetration Testing;Network Security,6.1,4.4
+course-166,Penetration Testing in Practice,intermediate,Penetration Testing;Network Security,3.8,3.7
+course-167,Cryptography Foundations,beginner,Cryptography;Discrete Mathematics,4.8,3.9
+course-168,Cryptography in Practice,intermediate,Cryptography;Discrete Mathematics,4.8,3.8
+course-169,Wireshark Foundations,beginner,Wireshark;Computer Networks,4.6,4.5
+course-170,Wireshark in Practice,intermediate,Wireshark;Computer Networks,3.8,4.3
+course-171,OWASP Top 10 Foundations,beginner,OWASP Top 10;Web Security,4.8,4.6
+course-172,OWASP Top 10 in Practice,intermediate,OWASP Top 10;Web Security,3.3,4.7
+course-173,Selenium Foundations,beginner,Selenium;Unit Testing,5.3,4.9
+course-174,Selenium in Practice,intermediate,Selenium;Unit Testing,4.4,3.9
+course-175,Cypress Foundations,beginner,Cypress;JavaScript,4.8,4.1
+course-176,Cypress in Practice,intermediate,Cypress;JavaScript,4.1,4.1
+course-177,Playwright Foundations,beginner,Playwright;JavaScript,3.8,4.0
+course-178,Playwright in Practice,intermediate,Playwright;JavaScript,3.5,3.9
+course-179,Java Foundations,beginner,Java;Programming Fundamentals,6.6,4.2
+course-180,Java in Practice,intermediate,Java;Programming Fundamentals,3.1,4.2
+course-181,Game Design Foundations,beginner,Game Design,5.0,4.3
+course-182,Game Design in Practice,intermediate,Game Design,4.0,4.3
+course-183,Unreal Engine Foundations,beginner,Unreal Engine;C++,2.8,4.2
+course-184,Unreal Engine in Practice,intermediate,Unreal Engine;C++,3.5,4.4
+course-185,Arduino Foundations,beginner,Arduino;C,4.5,4.4
+course-186,Arduino in Practice,intermediate,Arduino;C,4.2,4.3
+course-187,IoT Foundations,beginner,IoT;Arduino,4.0,4.8
+course-188,IoT in Practice,intermediate,IoT;Arduino,5.8,3.6
+course-189,Jest Foundations,beginner,Jest;JavaScript,4.8,4.8
+course-190,Jest in Practice,intermediate,Jest;JavaScript,3.7,4.4
+course-191,Tailwind CSS Foundations,beginner,Tailwind CSS;CSS,3.7,4.4
+course-192,Tailwind CSS in Practice,intermediate,Tailwind CSS;CSS,4.8,3.9
+course-193,Redux Foundations,beginner,Redux;React,5.2,4.9
+course-194,Redux in Practice,intermediate,Redux;React,4.0,4.1
+course-195,Vite Foundations,beginner,Vite;JavaScript,3.9,4.3
+course-196,Vite in Practice,intermediate,Vite;JavaScript,4.4,4.5
+course-197,Redis Foundations,beginner,Redis,4.0,4.3
+course-198,Redis in Practice,intermediate,Redis,4.2,3.7
+course-199,Microservices Foundations,beginner,Microservices;REST APIs,3.8,4.7
+course-200,Microservices in Practice,intermediate,Microservices;REST APIs,4.3,3.7
+course-201,R Foundations,beginner,R;Statistics,4.2,4.7
+course-202,R in Practice,intermediate,R;Statistics,4.5,4.0
+course-203,Elasticsearch Foundations,beginner,Elasticsearch,6.0,4.4
+course-204,Elasticsearch in Practice,intermediate,Elasticsearch,6.0,4.4
+course-205,GitHub Actions Foundations,beginner,GitHub Actions;CI/CD,4.2,4.1
+course-206,GitHub Actions in Practice,intermediate,GitHub Actions;CI/CD,5.8,4.5
+course-207,Nginx Foundations,beginner,Nginx;Linux,5.2,4.0
+course-208,Nginx in Practice,intermediate,Nginx;Linux,4.3,3.7
+course-209,Azure Foundations,beginner,Azure;Linux,5.9,4.3
+course-210,Azure in Practice,intermediate,Azure;Linux,6.1,4.5
+course-211,Google Cloud Foundations,beginner,Google Cloud;Linux,3.8,4.7
+course-212,Google Cloud in Practice,intermediate,Google Cloud;Linux,5.8,4.0
+course-213,Android Development Foundations,beginner,Android Development;Kotlin,4.7,4.7
+course-214,Android Development in Practice,intermediate,Android Development;Kotlin,5.5,4.7
+course-215,iOS Development Foundations,beginner,iOS Development;Swift,4.5,4.6
+course-216,iOS Development in Practice,intermediate,iOS Development;Swift,5.2,4.5
+course-217,Teamwork Foundations,beginner,Teamwork,4.5,3.6
+course-218,Teamwork in Practice,intermediate,Teamwork,4.8,4.5
+course-219,Jira Foundations,beginner,Jira,3.2,4.5
+course-220,Jira in Practice,intermediate,Jira,4.0,4.3
+course-221,Test-Driven Development Foundations,beginner,Test-Driven Development;Unit Testing,4.3,4.4
+course-222,Test-Driven Development in Practice,intermediate,Test-Driven Development;Unit Testing,5.5,4.0
+course-223,Message Queues Foundations,beginner,Message Queues;Microservices,3.8,3.8
+course-224,Message Queues in Practice,intermediate,Message Queues;Microservices,4.1,3.9
+course-225,Design Patterns Foundations,beginner,Design Patterns;Object-Oriented Programming,3.5,4.5
+course-226,Design Patterns in Practice,intermediate,Design Patterns;Object-Oriented Programming,4.1,4.2
+course-227,Problem Solving Foundations,beginner,Problem Solving,5.8,4.8
+course-228,Problem Solving in Practice,intermediate,Problem Solving,6.2,4.0

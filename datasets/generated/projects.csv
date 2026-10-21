@@ -1,0 +1,501 @@
+id,owner,title,category,status,techStack,rolesNeeded,members
+project-0001,user-0898,Resume Screener Lite,ai-ml,idea,Python;Machine Learning;Pandas;Docker;TensorFlow;Large Language Models,Natural Language Processing;Deep Learning,user-0898;user-0851;user-0247
+project-0002,user-0268,Library Usage Trends AI,data,idea,SQL;ETL;Data Visualization;Statistics,Jupyter;Data Analysis;Power BI,user-0268;user-0698;user-0614
+project-0003,user-0706,Volunteer Connect,web,in-progress,React;Authentication;Express.js;Python;WebSockets,MongoDB;Redis,user-0706
+project-0004,user-0536,Physics Puzzle,game,idea,Figma;C#;Unreal Engine,C++;Game Design,user-0536;user-0284;user-0645
+project-0005,user-0253,Event Hub Pro,web,in-progress,Python;Express.js;Django,Redis;Docker;Next.js,user-0253
+project-0006,user-0714,Recipe Planner Pro,web,idea,JavaScript;Python;Authentication;React,Tailwind CSS;WebSockets;Django,user-0714;user-0306;user-0579;user-0186;user-0444
+project-0007,user-0482,Energy Tracker for Clubs,iot,in-progress,C;Embedded Systems;Arduino;MongoDB,React;IoT;Python,user-0482;user-0437;user-0959;user-0777;user-0157
+project-0008,user-0825,Recipe Planner Mobile,web,completed,Node.js;REST APIs;Authentication;Python;Tailwind CSS;WebSockets,Django;MongoDB,user-0825;user-0527;user-0305;user-0102
+project-0009,user-0656,Room Occupancy Sensor AI,iot,completed,IoT;C;Embedded Systems;React,MongoDB;Arduino;C++,user-0656;user-0129;user-0277
+project-0010,user-0949,Cluster Monitor Pro,devops,idea,Kubernetes;AWS;CI/CD;Prometheus;Linux;Terraform,GitHub Actions;Bash,user-0949
+project-0011,user-0112,Portfolio Builder for Clubs,web,idea,Django;Node.js;Express.js,Next.js;Authentication;REST APIs,user-0112;user-0938;user-0201
+project-0012,user-0988,Recipe Planner Lite,web,in-progress,Python;Docker;Next.js,Express.js;Redis;Node.js,user-0988;user-0907
+project-0013,user-0933,Infra Starter Kit,devops,idea,CI/CD;Bash;Linux,AWS;Terraform;GitHub Actions,user-0933
+project-0014,user-0538,Pixel Platformer 2.0,game,idea,C++;Unreal Engine;Unity,C#;Game Design,user-0538;user-0866
+project-0015,user-0742,Room Occupancy Sensor Lite,iot,in-progress,IoT;C;Python;MongoDB,C++;Embedded Systems,user-0742
+project-0016,user-0970,Study Group Finder Lite,web,in-progress,Python;JavaScript;MongoDB,Authentication;Redis;Tailwind CSS,user-0970;user-0867
+project-0017,user-0398,Study Assistant Bot AI,ai-ml,completed,Python;scikit-learn;TensorFlow,Computer Vision;Natural Language Processing;Deep Learning,user-0398
+project-0018,user-0047,Habit Streaks for Clubs,mobile,in-progress,Flutter;React Native;Kotlin,Swift;Dart;Firebase,user-0047;user-0152;user-0548;user-0469;user-1000
+project-0019,user-0037,Sentiment Dashboard 2.0,ai-ml,in-progress,TensorFlow;Docker;Python;Computer Vision;PyTorch;scikit-learn,Pandas,user-0037;user-0991;user-0179
+project-0020,user-0305,Internship Tracker Pro,web,in-progress,Redis;REST APIs;Node.js;React;Docker;TypeScript,Next.js;WebSockets;MongoDB,user-0305;user-0006;user-0733
+project-0021,user-0001,Cluster Monitor AI,devops,in-progress,Linux;Kubernetes;AWS;CI/CD;Bash,Prometheus;GitHub Actions;Docker,user-0001;user-0003;user-0400
+project-0022,user-0529,Campus Marketplace Lite,web,idea,Express.js;Authentication;REST APIs;TypeScript;Tailwind CSS;PostgreSQL,WebSockets;Docker,user-0529
+project-0023,user-0019,Air Quality Analysis AI,data,idea,Python;Pandas;Tableau;Jupyter,ETL;Power BI,user-0019;user-0929
+project-0024,user-0866,Physics Puzzle Lite,game,idea,C++;C#;Unreal Engine;Unity,Figma,user-0866
+project-0025,user-0733,Recipe Planner AI,web,idea,MongoDB;Docker;REST APIs;Django;Express.js;Redis,Tailwind CSS,user-0733;user-0397
+project-0026,user-0016,Placement Insights for Clubs,data,completed,Python;Data Analysis;SQL;ETL,Statistics;Data Visualization;Power BI,user-0016;user-0782;user-0094;user-0966
+project-0027,user-0997,Sports Stats Explorer,data,in-progress,Python;SQL;ETL;Statistics;Data Analysis,Tableau;Jupyter,user-0997;user-0593
+project-0028,user-0004,Habit Streaks Mobile,mobile,in-progress,Flutter;React Native;Firebase;TypeScript;Swift;Figma,REST APIs;Kotlin,user-0004
+project-0029,user-0434,Placement Insights 2.0,data,in-progress,ETL;Python;Pandas;Jupyter;Data Visualization,Tableau;SQL;Data Analysis,user-0434;user-0759;user-0636
+project-0030,user-0708,Event Hub for Clubs,web,completed,Docker;REST APIs;MongoDB;Tailwind CSS;PostgreSQL,TypeScript;Django;Express.js,user-0708
+project-0031,user-0202,Volunteer Connect AI,web,idea,JavaScript;TypeScript;MongoDB,Python;Django;React,user-0202;user-0686
+project-0032,user-0899,Study Group Finder,web,completed,Django;Node.js;Express.js,TypeScript;Docker,user-0899;user-0255
+project-0033,user-0590,Study Assistant Bot AI,ai-ml,completed,Pandas;Machine Learning;scikit-learn;Python;TensorFlow,Deep Learning;FastAPI;PyTorch,user-0590;user-0144;user-0344
+project-0034,user-0213,Sentiment Dashboard for Clubs,ai-ml,in-progress,Machine Learning;scikit-learn;Computer Vision;FastAPI,Docker;Python,user-0213
+project-0035,user-0371,Campus Marketplace AI,web,idea,Authentication;React;REST APIs;TypeScript;WebSockets;Next.js,JavaScript;MongoDB;Express.js,user-0371
+project-0036,user-0571,Cluster Monitor 2.0,devops,in-progress,Terraform;AWS;Docker;CI/CD;Linux;GitHub Actions,Prometheus,user-0571
+project-0037,user-0978,Room Occupancy Sensor Lite,iot,in-progress,Embedded Systems;Arduino;Python;MongoDB,C++;C;IoT,user-0978
+project-0038,user-0914,Pixel Platformer Pro,game,idea,Unreal Engine;Unity;C#;Figma;Game Design,C++,user-0914
+project-0039,user-0805,Recipe Planner AI,web,in-progress,MongoDB;REST APIs;Express.js;Python;Django,Authentication;JavaScript;Next.js,user-0805
+project-0040,user-0778,Resume Screener Pro,ai-ml,idea,Python;scikit-learn;TensorFlow;PyTorch,Deep Learning;Pandas;Machine Learning,user-0778;user-0887
+project-0041,user-0354,Deploy Bot 2.0,devops,in-progress,Linux;Docker;Kubernetes,GitHub Actions;CI/CD,user-0354;user-0482
+project-0042,user-0168,Fitness Buddy,mobile,in-progress,Firebase;REST APIs;Kotlin;TypeScript;Swift,Figma;React Native,user-0168;user-0343;user-0166;user-0557
+project-0043,user-0675,Sports Stats Explorer 2.0,data,in-progress,Data Visualization;Data Analysis;SQL;Pandas;Python;ETL,Jupyter,user-0675;user-0913;user-0021
+project-0044,user-0116,Expense Splitter for Clubs,web,in-progress,React;WebSockets;JavaScript,Tailwind CSS;Django;Node.js,user-0116;user-0163
+project-0045,user-0032,Course Recommender Mobile,ai-ml,idea,Python;scikit-learn;Deep Learning;Pandas,TensorFlow;Docker;Machine Learning,user-0032
+project-0046,user-0077,Password Auditor Mobile,security,idea,Python;Web Security;Network Security,Cryptography;Wireshark;Linux,user-0077;user-0506
+project-0047,user-0274,Certificate Verifier Lite,blockchain,in-progress,Solidity;JavaScript;React,Node.js;Cryptography,user-0274;user-0296;user-0914
+project-0048,user-0553,Study Group Finder 2.0,web,idea,React;JavaScript;TypeScript;MongoDB;Node.js;Redis,Docker;Express.js;WebSockets,user-0553
+project-0049,user-0115,Fitness Buddy Pro,mobile,completed,REST APIs;React Native;Swift;Firebase,TypeScript;Dart;Figma,user-0115
+project-0050,user-0192,Smart Plant Monitor Mobile,iot,in-progress,Python;Arduino;Embedded Systems,C++;C,user-0192
+project-0051,user-0691,Volunteer Connect AI,web,completed,Next.js;PostgreSQL,Node.js;WebSockets;Python,user-0691;user-0776;user-0248;user-0071;user-0784
+project-0052,user-0027,Air Quality Analysis for Clubs,data,in-progress,SQL;Python;ETL;Jupyter,Pandas;Data Analysis;Statistics,user-0027;user-0387;user-0860;user-0040
+project-0053,user-0820,Portfolio Builder for Clubs,web,in-progress,MongoDB;Docker;JavaScript;Python;React,PostgreSQL;Redis;WebSockets,user-0820;user-0372
+project-0054,user-0861,Campus Quest Pro,game,idea,Unreal Engine;Game Design;C++;Unity;Figma;C#,,user-0861;user-0528
+project-0055,user-0633,Infra Starter Kit Mobile,devops,completed,AWS;Kubernetes;Linux;Prometheus;Bash;CI/CD,Docker,user-0633;user-0300
+project-0056,user-0086,Portfolio Builder AI,web,idea,MongoDB;TypeScript,Redis;Django;Express.js,user-0086;user-0827
+project-0057,user-0659,Fitness Buddy AI,mobile,in-progress,Firebase;Flutter,Dart;REST APIs;Kotlin,user-0659;user-0600
+project-0058,user-0568,Network Scanner Dashboard 2.0,security,in-progress,Cryptography;Network Security;Python;Penetration Testing,Wireshark;OWASP Top 10;Web Security,user-0568
+project-0059,user-0046,Internship Tracker for Clubs,web,in-progress,WebSockets;PostgreSQL;React;Authentication,Python;TypeScript;Tailwind CSS,user-0046
+project-0060,user-0562,Internship Tracker AI,web,idea,TypeScript;React;Next.js;WebSockets;REST APIs,Node.js;Redis;PostgreSQL,user-0562;user-0904
+project-0061,user-0865,Sports Stats Explorer,data,in-progress,Tableau;Python,Power BI;SQL;Statistics,user-0865;user-0042;user-0518;user-0455;user-0112
+project-0062,user-0626,Portfolio Builder AI,web,completed,WebSockets;Tailwind CSS;JavaScript,React;MongoDB;Express.js,user-0626;user-0291;user-0673;user-0975
+project-0063,user-0446,Lecture Summarizer Mobile,ai-ml,in-progress,TensorFlow;Python;Docker;Computer Vision,PyTorch;Natural Language Processing,user-0446;user-0347;user-0224
+project-0064,user-0915,Phishing Simulator Pro,security,in-progress,Python;React;Web Security;OWASP Top 10;Linux,Network Security,user-0915
+project-0065,user-0904,Volunteer Connect,web,completed,Tailwind CSS;REST APIs;Next.js;Python;Node.js,MongoDB;JavaScript;WebSockets,user-0904;user-0212;user-0730
+project-0066,user-0059,Resume Screener,ai-ml,in-progress,Python;Machine Learning;Natural Language Processing;PyTorch;Large Language Models,Docker;Computer Vision,user-0059;user-0173;user-0016
+project-0067,user-0010,Infra Starter Kit Lite,devops,in-progress,Linux;CI/CD;AWS;Prometheus;GitHub Actions,Docker,user-0010
+project-0068,user-0273,Pixel Platformer AI,game,in-progress,Unity;C++;Game Design;C#;Unreal Engine,Figma,user-0273
+project-0069,user-0136,Campus Marketplace Lite,web,in-progress,REST APIs;Express.js;MongoDB;Tailwind CSS;Authentication;Python,Node.js;PostgreSQL,user-0136
+project-0070,user-0599,Lost & Found Lite,mobile,idea,React Native;Swift;Flutter;Firebase;REST APIs;TypeScript,Figma,user-0599;user-1000
+project-0071,user-0898,Resume Screener Mobile,ai-ml,idea,Python;Machine Learning;Deep Learning;PyTorch;Large Language Models,TensorFlow;Natural Language Processing;Pandas,user-0898;user-0578
+project-0072,user-0926,Habit Streaks 2.0,mobile,in-progress,Kotlin;TypeScript;React Native;Firebase;Dart,Swift,user-0926;user-0905;user-0245;user-0081
+project-0073,user-0014,Study Assistant Bot,ai-ml,in-progress,Docker;Large Language Models;scikit-learn;Deep Learning,PyTorch;TensorFlow;Pandas,user-0014
+project-0074,user-0504,Campus Marketplace AI,web,in-progress,Python;Docker;React;Node.js;Redis,Authentication;PostgreSQL;TypeScript,user-0504;user-0444;user-0530;user-0686;user-0194
+project-0075,user-0370,Placement Insights Mobile,data,idea,Pandas;Statistics;Data Visualization;Power BI;Python;ETL,,user-0370;user-0580;user-0394
+project-0076,user-0387,Sports Stats Explorer Mobile,data,in-progress,SQL;Python;Data Analysis;Pandas,Statistics;Tableau,user-0387;user-0821;user-0524
+project-0077,user-0887,Air Quality Analysis Mobile,data,idea,SQL;Python;Jupyter;Pandas,ETL;Statistics;Power BI,user-0887;user-0577;user-0514;user-0954
+project-0078,user-0934,Cluster Monitor AI,devops,in-progress,CI/CD;Docker;AWS;Kubernetes;Terraform,Bash;GitHub Actions,user-0934;user-0319
+project-0079,user-0574,Recipe Planner for Clubs,web,completed,WebSockets;Authentication;REST APIs;JavaScript,Redis;TypeScript;React,user-0574;user-0234;user-0642
+project-0080,user-0846,Campus Marketplace Mobile,web,completed,REST APIs;MongoDB;TypeScript;Docker;Next.js;Redis,Python;React,user-0846
+project-0081,user-0731,Sports Stats Explorer Mobile,data,in-progress,Python;Statistics;Pandas;Data Visualization;ETL;Tableau,SQL;Jupyter,user-0731;user-0130;user-0344
+project-0082,user-0154,Room Occupancy Sensor Mobile,iot,in-progress,Python;C;C++,React,user-0154;user-0671;user-0157
+project-0083,user-0763,Portfolio Builder Lite,web,idea,Node.js;React;REST APIs;Authentication,Tailwind CSS;Docker;PostgreSQL,user-0763;user-0919
+project-0084,user-0920,Campus Marketplace Pro,web,in-progress,Docker;Node.js;MongoDB;JavaScript;TypeScript;PostgreSQL,Redis;Python,user-0920;user-0697;user-0232
+project-0085,user-0491,Library Usage Trends,data,completed,Tableau;Power BI;Python;SQL;Data Visualization,Statistics;Jupyter;Pandas,user-0491
+project-0086,user-0545,Event Hub AI,web,in-progress,Tailwind CSS;JavaScript;REST APIs;Authentication;Docker,TypeScript;Express.js;Django,user-0545;user-0492;user-0562
+project-0087,user-0350,Recipe Planner 2.0,web,in-progress,Next.js;Authentication,Django;WebSockets;Python,user-0350;user-0804
+project-0088,user-0673,Event Hub 2.0,web,completed,Node.js;Docker,Tailwind CSS;Next.js;React,user-0673;user-0552
+project-0089,user-0070,Infra Starter Kit Pro,devops,completed,CI/CD;AWS;Bash;Prometheus;Linux;GitHub Actions,Terraform;Docker,user-0070;user-0704;user-0500
+project-0090,user-0872,Physics Puzzle,game,idea,C#;C++;Unity;Game Design;Unreal Engine,,user-0872;user-0711;user-0709
+project-0091,user-0631,Recipe Planner Mobile,web,in-progress,Node.js;React;MongoDB;JavaScript;REST APIs;PostgreSQL,Authentication;Redis;Python,user-0631;user-0880;user-0856;user-0030;user-0820
+project-0092,user-0500,Room Occupancy Sensor 2.0,iot,in-progress,C;C++,React;Embedded Systems;IoT,user-0500
+project-0093,user-0759,Sports Stats Explorer Pro,data,in-progress,ETL;Python;SQL;Pandas;Data Visualization;Jupyter,Statistics,user-0759
+project-0094,user-0888,Smart Plant Monitor 2.0,iot,completed,Arduino;C++;Python;React,MongoDB;Embedded Systems,user-0888;user-0783;user-0874;user-0753;user-0379
+project-0095,user-0476,Network Scanner Dashboard Lite,security,in-progress,Cryptography;Wireshark;OWASP Top 10;Penetration Testing;React;Web Security,Python,user-0476
+project-0096,user-0472,Cluster Monitor AI,devops,idea,Terraform;AWS;Docker;Bash;GitHub Actions;Prometheus,Kubernetes,user-0472;user-0015;user-0003;user-0884;user-0702
+project-0097,user-0245,Flashcard Coach AI,mobile,idea,REST APIs;React Native;Flutter;Swift;TypeScript,Figma;Dart,user-0245;user-1000
+project-0098,user-0087,Physics Puzzle AI,game,idea,Unreal Engine;Unity;C#;C++,Figma;Game Design,user-0087;user-0274
+project-0099,user-0321,Plant Disease Detector AI,ai-ml,idea,Python;Docker;Large Language Models;Pandas;TensorFlow,Deep Learning;scikit-learn;Computer Vision,user-0321;user-0356
+project-0100,user-0034,Password Auditor,security,idea,OWASP Top 10;Wireshark;Penetration Testing;Linux,Network Security,user-0034;user-0890;user-0958
+project-0101,user-0439,Event Hub AI,web,in-progress,PostgreSQL;MongoDB;REST APIs;Express.js;React,Redis;JavaScript;Authentication,user-0439;user-0527
+project-0102,user-0896,Portfolio Builder AI,web,idea,Python;Docker;MongoDB;PostgreSQL,Django;JavaScript;REST APIs,user-0896;user-0559;user-0086
+project-0103,user-0803,Expense Splitter for Clubs,web,completed,JavaScript;Python,React;PostgreSQL;Docker,user-0803;user-0183
+project-0104,user-0775,Lecture Summarizer Pro,ai-ml,in-progress,Python;TensorFlow;PyTorch;scikit-learn,Pandas;FastAPI;Natural Language Processing,user-0775;user-0047
+project-0105,user-0896,Resume Screener,ai-ml,completed,Python;Large Language Models;Deep Learning,Docker;FastAPI;Computer Vision,user-0896;user-0892;user-0970
+project-0106,user-0911,Network Scanner Dashboard,security,completed,Python;Linux;Wireshark;Web Security,Network Security;OWASP Top 10,user-0911
+project-0107,user-0699,Recipe Planner Lite,web,in-progress,React;Node.js;Authentication,PostgreSQL;Docker;JavaScript,user-0699
+project-0108,user-0191,Habit Streaks AI,mobile,in-progress,Swift;Firebase;Figma,Dart;Flutter;REST APIs,user-0191
+project-0109,user-0617,Pixel Platformer Lite,game,completed,C#;Game Design;Unity;C++,Figma;Unreal Engine,user-0617;user-0034
+project-0110,user-0806,Campus Marketplace 2.0,web,in-progress,Python;Docker;WebSockets,React;Node.js;Authentication,user-0806;user-0206;user-0712
+project-0111,user-0373,Plant Disease Detector AI,ai-ml,in-progress,Docker;Deep Learning;Python;TensorFlow;FastAPI;Natural Language Processing,Computer Vision;Pandas,user-0373
+project-0112,user-0368,Volunteer Connect Lite,web,idea,Redis;MongoDB;Docker;TypeScript;JavaScript,React;Authentication,user-0368;user-0060;user-0439;user-0667
+project-0113,user-0100,Energy Tracker Lite,iot,idea,Arduino;Embedded Systems;C;IoT;Python;C++,MongoDB,user-0100
+project-0114,user-0581,Portfolio Builder Mobile,web,idea,JavaScript;Python;Express.js;REST APIs;PostgreSQL;Authentication,Next.js;Redis,user-0581;user-0186
+project-0115,user-0544,Smart Plant Monitor,iot,in-progress,C;Arduino;Embedded Systems;IoT;C++,Python,user-0544;user-0281;user-0627;user-0888;user-0978
+project-0116,user-0490,Room Occupancy Sensor for Clubs,iot,idea,C;React,Arduino;C++;Embedded Systems,user-0490;user-0615;user-0479
+project-0117,user-0971,Plant Disease Detector Mobile,ai-ml,in-progress,Natural Language Processing;Docker;PyTorch;Python;FastAPI;scikit-learn,Computer Vision;Machine Learning;TensorFlow,user-0971;user-0059
+project-0118,user-0077,Resume Screener AI,ai-ml,idea,Python;Large Language Models;FastAPI;TensorFlow,scikit-learn;Machine Learning,user-0077;user-0283;user-0891
+project-0119,user-0695,Library Usage Trends AI,data,completed,Power BI;Jupyter;Data Visualization;Tableau;SQL,ETL;Python,user-0695;user-0134
+project-0120,user-0063,Portfolio Builder for Clubs,web,idea,Docker;JavaScript;Node.js;TypeScript;Express.js,Tailwind CSS;Next.js;Authentication,user-0063
+project-0121,user-0162,Infra Starter Kit Lite,devops,in-progress,Linux;AWS;Terraform;GitHub Actions,Prometheus;Docker,user-0162
+project-0122,user-0939,Network Scanner Dashboard Lite,security,in-progress,Web Security;OWASP Top 10;Python;Network Security,Penetration Testing;Cryptography;React,user-0939;user-0072;user-0171
+project-0123,user-0641,Fitness Buddy 2.0,mobile,idea,Swift;REST APIs;TypeScript;Dart;Kotlin,Figma,user-0641
+project-0124,user-0822,Expense Splitter 2.0,web,in-progress,JavaScript;Node.js;TypeScript;MongoDB,React;REST APIs;Django,user-0822
+project-0125,user-0447,Sports Stats Explorer AI,data,completed,Data Analysis;Pandas;Python;Power BI;Jupyter,SQL,user-0447;user-0192;user-0431;user-0289
+project-0126,user-0597,Network Scanner Dashboard Pro,security,completed,Python;React;Network Security;Penetration Testing,Cryptography;Linux,user-0597;user-0335;user-0707
+project-0127,user-0253,Event Hub 2.0,web,in-progress,Python;MongoDB;Next.js,PostgreSQL;Express.js;Tailwind CSS,user-0253;user-0752
+project-0128,user-0680,Course Recommender for Clubs,ai-ml,idea,Computer Vision;Natural Language Processing,Deep Learning;Pandas;scikit-learn,user-0680;user-0252;user-0184
+project-0129,user-0251,Password Auditor 2.0,security,idea,OWASP Top 10;Linux;Cryptography;Web Security,Python;React;Network Security,user-0251
+project-0130,user-0289,Library Usage Trends Pro,data,in-progress,Statistics;SQL;Power BI;Pandas,Data Visualization;Jupyter;Data Analysis,user-0289;user-0358
+project-0131,user-0025,Deploy Bot AI,devops,in-progress,Kubernetes;Terraform;Docker;CI/CD;Prometheus,Linux;GitHub Actions,user-0025;user-0751;user-0108;user-0409
+project-0132,user-0080,Phishing Simulator Pro,security,in-progress,OWASP Top 10;Linux;Wireshark,Network Security;Cryptography,user-0080;user-0376;user-0390;user-0990
+project-0133,user-0933,Cluster Monitor AI,devops,completed,CI/CD;Docker;GitHub Actions;Prometheus,Terraform;Bash;Linux,user-0933
+project-0134,user-0750,Smart Plant Monitor Pro,iot,idea,IoT;Arduino;Embedded Systems;Python;React;C,MongoDB,user-0750;user-0157;user-0573
+project-0135,user-0757,Energy Tracker Lite,iot,idea,Arduino;Embedded Systems;C;Python;C++,MongoDB;IoT,user-0757
+project-0136,user-0811,Password Auditor 2.0,security,in-progress,Python;Wireshark;Penetration Testing;Network Security;Linux,Web Security;React,user-0811;user-0475;user-0614
+project-0137,user-0413,Recipe Planner Mobile,web,in-progress,PostgreSQL;Node.js;REST APIs;Django,Next.js;Authentication,user-0413;user-0961
+project-0138,user-0366,Sentiment Dashboard AI,ai-ml,idea,Deep Learning;scikit-learn;Python;Machine Learning;Docker;Natural Language Processing,TensorFlow;Computer Vision;FastAPI,user-0366
+project-0139,user-0175,Placement Insights,data,in-progress,SQL;Python;ETL;Data Visualization;Tableau,,user-0175;user-0897;user-0524
+project-0140,user-0417,Study Assistant Bot 2.0,ai-ml,idea,Docker;Natural Language Processing;PyTorch,TensorFlow;Computer Vision,user-0417;user-0450;user-0533;user-0714
+project-0141,user-0658,Study Group Finder Lite,web,in-progress,JavaScript;Python;MongoDB;TypeScript;PostgreSQL;Next.js,Docker;Node.js,user-0658;user-0253
+project-0142,user-0612,Campus Marketplace,web,in-progress,TypeScript;JavaScript;Docker;Redis;Django;Authentication,Node.js;Next.js;Python,user-0612;user-0880
+project-0143,user-0073,Study Group Finder Pro,web,in-progress,Node.js;React;JavaScript;MongoDB;Express.js;Next.js,TypeScript;WebSockets;Django,user-0073
+project-0144,user-0265,Password Auditor 2.0,security,idea,Penetration Testing;Cryptography;OWASP Top 10;Python,Wireshark;React,user-0265;user-0791;user-0627
+project-0145,user-0222,Plant Disease Detector,ai-ml,in-progress,TensorFlow;Deep Learning;Docker;Computer Vision;Python,,user-0222
+project-0146,user-0166,Campus Navigator 2.0,mobile,in-progress,Swift;REST APIs;React Native;Flutter;Firebase;Dart,Figma;TypeScript;Kotlin,user-0166;user-0542;user-0292;user-0167
+project-0147,user-0753,Room Occupancy Sensor,iot,in-progress,IoT;Embedded Systems;C++;MongoDB;C;Arduino,Python;React,user-0753
+project-0148,user-0938,Recipe Planner AI,web,completed,REST APIs;Express.js;MongoDB,Authentication;JavaScript;Django,user-0938
+project-0149,user-0034,Campus Quest Lite,game,completed,C#;Unity;Game Design;C++,Figma,user-0034
+project-0150,user-0617,Physics Puzzle Lite,game,completed,C#;Game Design;Unity;Unreal Engine;C++,,user-0617
+project-0151,user-0184,Recipe Planner for Clubs,web,idea,TypeScript;Next.js;React;Express.js;Authentication,Node.js;Redis;Docker,user-0184
+project-0152,user-0935,Placement Insights 2.0,data,in-progress,Data Analysis;Tableau;Data Visualization;Jupyter;Statistics;Pandas,Python,user-0935;user-0962;user-0764;user-0675
+project-0153,user-0121,Air Quality Analysis Lite,data,in-progress,SQL;Power BI;Data Analysis;Pandas,Data Visualization,user-0121
+project-0154,user-0408,Campus Navigator Lite,mobile,in-progress,React Native;Firebase;Swift;REST APIs;Figma,Dart,user-0408
+project-0155,user-0133,Portfolio Builder Lite,web,in-progress,Python;JavaScript;WebSockets;React,Node.js,user-0133
+project-0156,user-0686,Campus Marketplace Pro,web,in-progress,Python;Docker,REST APIs;JavaScript;Redis,user-0686
+project-0157,user-0171,Password Auditor Mobile,security,idea,Cryptography;Penetration Testing;Linux;Python;React,Web Security;Network Security,user-0171;user-0849
+project-0158,user-0791,Room Occupancy Sensor Mobile,iot,in-progress,C;C++;Arduino;Embedded Systems;React,Python;MongoDB,user-0791;user-0123;user-0757;user-0608;user-0753
+project-0159,user-0497,Deploy Bot for Clubs,devops,in-progress,Kubernetes;Linux;Docker;Prometheus;GitHub Actions,Terraform;CI/CD,user-0497;user-0660;user-0259
+project-0160,user-0967,Plant Disease Detector Pro,ai-ml,idea,Python;Deep Learning;scikit-learn;PyTorch;Large Language Models,TensorFlow;Machine Learning;Natural Language Processing,user-0967;user-0469
+project-0161,user-0164,Campus Quest Pro,game,in-progress,C++;C#;Game Design;Unreal Engine;Figma,Unity,user-0164
+project-0162,user-0402,Phishing Simulator Lite,security,in-progress,Wireshark;Network Security;OWASP Top 10;Penetration Testing;Web Security,React;Cryptography,user-0402
+project-0163,user-0344,Resume Screener 2.0,ai-ml,idea,Deep Learning;Docker,Natural Language Processing;scikit-learn;Python,user-0344
+project-0164,user-0241,Room Occupancy Sensor Mobile,iot,completed,C++;Python;IoT;Embedded Systems;C,React,user-0241;user-0944
+project-0165,user-0702,Infra Starter Kit Pro,devops,idea,Terraform;AWS;Bash;CI/CD;Linux;Prometheus,GitHub Actions;Kubernetes,user-0702;user-0664
+project-0166,user-0145,Campus Marketplace for Clubs,web,completed,JavaScript;TypeScript;REST APIs;WebSockets;Express.js;Authentication,Django,user-0145;user-0156;user-0779;user-0790;user-0516
+project-0167,user-0615,Campus Marketplace 2.0,web,in-progress,REST APIs;Next.js;JavaScript;React;Django;MongoDB,PostgreSQL;Express.js,user-0615;user-0269
+project-0168,user-0369,Pixel Platformer 2.0,game,completed,Unreal Engine;C#;Unity;C++,Figma,user-0369
+project-0169,user-0052,Internship Tracker Pro,web,completed,Express.js;TypeScript;REST APIs;PostgreSQL;Authentication;Docker,Redis;JavaScript;Node.js,user-0052;user-0612
+project-0170,user-0560,Room Occupancy Sensor Pro,iot,completed,C;Embedded Systems;Arduino;Python;React,MongoDB;IoT,user-0560;user-0627
+project-0171,user-0929,Deploy Bot Pro,devops,in-progress,Docker;CI/CD;Kubernetes;Bash;Prometheus;Linux,,user-0929
+project-0172,user-0949,Deploy Bot for Clubs,devops,in-progress,Kubernetes;AWS;CI/CD;Linux,Bash;GitHub Actions;Docker,user-0949;user-0937;user-0762;user-0934
+project-0173,user-0965,Campus Quest Pro,game,in-progress,C#;Unreal Engine;Unity;C++;Figma,,user-0965;user-0709;user-0738
+project-0174,user-0756,Recipe Planner Mobile,web,in-progress,Python;Django;WebSockets,MongoDB;Docker;PostgreSQL,user-0756;user-0086
+project-0175,user-0152,Campus Navigator,mobile,completed,Swift;REST APIs;Flutter;Dart;Firebase;React Native,TypeScript;Kotlin,user-0152
+project-0176,user-0335,Course Recommender 2.0,ai-ml,in-progress,Python;Large Language Models;PyTorch;Docker,scikit-learn,user-0335
+project-0177,user-0090,Volunteer Connect Pro,web,in-progress,Python;Docker;REST APIs;MongoDB,Django;Node.js,user-0090
+project-0178,user-0953,Volunteer Connect,web,completed,JavaScript;Python;Redis;Node.js,REST APIs;Docker;MongoDB,user-0953;user-0597;user-0504
+project-0179,user-0821,Placement Insights Lite,data,idea,ETL;SQL;Python;Tableau;Statistics,Power BI,user-0821
+project-0180,user-0122,Internship Tracker Lite,web,in-progress,Python;MongoDB;Authentication;Django,Express.js;PostgreSQL;REST APIs,user-0122;user-0699
+project-0181,user-0748,Study Group Finder Lite,web,idea,Docker;JavaScript;PostgreSQL;Redis,Node.js;Authentication;MongoDB,user-0748;user-0947;user-0432;user-0635
+project-0182,user-0247,Study Assistant Bot Pro,ai-ml,in-progress,Docker;Machine Learning;Deep Learning;Natural Language Processing;Computer Vision,PyTorch;Pandas,user-0247
+project-0183,user-0987,Resume Screener Lite,ai-ml,in-progress,Machine Learning;Python;FastAPI;Natural Language Processing,Large Language Models;TensorFlow,user-0987;user-0119;user-0792;user-0506
+project-0184,user-0568,Network Scanner Dashboard Pro,security,completed,Cryptography;Network Security;Python;React,OWASP Top 10;Wireshark;Linux,user-0568;user-0780;user-0745
+project-0185,user-0015,Deploy Bot Mobile,devops,completed,CI/CD;Kubernetes;AWS;Terraform;GitHub Actions;Bash,Prometheus;Linux,user-0015;user-0454
+project-0186,user-0555,Recipe Planner,web,in-progress,Redis;Authentication;Node.js;Next.js;Django,Express.js;Docker;PostgreSQL,user-0555;user-0458;user-0566
+project-0187,user-0092,Volunteer Connect for Clubs,web,in-progress,Python;JavaScript;Node.js;Django;TypeScript;PostgreSQL,WebSockets;REST APIs,user-0092
+project-0188,user-0195,Placement Insights Pro,data,idea,SQL;ETL;Tableau;Jupyter;Statistics,Data Visualization,user-0195;user-0696;user-0688
+project-0189,user-0525,Cluster Monitor,devops,in-progress,Kubernetes;CI/CD;Terraform;Bash;Prometheus;GitHub Actions,AWS,user-0525;user-0454
+project-0190,user-0832,Campus Quest for Clubs,game,idea,Figma;Game Design,Unreal Engine;Unity,user-0832;user-0409;user-0895
+project-0191,user-0515,Pixel Platformer for Clubs,game,in-progress,Unity;Unreal Engine;C#;Game Design;C++,,user-0515;user-0724;user-0718
+project-0192,user-0718,Physics Puzzle for Clubs,game,in-progress,Unreal Engine;Unity;C#;Game Design,Figma,user-0718;user-0510
+project-0193,user-0474,Smart Plant Monitor Mobile,iot,in-progress,Arduino;C;Embedded Systems;C++;React,MongoDB,user-0474;user-0354
+project-0194,user-0951,Placement Insights Mobile,data,in-progress,Data Visualization;Data Analysis;SQL;Statistics;Jupyter;Tableau,Python,user-0951;user-0332;user-0076;user-0695
+project-0195,user-0785,Pixel Platformer,game,idea,Unity;Game Design;C#;C++;Unreal Engine,,user-0785;user-0079;user-0528
+project-0196,user-0578,Event Hub Pro,web,idea,REST APIs;Python;Express.js;Authentication,PostgreSQL;Django;React,user-0578;user-0616;user-0085
+project-0197,user-0925,Password Auditor Lite,security,in-progress,Wireshark;Python;Web Security;Cryptography,React;Network Security;OWASP Top 10,user-0925;user-0737
+project-0198,user-0720,Volunteer Connect Lite,web,completed,Docker;MongoDB;Node.js;Django;JavaScript;Express.js,Authentication;Redis,user-0720;user-0964;user-0931
+project-0199,user-0585,Plant Disease Detector Mobile,ai-ml,idea,Machine Learning;scikit-learn;Docker;TensorFlow;Large Language Models;PyTorch,Deep Learning,user-0585
+project-0200,user-0678,Cluster Monitor AI,devops,idea,Docker;Kubernetes;Prometheus;AWS;Terraform;GitHub Actions,CI/CD;Bash,user-0678;user-0279
+project-0201,user-0981,Sentiment Dashboard 2.0,ai-ml,completed,Python;Docker;Machine Learning;Large Language Models;Deep Learning,Computer Vision,user-0981;user-0039
+project-0202,user-0069,Internship Tracker for Clubs,web,completed,MongoDB;Python;Node.js,React;Tailwind CSS;Authentication,user-0069
+project-0203,user-0932,Study Assistant Bot Lite,ai-ml,idea,Python;Natural Language Processing;FastAPI;scikit-learn,PyTorch;Pandas;TensorFlow,user-0932;user-0076;user-0973
+project-0204,user-0932,Placement Insights Lite,data,idea,SQL;Python;Statistics;Tableau;Data Visualization;ETL,Pandas,user-0932;user-0622;user-0185
+project-0205,user-0268,Air Quality Analysis,data,in-progress,SQL;ETL;Python;Data Visualization;Power BI;Tableau,Jupyter;Statistics,user-0268;user-0434;user-0271
+project-0206,user-0871,Plant Disease Detector Lite,ai-ml,in-progress,Machine Learning;Docker;Python;PyTorch;Large Language Models,Deep Learning;Natural Language Processing;Pandas,user-0871;user-0981
+project-0207,user-0401,Event Hub Mobile,web,idea,MongoDB;Express.js;Redis;REST APIs;Tailwind CSS,WebSockets;TypeScript,user-0401
+project-0208,user-0695,Library Usage Trends,data,completed,Power BI;Jupyter;Data Visualization;Statistics;SQL;Python,,user-0695;user-0021
+project-0209,user-0468,Campus Marketplace 2.0,web,idea,MongoDB;PostgreSQL;Redis;REST APIs;Authentication,Tailwind CSS;Python;Django,user-0468;user-0993
+project-0210,user-0708,Campus Marketplace 2.0,web,in-progress,Docker;REST APIs;MongoDB;WebSockets;Express.js,React;Authentication,user-0708;user-0323;user-0539;user-0720
+project-0211,user-0220,Air Quality Analysis for Clubs,data,in-progress,Python;ETL;SQL;Tableau;Data Visualization,Pandas,user-0220
+project-0212,user-0121,Fitness Buddy Lite,mobile,in-progress,REST APIs;TypeScript;Kotlin;Dart;React Native,Figma,user-0121;user-0606;user-0168
+project-0213,user-0164,Course Recommender AI,ai-ml,in-progress,scikit-learn;FastAPI;Python;TensorFlow,Machine Learning;Docker;Natural Language Processing,user-0164
+project-0214,user-0780,Network Scanner Dashboard Lite,security,in-progress,Python;Penetration Testing;Cryptography;OWASP Top 10,Linux;React;Web Security,user-0780;user-0514
+project-0215,user-0498,Volunteer Connect Lite,web,idea,Python;Docker;WebSockets,REST APIs;React;PostgreSQL,user-0498;user-0291;user-0320;user-0067
+project-0216,user-0895,Cluster Monitor Mobile,devops,completed,Kubernetes;Docker;AWS;Bash;Prometheus,CI/CD;Terraform,user-0895;user-0664;user-0400;user-0008
+project-0217,user-0418,Study Assistant Bot Mobile,ai-ml,in-progress,Docker;Python;Pandas;PyTorch;Large Language Models;Deep Learning,scikit-learn;TensorFlow,user-0418;user-0278
+project-0218,user-0029,Event Hub Lite,web,in-progress,Python;Express.js,MongoDB;Authentication;Docker,user-0029;user-0026;user-0201
+project-0219,user-0900,Expense Splitter,web,in-progress,React;TypeScript;Python;Next.js;REST APIs,MongoDB;Redis;Docker,user-0900;user-0252;user-0703;user-0980
+project-0220,user-0690,Volunteer Connect for Clubs,web,in-progress,REST APIs;Authentication;Redis,Next.js;Tailwind CSS;TypeScript,user-0690;user-0234;user-0365
+project-0221,user-0444,Portfolio Builder,web,completed,Python;JavaScript;Express.js;Redis,WebSockets;TypeScript,user-0444
+project-0222,user-0509,Expense Splitter for Clubs,web,in-progress,Express.js;Node.js;REST APIs,JavaScript;Django;PostgreSQL,user-0509
+project-0223,user-0952,Lecture Summarizer Pro,ai-ml,idea,Python;Deep Learning;Machine Learning;TensorFlow;scikit-learn;Pandas,Computer Vision;FastAPI;Natural Language Processing,user-0952
+project-0224,user-0796,Library Usage Trends Mobile,data,idea,Jupyter;Statistics;Pandas;Power BI;ETL,Python,user-0796;user-0928
+project-0225,user-0329,Deploy Bot,devops,in-progress,Terraform;AWS;Linux;Bash;Prometheus;Kubernetes,GitHub Actions;Docker,user-0329;user-0095
+project-0226,user-0469,Fitness Buddy,mobile,completed,REST APIs;React Native;Swift;TypeScript,Figma;Firebase,user-0469
+project-0227,user-0779,Study Group Finder Pro,web,completed,TypeScript;JavaScript;Tailwind CSS;Authentication,PostgreSQL;WebSockets;Docker,user-0779;user-0703
+project-0228,user-0755,Physics Puzzle Mobile,game,in-progress,C#;Figma;C++;Game Design,Unity,user-0755;user-0855;user-0012
+project-0229,user-0510,Pixel Platformer 2.0,game,in-progress,Game Design;Unity;C#;Figma,Unreal Engine,user-0510;user-0785;user-0844
+project-0230,user-0616,Plant Disease Detector Pro,ai-ml,in-progress,TensorFlow;Deep Learning;scikit-learn;Computer Vision;Pandas;PyTorch,Natural Language Processing;Large Language Models,user-0616;user-0204;user-0418
+project-0231,user-0116,Study Group Finder Lite,web,idea,Express.js;Node.js;REST APIs;MongoDB,Next.js;Authentication;WebSockets,user-0116;user-0163;user-0234
+project-0232,user-0645,Resume Screener Mobile,ai-ml,in-progress,Deep Learning;Pandas;scikit-learn;Natural Language Processing;Machine Learning;Docker,Large Language Models;FastAPI,user-0645
+project-0233,user-0862,Resume Screener AI,ai-ml,in-progress,Python;Computer Vision;Deep Learning,Large Language Models;Docker,user-0862
+project-0234,user-0883,Sports Stats Explorer for Clubs,data,in-progress,SQL;Data Visualization;Statistics;Data Analysis;Pandas;Tableau,ETL;Power BI;Jupyter,user-0883;user-0185
+project-0235,user-0016,Study Assistant Bot AI,ai-ml,in-progress,PyTorch;FastAPI;Large Language Models;TensorFlow,Deep Learning;Docker;Machine Learning,user-0016
+project-0236,user-0873,Study Group Finder for Clubs,web,completed,Python;WebSockets;Next.js,Tailwind CSS;MongoDB;JavaScript,user-0873
+project-0237,user-0341,Study Assistant Bot,ai-ml,in-progress,Python;Machine Learning;scikit-learn;Natural Language Processing;PyTorch,Docker;Large Language Models,user-0341
+project-0238,user-0644,Event Hub,web,in-progress,JavaScript;WebSockets;Django;PostgreSQL;Tailwind CSS,REST APIs;Express.js,user-0644
+project-0239,user-0169,Resume Screener AI,ai-ml,in-progress,Python;TensorFlow,Natural Language Processing;Computer Vision;Pandas,user-0169;user-0698;user-0434
+project-0240,user-0120,Deploy Bot Lite,devops,completed,Linux;AWS;Docker;GitHub Actions;Bash;Prometheus,Kubernetes;Terraform,user-0120;user-0623;user-0989;user-0751
+project-0241,user-0605,Lost & Found AI,mobile,idea,Figma;Swift;Dart,Firebase;TypeScript,user-0605;user-0434
+project-0242,user-0296,Campus Quest Lite,game,completed,C++;Unity;C#;Figma,Game Design,user-0296;user-0007;user-0528
+project-0243,user-0313,Library Usage Trends Lite,data,in-progress,Tableau;Pandas;SQL;Statistics;Data Analysis,Power BI;Jupyter,user-0313;user-0962;user-0485
+project-0244,user-0326,Portfolio Builder AI,web,idea,React;Tailwind CSS;MongoDB,Express.js;Next.js;JavaScript,user-0326
+project-0245,user-0720,Expense Splitter 2.0,web,completed,Docker;MongoDB;Node.js;Tailwind CSS;WebSockets,PostgreSQL;Next.js;Redis,user-0720;user-0708;user-0229
+project-0246,user-0119,Phishing Simulator,security,completed,Python;Web Security;React;Penetration Testing,Linux;Network Security,user-0119
+project-0247,user-0305,Expense Splitter for Clubs,web,idea,Redis;REST APIs;PostgreSQL;Docker;Next.js,Node.js;Python;React,user-0305
+project-0248,user-0961,Portfolio Builder 2.0,web,completed,REST APIs;Node.js;Docker;TypeScript;React,Python;Redis;Tailwind CSS,user-0961;user-0566;user-0920
+project-0249,user-0971,Cluster Monitor 2.0,devops,in-progress,Docker;GitHub Actions,Bash;Kubernetes;CI/CD,user-0971;user-0217
+project-0250,user-0139,Campus Marketplace Mobile,web,idea,Python;Tailwind CSS;MongoDB;Redis,TypeScript;Authentication,user-0139
+project-0251,user-0788,Deploy Bot AI,devops,completed,AWS;Docker;CI/CD;Bash;Prometheus,Terraform;Kubernetes,user-0788
+project-0252,user-0628,Expense Splitter Pro,web,in-progress,Python;JavaScript;MongoDB;PostgreSQL,Express.js,user-0628
+project-0253,user-0314,Placement Insights for Clubs,data,idea,SQL;ETL;Python;Jupyter;Pandas;Data Analysis,Power BI;Data Visualization,user-0314;user-0688;user-0589;user-0694;user-0038
+project-0254,user-0483,Room Occupancy Sensor,iot,completed,C;IoT;Arduino;Python,React;Embedded Systems,user-0483;user-0281
+project-0255,user-0505,Volunteer Connect AI,web,idea,Docker;PostgreSQL,REST APIs;React;Node.js,user-0505
+project-0256,user-0478,Smart Plant Monitor AI,iot,completed,C;IoT;Embedded Systems;C++,React,user-0478;user-0178;user-0103
+project-0257,user-0769,Sentiment Dashboard for Clubs,ai-ml,in-progress,Machine Learning;Deep Learning;Python;PyTorch;FastAPI;Natural Language Processing,Computer Vision;Large Language Models;TensorFlow,user-0769
+project-0258,user-0887,Phishing Simulator for Clubs,security,in-progress,Cryptography;Network Security;Linux;Penetration Testing,React;Web Security,user-0887;user-0189
+project-0259,user-0762,Infra Starter Kit for Clubs,devops,in-progress,CI/CD;Linux;AWS;Docker;Terraform,Kubernetes,user-0762;user-0008
+project-0260,user-0693,Phishing Simulator Lite,security,in-progress,Python;OWASP Top 10;Cryptography;Penetration Testing;React;Web Security,Linux,user-0693
+project-0261,user-0212,Portfolio Builder Pro,web,completed,Next.js;JavaScript;REST APIs;Django;Express.js;Docker,PostgreSQL,user-0212;user-0545;user-0499;user-0863
+project-0262,user-0076,Sports Stats Explorer Lite,data,in-progress,Statistics;Pandas;Data Analysis;Python;Power BI;Tableau,SQL;Jupyter,user-0076;user-0051;user-0380
+project-0263,user-0619,Campus Marketplace for Clubs,web,in-progress,Node.js;REST APIs;Authentication;Tailwind CSS;MongoDB;Next.js,Express.js;Django;Docker,user-0619
+project-0264,user-0935,Air Quality Analysis 2.0,data,completed,Data Analysis;Tableau;Data Visualization;Python,Pandas;Power BI;Jupyter,user-0935
+project-0265,user-0099,Volunteer Connect Mobile,web,completed,JavaScript;TypeScript;React,Express.js;Python,user-0099
+project-0266,user-0858,Network Scanner Dashboard Lite,security,in-progress,Network Security;Python;Web Security;Cryptography;Linux;Wireshark,React,user-0858;user-0301
+project-0267,user-0589,Sports Stats Explorer for Clubs,data,in-progress,Python;SQL;Power BI;Statistics,Pandas,user-0589;user-0992
+project-0268,user-0908,Volunteer Connect for Clubs,web,idea,JavaScript;Python;Redis;Tailwind CSS,Docker;Authentication;Next.js,user-0908;user-0208
+project-0269,user-0557,Fitness Buddy Pro,mobile,in-progress,Flutter;REST APIs;Firebase;Swift;React Native,Kotlin;Dart;TypeScript,user-0557;user-0058;user-0689;user-0799
+project-0270,user-0176,Air Quality Analysis Lite,data,completed,Statistics;Data Analysis;SQL;Python,ETL;Power BI;Tableau,user-0176
+project-0271,user-0057,Event Hub AI,web,idea,JavaScript;REST APIs;Next.js;PostgreSQL,Express.js;MongoDB;Python,user-0057
+project-0272,user-0637,Placement Insights Mobile,data,in-progress,Python;SQL;ETL;Statistics;Pandas;Power BI,Data Visualization;Tableau;Data Analysis,user-0637;user-0005;user-0494
+project-0273,user-0041,Fitness Buddy for Clubs,mobile,in-progress,TypeScript;Swift;Flutter;Kotlin;React Native,,user-0041
+project-0274,user-0566,Portfolio Builder,web,in-progress,REST APIs;Node.js;Docker;PostgreSQL;Python,Authentication;Django;Redis,user-0566;user-0555
+project-0275,user-0045,Physics Puzzle AI,game,idea,Figma;C++;Unreal Engine;C#,Unity,user-0045
+project-0276,user-0391,Deploy Bot,devops,idea,CI/CD;AWS;Docker;Linux;Bash;Prometheus,GitHub Actions;Kubernetes,user-0391
+project-0277,user-0942,Plant Disease Detector AI,ai-ml,idea,Python;Machine Learning;Deep Learning;Pandas;Large Language Models,PyTorch;FastAPI;scikit-learn,user-0942
+project-0278,user-0752,Portfolio Builder for Clubs,web,idea,Python;MongoDB;React;Authentication,Redis;Next.js;PostgreSQL,user-0752;user-0893;user-0470;user-0806;user-0099
+project-0279,user-0082,Pixel Platformer for Clubs,game,completed,Unreal Engine;C#,Figma;Game Design;Unity,user-0082;user-0253;user-0752;user-0186
+project-0280,user-0125,Event Hub Pro,web,completed,Authentication;JavaScript;REST APIs;Express.js;Redis,WebSockets;React;Docker,user-0125;user-0405
+project-0281,user-0335,Study Assistant Bot for Clubs,ai-ml,in-progress,Python;Docker;Deep Learning;Machine Learning,Large Language Models;Computer Vision;scikit-learn,user-0335;user-0533;user-0098
+project-0282,user-0003,Deploy Bot Lite,devops,idea,Linux;Terraform;CI/CD;GitHub Actions,Kubernetes;Prometheus,user-0003
+project-0283,user-0516,Study Group Finder Pro,web,idea,React;TypeScript;JavaScript;PostgreSQL;Express.js;Redis,Node.js;REST APIs,user-0516;user-0904;user-0779
+project-0284,user-0436,Cluster Monitor for Clubs,devops,idea,Docker;Linux;Terraform;CI/CD;Kubernetes,Bash;Prometheus,user-0436;user-0702
+project-0285,user-0236,Campus Quest for Clubs,game,completed,C++;Figma;C#,Unreal Engine;Unity;Game Design,user-0236;user-0655;user-0507
+project-0286,user-0929,Deploy Bot Pro,devops,in-progress,Docker;CI/CD;Kubernetes;Prometheus;AWS,GitHub Actions;Linux;Terraform,user-0929;user-0678;user-0349
+project-0287,user-0735,Smart Plant Monitor 2.0,iot,in-progress,IoT;Arduino;C++;React;C,Embedded Systems,user-0735;user-0379
+project-0288,user-0826,Internship Tracker,web,in-progress,Python;JavaScript;Authentication,Django;Express.js;Next.js,user-0826;user-0488;user-0841
+project-0289,user-0914,Physics Puzzle 2.0,game,completed,Unreal Engine;Unity;C#,Game Design;C++,user-0914;user-0617;user-0743
+project-0290,user-0140,Recipe Planner AI,web,in-progress,Next.js;MongoDB;TypeScript,Authentication;PostgreSQL;Tailwind CSS,user-0140
+project-0291,user-0789,Lecture Summarizer Mobile,ai-ml,idea,Python;Docker;Deep Learning;FastAPI;Computer Vision,PyTorch;Large Language Models,user-0789
+project-0292,user-0075,Study Group Finder Mobile,web,in-progress,Express.js;MongoDB;Authentication;Redis;Next.js;React,JavaScript;Node.js,user-0075
+project-0293,user-0858,Flashcard Coach Pro,mobile,in-progress,Swift;Dart,Figma;Flutter;React Native,user-0858;user-0922;user-0765;user-0939
+project-0294,user-0920,Volunteer Connect Mobile,web,completed,Docker;Node.js;MongoDB;REST APIs;Redis,Django,user-0920
+project-0295,user-0064,Cluster Monitor Lite,devops,in-progress,Docker;Bash,Terraform;Prometheus;AWS,user-0064
+project-0296,user-0458,Portfolio Builder,web,in-progress,Node.js;Express.js;PostgreSQL;React;Docker;Python,TypeScript;MongoDB,user-0458;user-0715
+project-0297,user-0317,Campus Marketplace for Clubs,web,in-progress,Python;MongoDB;Docker,WebSockets;Node.js;JavaScript,user-0317
+project-0298,user-0032,Study Assistant Bot Mobile,ai-ml,in-progress,Python;scikit-learn;Deep Learning;Docker;Pandas;Machine Learning,TensorFlow;PyTorch;Large Language Models,user-0032
+project-0299,user-0931,Campus Marketplace Pro,web,idea,Authentication;MongoDB;Node.js;Django;Python;Next.js,Tailwind CSS;WebSockets,user-0931;user-0797;user-0539
+project-0300,user-0668,Physics Puzzle,game,in-progress,Game Design;C++;C#;Unreal Engine;Figma,,user-0668
+project-0301,user-0010,Pixel Platformer for Clubs,game,idea,Figma;C++,Unreal Engine;Game Design;C#,user-0010;user-0906;user-0836
+project-0302,user-0394,Sports Stats Explorer AI,data,in-progress,Data Analysis;Tableau;Python;SQL;Data Visualization;Statistics,Power BI;Jupyter,user-0394;user-0358;user-0816
+project-0303,user-0888,Room Occupancy Sensor Mobile,iot,completed,Arduino;C++;Python;IoT;React;MongoDB,C,user-0888;user-0915
+project-0304,user-0065,Smart Plant Monitor for Clubs,iot,idea,C++;IoT;C;Python,Embedded Systems,user-0065;user-0384
+project-0305,user-0319,Cluster Monitor,devops,in-progress,Docker;AWS;Terraform;Prometheus;Kubernetes,GitHub Actions;CI/CD,user-0319;user-0982
+project-0306,user-0936,Recipe Planner Pro,web,in-progress,Python;TypeScript;WebSockets;PostgreSQL;Express.js,MongoDB;Django,user-0936
+project-0307,user-0786,Course Recommender,ai-ml,idea,Docker;Python;Computer Vision;Large Language Models;Natural Language Processing,TensorFlow;Deep Learning,user-0786;user-0055;user-0367
+project-0308,user-0882,Library Usage Trends Lite,data,in-progress,ETL;SQL;Python;Tableau,Pandas;Power BI,user-0882;user-0860;user-0501
+project-0309,user-0431,Placement Insights,data,idea,SQL;Python;Statistics;Pandas;ETL,Power BI;Tableau;Jupyter,user-0431;user-0313;user-0028
+project-0310,user-0403,Air Quality Analysis AI,data,idea,Pandas;Python;Data Visualization;Tableau;ETL,Power BI;Statistics,user-0403
+project-0311,user-0409,Expense Splitter,web,in-progress,Python;Next.js;Authentication;Django;Tailwind CSS,Redis;Node.js;Docker,user-0409;user-0329;user-0746
+project-0312,user-0476,Password Auditor 2.0,security,in-progress,Cryptography;Wireshark;OWASP Top 10;React;Web Security;Penetration Testing,Network Security;Linux,user-0476
+project-0313,user-0907,Portfolio Builder,web,completed,Docker;MongoDB;React;TypeScript,Redis;REST APIs;Next.js,user-0907;user-0442;user-0062;user-0505
+project-0314,user-0737,Password Auditor Pro,security,completed,Penetration Testing;Linux;Network Security;Python;OWASP Top 10,Cryptography,user-0737;user-0118
+project-0315,user-0355,Portfolio Builder AI,web,idea,MongoDB;JavaScript;React;Authentication;WebSockets,Tailwind CSS;Next.js;Node.js,user-0355
+project-0316,user-0201,Recipe Planner Pro,web,idea,PostgreSQL;TypeScript;Django;Authentication,React;Redis;Docker,user-0201
+project-0317,user-0544,Smart Plant Monitor for Clubs,iot,in-progress,C;Arduino;Embedded Systems;IoT;Python;MongoDB,C++,user-0544
+project-0318,user-0897,Air Quality Analysis for Clubs,data,in-progress,Python;SQL;ETL;Power BI;Pandas,Data Analysis;Jupyter,user-0897;user-0524
+project-0319,user-0730,Volunteer Connect for Clubs,web,in-progress,React;REST APIs;JavaScript;Express.js;PostgreSQL;Redis,Django;WebSockets;Authentication,user-0730
+project-0320,user-0929,Cluster Monitor 2.0,devops,in-progress,Docker;CI/CD;Kubernetes;GitHub Actions;AWS,Prometheus,user-0929;user-0421
+project-0321,user-0693,Phishing Simulator AI,security,in-progress,Python;OWASP Top 10;Cryptography;Web Security;Wireshark,React,user-0693;user-0399
+project-0322,user-0113,Network Scanner Dashboard Lite,security,in-progress,Penetration Testing;Python;Cryptography;Wireshark,Network Security;OWASP Top 10,user-0113;user-0745;user-0251
+project-0323,user-0240,Phishing Simulator Pro,security,in-progress,OWASP Top 10;Linux;Cryptography;Web Security,Python,user-0240;user-0514;user-0858
+project-0324,user-0662,Cluster Monitor AI,devops,completed,Docker;Linux;Kubernetes;GitHub Actions;CI/CD;Bash,Terraform,user-0662;user-0702
+project-0325,user-0916,Flashcard Coach Lite,mobile,idea,Firebase;Kotlin;Flutter;Figma;TypeScript;Dart,React Native,user-0916;user-0058
+project-0326,user-0559,Internship Tracker Lite,web,in-progress,Python;Docker;Django;Redis,REST APIs;MongoDB,user-0559;user-0907;user-0291;user-0304
+project-0327,user-0170,Phishing Simulator Lite,security,completed,Python;Wireshark;Linux;React;Web Security;Penetration Testing,OWASP Top 10,user-0170;user-0778;user-0661
+project-0328,user-0783,Internship Tracker for Clubs,web,idea,Python;Node.js;Docker;MongoDB,Next.js;PostgreSQL;WebSockets,user-0783;user-0483;user-0596;user-0205
+project-0329,user-0208,Study Group Finder 2.0,web,in-progress,MongoDB;Tailwind CSS;Express.js;REST APIs,Node.js;Redis;React,user-0208
+project-0330,user-0754,Expense Splitter Lite,web,in-progress,Node.js;Express.js;PostgreSQL;JavaScript;Docker,MongoDB;WebSockets;Python,user-0754;user-0649
+project-0331,user-0863,Recipe Planner for Clubs,web,in-progress,JavaScript;TypeScript;WebSockets;REST APIs;Python,Redis;Tailwind CSS;Docker,user-0863;user-0980
+project-0332,user-0477,Fitness Buddy for Clubs,mobile,in-progress,Flutter;TypeScript;React Native;Swift,Dart,user-0477
+project-0333,user-0820,Volunteer Connect for Clubs,web,in-progress,MongoDB;Docker;JavaScript;React;Tailwind CSS,PostgreSQL;Express.js;Authentication,user-0820;user-0640;user-0781;user-0676
+project-0334,user-0150,Placement Insights Pro,data,idea,SQL;Power BI;Python;Data Visualization,Jupyter,user-0150
+project-0335,user-0865,Placement Insights Mobile,data,in-progress,SQL;Statistics;Power BI,Jupyter;Tableau;Python,user-0865;user-0899;user-0071;user-0029
+project-0336,user-0774,Room Occupancy Sensor Pro,iot,in-progress,Embedded Systems;C;IoT;MongoDB,Python,user-0774;user-0753;user-0148;user-0281
+project-0337,user-0156,Library Usage Trends AI,data,idea,Power BI;Tableau;Pandas,Statistics;Data Visualization;SQL,user-0156;user-0572;user-0779
+project-0338,user-0251,Phishing Simulator Lite,security,completed,OWASP Top 10;Linux;Cryptography;Python;React,,user-0251
+project-0339,user-0694,Placement Insights Mobile,data,in-progress,Python;SQL;ETL;Statistics;Data Visualization,Jupyter;Data Analysis,user-0694;user-0997
+project-0340,user-0127,Expense Splitter Pro,web,in-progress,Python;TypeScript;Docker;Node.js,WebSockets;Authentication;Next.js,user-0127;user-0158;user-0843
+project-0341,user-0508,Network Scanner Dashboard 2.0,security,in-progress,Cryptography;Wireshark;Linux;Network Security,OWASP Top 10;Penetration Testing,user-0508;user-0737
+project-0342,user-0704,Infra Starter Kit Pro,devops,idea,Bash;Docker;Linux;Kubernetes;GitHub Actions,CI/CD;AWS,user-0704;user-0660
+project-0343,user-0949,Infra Starter Kit for Clubs,devops,completed,Kubernetes;AWS;CI/CD;Bash;Linux,Prometheus;Terraform,user-0949;user-0055;user-0744;user-0937
+project-0344,user-0875,Physics Puzzle for Clubs,game,idea,C++;C#;Unreal Engine;Figma,Unity;Game Design,user-0875
+project-0345,user-0794,Cluster Monitor AI,devops,in-progress,Linux;Terraform;Prometheus;CI/CD,AWS;Docker;GitHub Actions,user-0794
+project-0346,user-0431,Library Usage Trends 2.0,data,in-progress,SQL;Python;Statistics;Power BI;Pandas,Data Analysis;Tableau;Jupyter,user-0431;user-0771;user-0257;user-0622
+project-0347,user-0171,Password Auditor Pro,security,idea,Cryptography;Penetration Testing;Linux;Wireshark;Python;OWASP Top 10,Web Security,user-0171;user-0819;user-0858
+project-0348,user-0220,Lecture Summarizer Lite,ai-ml,in-progress,Python;Pandas;TensorFlow;PyTorch,Large Language Models;Machine Learning;Deep Learning,user-0220
+project-0349,user-0142,Campus Quest 2.0,game,idea,Figma;Game Design,Unity;C#,user-0142;user-0826;user-0505
+project-0350,user-0433,Cluster Monitor 2.0,devops,in-progress,Linux;Docker;Kubernetes,Bash;Terraform;GitHub Actions,user-0433
+project-0351,user-0324,Energy Tracker for Clubs,iot,idea,C++;Arduino;Embedded Systems;MongoDB;IoT,React,user-0324;user-0483;user-0474;user-0428
+project-0352,user-0839,Portfolio Builder,web,completed,REST APIs;TypeScript;MongoDB;Authentication;Tailwind CSS;Django,JavaScript;Node.js,user-0839;user-0820
+project-0353,user-0357,Plant Disease Detector for Clubs,ai-ml,in-progress,Python;Natural Language Processing;FastAPI,Docker;Computer Vision;PyTorch,user-0357;user-0162;user-0762;user-0726
+project-0354,user-0386,Lecture Summarizer Mobile,ai-ml,idea,Python;Pandas;PyTorch;FastAPI,TensorFlow;Deep Learning;scikit-learn,user-0386;user-0513
+project-0355,user-0190,Campus Marketplace,web,in-progress,React;Tailwind CSS;REST APIs;Authentication;Next.js;Redis,WebSockets,user-0190;user-0790;user-0837;user-0242
+project-0356,user-0368,Expense Splitter 2.0,web,idea,Redis;MongoDB;Docker;Tailwind CSS;Authentication,Next.js;React;TypeScript,user-0368;user-0812;user-0458
+project-0357,user-0121,Placement Insights,data,in-progress,SQL;Statistics;Data Analysis,Jupyter;ETL;Data Visualization,user-0121
+project-0358,user-0773,Deploy Bot Lite,devops,in-progress,Bash;Prometheus;Kubernetes;CI/CD;Docker,Linux;AWS;Terraform,user-0773;user-0652
+project-0359,user-0784,Physics Puzzle for Clubs,game,idea,Figma;Unreal Engine;Game Design;Unity;C++,C#,user-0784;user-0639;user-0026
+project-0360,user-0445,Study Assistant Bot Lite,ai-ml,in-progress,TensorFlow;Machine Learning;PyTorch;Deep Learning;scikit-learn;Python,,user-0445;user-0851;user-0373
+project-0361,user-0857,Flashcard Coach 2.0,mobile,in-progress,REST APIs;Kotlin;Figma;Swift,Flutter;Firebase;React Native,user-0857;user-0799;user-0606;user-0641
+project-0362,user-0715,Internship Tracker AI,web,idea,Node.js;REST APIs;PostgreSQL;Express.js;Authentication;TypeScript,Next.js;React;Redis,user-0715
+project-0363,user-0863,Expense Splitter Mobile,web,completed,JavaScript;TypeScript;Docker;REST APIs;Django;MongoDB,Node.js;Redis;WebSockets,user-0863;user-0242
+project-0364,user-0120,Infra Starter Kit Mobile,devops,in-progress,Linux;AWS;Docker;Terraform,Prometheus;GitHub Actions,user-0120
+project-0365,user-0974,Volunteer Connect 2.0,web,completed,REST APIs;Docker;Node.js;Next.js;Django;Python,TypeScript;Express.js;JavaScript,user-0974;user-0612
+project-0366,user-0099,Recipe Planner Lite,web,completed,JavaScript;Express.js;MongoDB;Django,REST APIs;Python;Node.js,user-0099;user-0208
+project-0367,user-0598,Resume Screener AI,ai-ml,completed,TensorFlow;Python;Docker;scikit-learn;Pandas,FastAPI;Machine Learning,user-0598;user-0727
+project-0368,user-0532,Campus Quest 2.0,game,in-progress,Game Design;Figma;Unreal Engine,Unity;C#,user-0532
+project-0369,user-0071,Event Hub,web,in-progress,Redis;WebSockets;Authentication;Tailwind CSS,Express.js;Django,user-0071
+project-0370,user-0148,Phishing Simulator Mobile,security,idea,Linux;Python;OWASP Top 10,Web Security;Network Security,user-0148;user-0774;user-0128
+project-0371,user-0334,Physics Puzzle Mobile,game,idea,C++;Game Design;Unreal Engine,Unity;C#;Figma,user-0334;user-0711;user-0914
+project-0372,user-0704,Cluster Monitor AI,devops,idea,Bash;Docker;Linux;Prometheus;CI/CD;AWS,GitHub Actions,user-0704
+project-0373,user-0402,Network Scanner Dashboard Pro,security,idea,Wireshark;Network Security;OWASP Top 10;Linux;React;Cryptography,Python,user-0402;user-0807;user-0778
+project-0374,user-0881,Deploy Bot for Clubs,devops,completed,AWS;Linux;Terraform;Docker;GitHub Actions;CI/CD,Prometheus,user-0881;user-0497;user-0677;user-0700
+project-0375,user-0598,Cluster Monitor Pro,devops,in-progress,Docker;AWS;Prometheus;Kubernetes,Terraform,user-0598;user-0039
+project-0376,user-0510,Deploy Bot 2.0,devops,idea,AWS;Terraform;Docker,Kubernetes;Bash;Linux,user-0510
+project-0377,user-0497,Infra Starter Kit 2.0,devops,idea,Kubernetes;Linux;Docker;AWS;Bash,Terraform,user-0497
+project-0378,user-0396,Pixel Platformer Lite,game,in-progress,Unity;Unreal Engine;C++;C#;Figma,Game Design,user-0396;user-0852
+project-0379,user-0033,Network Scanner Dashboard for Clubs,security,completed,Cryptography;Web Security;Linux;Python,Wireshark;OWASP Top 10;Penetration Testing,user-0033
+project-0380,user-0465,Campus Marketplace AI,web,in-progress,Authentication;Node.js;TypeScript;Redis;Django;REST APIs,Tailwind CSS,user-0465;user-0805;user-0151
+project-0381,user-0979,Internship Tracker Pro,web,idea,Node.js;Authentication;TypeScript;Express.js;Redis;Django,Python;JavaScript;Next.js,user-0979
+project-0382,user-0933,Cluster Monitor Lite,devops,completed,CI/CD;Bash;GitHub Actions;Terraform;Linux,AWS,user-0933;user-0525
+project-0383,user-0634,Event Hub for Clubs,web,idea,Next.js;JavaScript;Redis;Authentication,MongoDB;Tailwind CSS,user-0634;user-0139
+project-0384,user-0629,Internship Tracker Lite,web,in-progress,Django;PostgreSQL,TypeScript;Tailwind CSS;Redis,user-0629;user-0938
+project-0385,user-0206,Phishing Simulator 2.0,security,idea,Python;Web Security;Network Security;Cryptography;Wireshark,OWASP Top 10,user-0206
+project-0386,user-0315,Portfolio Builder for Clubs,web,in-progress,React;Node.js;REST APIs;TypeScript;Express.js,Next.js;Authentication;Django,user-0315;user-0999
+project-0387,user-0903,Club Treasury DAO 2.0,blockchain,in-progress,React;JavaScript;Node.js;Blockchain;Solidity,Cryptography,user-0903;user-0302
+project-0388,user-0156,Internship Tracker Lite,web,idea,REST APIs;Next.js;TypeScript;WebSockets,Docker,user-0156;user-0904;user-0980;user-0115;user-0499
+project-0389,user-0337,Certificate Verifier Lite,blockchain,idea,JavaScript;Cryptography;Node.js;Blockchain,Solidity;React,user-0337;user-0948
+project-0390,user-0007,Pixel Platformer AI,game,completed,C++;Unity;Unreal Engine;Figma;C#,Game Design,user-0007
+project-0391,user-0021,Password Auditor for Clubs,security,in-progress,Python;Linux;Network Security;Web Security;Cryptography,OWASP Top 10;Penetration Testing,user-0021;user-0962
+project-0392,user-0008,Deploy Bot Mobile,devops,in-progress,Kubernetes;AWS;CI/CD,Prometheus;Docker,user-0008;user-0096
+project-0393,user-0926,Flashcard Coach 2.0,mobile,in-progress,Kotlin;TypeScript;React Native;Firebase;Flutter;Dart,Figma;Swift,user-0926;user-1000;user-0245;user-0469
+project-0394,user-0437,Energy Tracker,iot,in-progress,Embedded Systems;IoT;C++;C,,user-0437;user-0842
+project-0395,user-0467,Lecture Summarizer Mobile,ai-ml,idea,Natural Language Processing;Machine Learning;Docker;Pandas;TensorFlow;Computer Vision,Python;PyTorch;FastAPI,user-0467
+project-0396,user-0524,Club Treasury DAO 2.0,blockchain,completed,Blockchain;Solidity,React;JavaScript,user-0524;user-0821
+project-0397,user-0212,Portfolio Builder 2.0,web,idea,Next.js;JavaScript;REST APIs;Python;React,PostgreSQL;Express.js;WebSockets,user-0212;user-0730
+project-0398,user-0864,Physics Puzzle Mobile,game,completed,Game Design;Unreal Engine;C#,Unity,user-0864;user-0585
+project-0399,user-0829,Internship Tracker Lite,web,in-progress,JavaScript;PostgreSQL;React,Authentication;Docker;REST APIs,user-0829;user-0194
+project-0400,user-0265,Smart Plant Monitor Lite,iot,in-progress,C;IoT;MongoDB;C++,Arduino;Embedded Systems,user-0265
+project-0401,user-0997,Placement Insights for Clubs,data,in-progress,Python;SQL;ETL;Power BI;Statistics;Data Visualization,Tableau;Pandas,user-0997;user-0722;user-0220;user-0195;user-0228
+project-0402,user-0551,Volunteer Connect Pro,web,in-progress,JavaScript;Django;TypeScript;Tailwind CSS;WebSockets,Express.js;Node.js,user-0551;user-0829;user-0471
+project-0403,user-0364,Lecture Summarizer Lite,ai-ml,idea,scikit-learn;Pandas;Python;Deep Learning;Large Language Models,Computer Vision;FastAPI,user-0364;user-0582
+project-0404,user-0060,Campus Marketplace 2.0,web,idea,Node.js;Redis;PostgreSQL;TypeScript;Express.js,MongoDB;Python,user-0060;user-0584;user-0388;user-0439
+project-0405,user-0296,Campus Quest for Clubs,game,in-progress,C++;Unity;C#;Game Design;Unreal Engine,,user-0296;user-0322
+project-0406,user-0961,Portfolio Builder for Clubs,web,completed,REST APIs;Node.js;Docker;TypeScript;WebSockets,Express.js;Next.js;MongoDB,user-0961;user-0667
+project-0407,user-0996,Sports Stats Explorer AI,data,in-progress,Data Analysis;Python;Power BI;Jupyter,Tableau;Pandas,user-0996
+project-0408,user-0167,Campus Navigator Lite,mobile,in-progress,Firebase;React Native;Kotlin;Figma,Flutter;Dart,user-0167;user-0292;user-0138;user-0245;user-0152
+project-0409,user-0958,Placement Insights Pro,data,idea,SQL;Pandas;Statistics,Power BI;Data Visualization;Jupyter,user-0958;user-0044
+project-0410,user-0557,Fitness Buddy 2.0,mobile,idea,Flutter;REST APIs;Firebase;Figma;React Native;TypeScript,Swift,user-0557
+project-0411,user-0724,Pixel Platformer Pro,game,idea,C#;Unity;Unreal Engine;Game Design;Figma;C++,,user-0724;user-0164
+project-0412,user-0582,Plant Disease Detector Mobile,ai-ml,in-progress,Pandas;Deep Learning;scikit-learn;Docker;Large Language Models,Machine Learning;TensorFlow;Computer Vision,user-0582
+project-0413,user-0448,Campus Navigator Pro,mobile,in-progress,React Native;Kotlin;Firebase;REST APIs;Flutter;Figma,Dart,user-0448;user-0004
+project-0414,user-0615,Campus Marketplace Mobile,web,in-progress,REST APIs;Next.js;JavaScript;Docker;Django,Authentication;Redis,user-0615;user-0790
+project-0415,user-0909,Recipe Planner Lite,web,idea,REST APIs;Redis;JavaScript;PostgreSQL;Node.js,TypeScript;MongoDB;Python,user-0909
+project-0416,user-0507,Lecture Summarizer for Clubs,ai-ml,idea,scikit-learn;Python;Pandas;PyTorch;Natural Language Processing;Computer Vision,Deep Learning,user-0507
+project-0417,user-0419,Physics Puzzle Lite,game,idea,Unreal Engine;Unity;C++;Game Design;Figma,C#,user-0419
+project-0418,user-0313,Library Usage Trends Mobile,data,in-progress,Tableau;Pandas;SQL;Data Visualization;Power BI,Statistics;Python,user-0313;user-0431
+project-0419,user-0678,Cluster Monitor 2.0,devops,completed,Docker;Kubernetes;Prometheus;Linux;CI/CD,Bash;GitHub Actions;AWS,user-0678;user-0773;user-0272;user-0497
+project-0420,user-0103,Room Occupancy Sensor AI,iot,in-progress,IoT;Embedded Systems;Arduino;C++;Python,React,user-0103
+project-0421,user-0565,Deploy Bot Lite,devops,in-progress,Kubernetes;GitHub Actions;Docker;Terraform,CI/CD,user-0565;user-0022
+project-0422,user-0645,Plant Disease Detector Mobile,ai-ml,in-progress,Deep Learning;Pandas;scikit-learn;Docker;PyTorch;Computer Vision,TensorFlow;Machine Learning;FastAPI,user-0645;user-0507;user-0160
+project-0423,user-0293,Internship Tracker for Clubs,web,idea,Django;Express.js,Tailwind CSS;React;WebSockets,user-0293;user-0938;user-0838
+project-0424,user-0541,Infra Starter Kit Pro,devops,idea,AWS;Terraform;CI/CD;Prometheus;Linux,Bash;Docker,user-0541
+project-0425,user-0959,Smart Plant Monitor AI,iot,in-progress,C++;Embedded Systems;C;Arduino;IoT;React,,user-0959
+project-0426,user-0851,Lecture Summarizer 2.0,ai-ml,idea,Python;Machine Learning;Docker;Natural Language Processing;scikit-learn,Computer Vision;PyTorch,user-0851
+project-0427,user-0613,Sports Stats Explorer 2.0,data,in-progress,ETL;Statistics;Data Visualization,Jupyter;Power BI,user-0613;user-0912
+project-0428,user-0702,Placement Insights 2.0,data,idea,Python;ETL,Data Visualization;SQL;Power BI,user-0702;user-0319;user-0481;user-0814
+project-0429,user-0946,Lost & Found AI,mobile,in-progress,REST APIs;Figma;Kotlin;Swift,Flutter,user-0946;user-0212;user-0150;user-0490
+project-0430,user-0212,Recipe Planner Lite,web,in-progress,Next.js;JavaScript;REST APIs;MongoDB;WebSockets;Node.js,Authentication;Python;TypeScript,user-0212;user-0569;user-0150;user-0235
+project-0431,user-0765,Password Auditor Pro,security,in-progress,Linux;Penetration Testing;OWASP Top 10;React,Web Security;Wireshark;Cryptography,user-0765;user-0568
+project-0432,user-0730,Internship Tracker Pro,web,in-progress,React;REST APIs;JavaScript;Redis;Next.js;TypeScript,Python;MongoDB,user-0730
+project-0433,user-0007,Campus Quest 2.0,game,in-progress,C++;Unity;Unreal Engine;C#;Figma,Game Design,user-0007
+project-0434,user-0905,Flashcard Coach,mobile,in-progress,Kotlin;REST APIs;React Native;Flutter,Dart;Figma;Firebase,user-0905
+project-0435,user-0692,Sentiment Dashboard Mobile,ai-ml,completed,Machine Learning;Docker;Deep Learning;Computer Vision;Pandas;PyTorch,TensorFlow;Natural Language Processing,user-0692
+project-0436,user-0964,Internship Tracker for Clubs,web,in-progress,MongoDB;Node.js;REST APIs;Docker;Tailwind CSS;Python,WebSockets;Django;PostgreSQL,user-0964;user-0754
+project-0437,user-0727,Campus Navigator AI,mobile,idea,REST APIs;Kotlin;Dart,TypeScript;React Native,user-0727
+project-0438,user-0124,Room Occupancy Sensor,iot,in-progress,Embedded Systems;C++;C;MongoDB,React;Arduino,user-0124
+project-0439,user-0757,Library Usage Trends AI,data,in-progress,Power BI;SQL;Tableau;Python,Data Analysis;ETL,user-0757;user-0840;user-0608
+project-0440,user-0580,Sports Stats Explorer Lite,data,in-progress,SQL;Tableau;Data Analysis;Power BI,ETL;Data Visualization,user-0580;user-0485
+project-0441,user-0434,Placement Insights 2.0,data,in-progress,ETL;Python;Data Visualization;Statistics,Jupyter;Pandas;Data Analysis,user-0434
+project-0442,user-0895,Cluster Monitor Lite,devops,idea,Kubernetes;Docker;AWS;GitHub Actions;Bash;Linux,Terraform,user-0895
+project-0443,user-0228,Library Usage Trends Pro,data,in-progress,SQL;ETL;Pandas,Data Visualization;Jupyter;Data Analysis,user-0228;user-0997;user-0759
+project-0444,user-0449,Event Hub Pro,web,idea,Express.js;Node.js;Authentication;React,Django;Redis;WebSockets,user-0449;user-0539;user-0181;user-0519
+project-0445,user-0471,Campus Marketplace Mobile,web,in-progress,Python;JavaScript;Docker;React,Authentication;Tailwind CSS;Node.js,user-0471;user-0770;user-0576
+project-0446,user-0145,Certificate Verifier,blockchain,completed,JavaScript;Blockchain;Solidity,Node.js;Cryptography,user-0145;user-0182;user-0302
+project-0447,user-0718,Campus Quest Pro,game,completed,Unreal Engine;Unity;C++;C#,Figma;Game Design,user-0718;user-0738;user-0084
+project-0448,user-0846,Event Hub Pro,web,in-progress,REST APIs;MongoDB;TypeScript;React;Express.js;Tailwind CSS,Python;JavaScript;Authentication,user-0846;user-0125
+project-0449,user-0280,Infra Starter Kit Pro,devops,idea,Docker;Linux;AWS;Bash;GitHub Actions,Kubernetes,user-0280
+project-0450,user-0079,Room Occupancy Sensor 2.0,iot,in-progress,C++;IoT,Python;Embedded Systems;Arduino,user-0079
+project-0451,user-0086,Portfolio Builder,web,completed,WebSockets;Tailwind CSS;Node.js,MongoDB;PostgreSQL;JavaScript,user-0086;user-0498;user-0488
+project-0452,user-0175,Air Quality Analysis AI,data,in-progress,SQL;Python,ETL;Pandas;Power BI,user-0175;user-0161;user-0141
+project-0453,user-0097,Resume Screener,ai-ml,in-progress,scikit-learn;Python;PyTorch,FastAPI;Pandas,user-0097;user-0911
+project-0454,user-0870,Library Usage Trends for Clubs,data,in-progress,SQL;Data Visualization;Pandas;Tableau,Jupyter;Data Analysis;Python,user-0870;user-0155
+project-0455,user-0892,Expense Splitter,web,completed,Python;Express.js;Docker,PostgreSQL;Tailwind CSS;MongoDB,user-0892;user-0826
+project-0456,user-0664,Infra Starter Kit Lite,devops,idea,Kubernetes;Linux;AWS;CI/CD;Prometheus;Docker,Bash,user-0664
+project-0457,user-0319,Deploy Bot for Clubs,devops,in-progress,Docker;AWS;Terraform;CI/CD,Bash;Prometheus,user-0319;user-0104;user-0884
+project-0458,user-0779,Lost & Found 2.0,mobile,in-progress,TypeScript;REST APIs;Kotlin;Flutter,Swift;Firebase;React Native,user-0779
+project-0459,user-0220,Campus Quest AI,game,in-progress,C++;Unity,Figma;Game Design,user-0220;user-0531;user-0387
+project-0460,user-0954,Password Auditor Lite,security,idea,Wireshark;OWASP Top 10;Cryptography;React;Linux,Network Security;Python,user-0954;user-0611;user-0476;user-0653
+project-0461,user-0335,Event Hub,web,completed,JavaScript;Python;WebSockets;Authentication;Next.js,TypeScript;Node.js;MongoDB,user-0335;user-0822;user-0202;user-0644
+project-0462,user-0008,Cluster Monitor Pro,devops,in-progress,Kubernetes;AWS;CI/CD;GitHub Actions,Terraform;Docker,user-0008
+project-0463,user-0249,Event Hub Pro,web,in-progress,REST APIs;Authentication,PostgreSQL;Docker;TypeScript,user-0249;user-0873;user-0894
+project-0464,user-0798,Lecture Summarizer Pro,ai-ml,in-progress,Machine Learning;TensorFlow;Natural Language Processing;Deep Learning;Pandas,scikit-learn;Docker;Computer Vision,user-0798
+project-0465,user-0098,Study Group Finder 2.0,web,in-progress,JavaScript;Python;MongoDB;Express.js,Node.js;Redis;Next.js,user-0098
+project-0466,user-0584,Event Hub 2.0,web,in-progress,MongoDB;PostgreSQL;Docker;TypeScript;WebSockets;REST APIs,Python;Express.js;Next.js,user-0584
+project-0467,user-0893,Recipe Planner 2.0,web,idea,Python;Node.js;Docker;Tailwind CSS;PostgreSQL,Express.js,user-0893;user-0714
+project-0468,user-0607,Study Assistant Bot,ai-ml,completed,scikit-learn;PyTorch;Docker;Large Language Models,Deep Learning;Machine Learning;Python,user-0607
+project-0469,user-0288,Sports Stats Explorer Pro,data,in-progress,Python;Power BI;Data Analysis;Statistics,ETL;Pandas;SQL,user-0288;user-0520
+project-0470,user-0039,Course Recommender AI,ai-ml,in-progress,scikit-learn;Python;Deep Learning;FastAPI,Natural Language Processing,user-0039;user-0033;user-0446;user-0692;user-0347
+project-0471,user-0529,Internship Tracker,web,completed,Express.js;Authentication;REST APIs;PostgreSQL;WebSockets,Docker;Django;Node.js,user-0529;user-0649
+project-0472,user-0940,Volunteer Connect Mobile,web,idea,Docker;REST APIs,Django;Redis;Python,user-0940;user-0451;user-0804
+project-0473,user-0948,Network Scanner Dashboard Lite,security,in-progress,Linux;Penetration Testing;Web Security;Network Security,React,user-0948;user-0101;user-0463;user-0807
+project-0474,user-0330,Flashcard Coach 2.0,mobile,idea,Kotlin;TypeScript;REST APIs;Figma;Flutter;Swift,,user-0330;user-0018;user-0081
+project-0475,user-0064,Flashcard Coach Mobile,mobile,completed,REST APIs;Swift;React Native;Flutter;Figma,Kotlin;Dart,user-0064;user-0261;user-0606
+project-0476,user-0959,Smart Plant Monitor 2.0,iot,idea,C++;Embedded Systems;C;MongoDB,React;IoT,user-0959;user-0384
+project-0477,user-0049,Course Recommender AI,ai-ml,idea,Python;Large Language Models;Machine Learning;PyTorch;TensorFlow,scikit-learn;Computer Vision;Pandas,user-0049;user-0356;user-0987
+project-0478,user-0304,Internship Tracker for Clubs,web,in-progress,Python;Docker;Node.js;Next.js;WebSockets,PostgreSQL;React;Authentication,user-0304
+project-0479,user-0407,Smart Plant Monitor Mobile,iot,in-progress,Arduino;C++;IoT;Embedded Systems;MongoDB,Python;React,user-0407;user-0717;user-0758
+project-0480,user-0137,Event Hub Mobile,web,idea,React;TypeScript;Next.js;Authentication,Python;Docker,user-0137;user-0709
+project-0481,user-0043,Lecture Summarizer AI,ai-ml,in-progress,Pandas;scikit-learn;Python;Natural Language Processing;Deep Learning;Docker,Computer Vision,user-0043
+project-0482,user-0578,Lecture Summarizer Mobile,ai-ml,idea,TensorFlow;Python;scikit-learn;Natural Language Processing,Machine Learning;PyTorch;Pandas,user-0578;user-0338
+project-0483,user-0532,Pixel Platformer Lite,game,completed,Game Design;C#;C++,Figma,user-0532;user-0801;user-0844
+project-0484,user-0991,Course Recommender Mobile,ai-ml,in-progress,Python;Machine Learning;Deep Learning;Pandas;Large Language Models,FastAPI;Computer Vision,user-0991;user-0607;user-0851;user-0466
+project-0485,user-0563,Password Auditor Mobile,security,in-progress,Penetration Testing;Network Security;Linux;Wireshark,,user-0563;user-0609
+project-0486,user-0094,Plant Disease Detector,ai-ml,in-progress,Natural Language Processing;Computer Vision;Large Language Models,PyTorch;scikit-learn;Machine Learning,user-0094;user-0618
+project-0487,user-0292,Fitness Buddy AI,mobile,idea,REST APIs;Flutter;Firebase;TypeScript;Figma;Dart,Kotlin;Swift,user-0292
+project-0488,user-0510,Physics Puzzle 2.0,game,in-progress,Game Design;Unity;C#;C++;Unreal Engine,,user-0510;user-0036;user-0718
+project-0489,user-0843,Library Usage Trends AI,data,idea,Power BI;Pandas;Tableau,ETL;Data Analysis,user-0843
+project-0490,user-0730,Expense Splitter AI,web,completed,React;REST APIs;JavaScript;Node.js;Tailwind CSS;Docker,Python;PostgreSQL,user-0730
+project-0491,user-0803,Expense Splitter Lite,web,completed,JavaScript;Python;REST APIs;Django,Next.js;PostgreSQL;WebSockets,user-0803
+project-0492,user-0189,Phishing Simulator Lite,security,in-progress,Penetration Testing;Network Security;Web Security;Linux;React,Cryptography;OWASP Top 10,user-0189;user-0765;user-0568
+project-0493,user-0389,Event Hub for Clubs,web,idea,JavaScript;TypeScript;Express.js,Redis;REST APIs;Node.js,user-0389;user-0107;user-0530
+project-0494,user-0033,Course Recommender,ai-ml,idea,PyTorch;Deep Learning;scikit-learn;Natural Language Processing;Computer Vision,Docker;FastAPI,user-0033;user-0373
+project-0495,user-0131,Infra Starter Kit for Clubs,devops,in-progress,Prometheus;AWS;Bash,Linux;CI/CD;GitHub Actions,user-0131;user-0700;user-0349
+project-0496,user-0400,Cluster Monitor,devops,idea,AWS;Kubernetes;Docker;Terraform;Prometheus,GitHub Actions;CI/CD;Linux,user-0400;user-0525
+project-0497,user-0266,Internship Tracker,web,in-progress,JavaScript;Python;Tailwind CSS;TypeScript;Django;WebSockets,React;PostgreSQL,user-0266
+project-0498,user-0151,Internship Tracker Lite,web,idea,REST APIs;JavaScript;MongoDB;Authentication;TypeScript,WebSockets;Express.js;Docker,user-0151;user-0392
+project-0499,user-0704,Infra Starter Kit Lite,devops,idea,Bash;Docker;Linux;Prometheus;CI/CD,AWS,user-0704
+project-0500,user-0142,Volunteer Connect,web,in-progress,PostgreSQL;WebSockets,Tailwind CSS;React;TypeScript,user-0142;user-0827

@@ -1,0 +1,501 @@
+id,user,quality,expectedSkills,expectedYears
+resume-0001,user-0588,strong,FastAPI;Large Language Models;Natural Language Processing;Prompt Engineering;Docker;REST APIs;Figma;Linux;Python;Git;Agile;Unit Testing;Technical Writing,1
+resume-0002,user-0645,average,Linear Algebra;NumPy;Feature Engineering;Statistics;Deep Learning;Pandas;Jupyter;scikit-learn;Teamwork;Agile;Git;REST APIs;Unit Testing;Technical Writing,1
+resume-0003,user-0182,average,REST APIs;Vite;Redux;Jest;CSS;Git;JavaScript;Figma;Agile;Unit Testing;Technical Writing,2
+resume-0004,user-0711,strong,Unity;Game Design;Unreal Engine;C#;C++;Git;Linear Algebra;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0005,user-0132,weak,Linux;SQL;Authentication;Express.js;Microservices;MongoDB;Git;Agile,2
+resume-0006,user-0138,weak,Flutter;UI/UX Design;TypeScript;iOS Development;REST APIs;Swift;React Native;Git;Problem Solving;SQL;Figma;Agile,1
+resume-0007,user-0054,average,Responsive Design;Wireframing;Communication;Web Accessibility;UI/UX Design;HTML;CSS;Figma;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0008,user-0897,weak,Apache Spark;Docker;Python;Data Warehousing;SQL;ETL;Linux;Problem Solving;Git;Agile;Machine Learning,1
+resume-0009,user-0606,strong,Swift;Firebase;Unit Testing;React Native;UI/UX Design;Kotlin;Flutter;Python;Agile;Git;ETL;Technical Writing,3
+resume-0010,user-0503,average,Prometheus;Docker;Terraform;Linux;Computer Networks;CI/CD;Bash;Communication;Git;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0011,user-0847,strong,Playwright;Selenium;JavaScript;Git;Cypress;Python;API Testing;Unit Testing;Problem Solving;Excel;Agile;REST APIs;Technical Writing,3
+resume-0012,user-0395,weak,ETL;PostgreSQL;SQL;Data Warehousing;Git;Agile;REST APIs,1
+resume-0013,user-0718,strong,Object-Oriented Programming;Unreal Engine;Linear Algebra;Unity;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0014,user-0692,strong,Machine Learning;Linear Algebra;Docker;SQL;Deep Learning;Statistics;Git;Agile;Unit Testing;Technical Writing,1
+resume-0015,user-0285,weak,JavaScript;Playwright;Unit Testing;API Testing;Jira;Selenium;Test-Driven Development;Cypress;CI/CD;SQL;Teamwork;Git;Agile;Machine Learning,2
+resume-0016,user-0839,average,REST APIs;CSS;TypeScript;MongoDB;Node.js;Communication;Problem Solving;Git;Agile;Unit Testing;Technical Writing,1
+resume-0017,user-0554,strong,Kubernetes;Git;Linux;Network Security;Docker;Agile;Unit Testing;Technical Writing,3
+resume-0018,user-0396,average,Unity;Unreal Engine;Object-Oriented Programming;C++;Linear Algebra;Game Design;C#;Data Structures;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0019,user-0068,average,Penetration Testing;Computer Networks;Operating Systems;Network Security;Python;Linux;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0020,user-0565,average,Linear Algebra;scikit-learn;Machine Learning;Statistics;Pandas;Python;Feature Engineering;Apache Spark;Figma;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0021,user-0193,strong,SQL;Tableau;Excel;Data Visualization;Git;Agile;Unit Testing;Technical Writing,2
+resume-0022,user-0767,average,Linear Algebra;Unreal Engine;Unity;Object-Oriented Programming;C#;C++;Git;Game Design;Data Structures;Problem Solving;SQL;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0023,user-0961,average,REST APIs;Node.js;Web Security;Docker;Authentication;Python;Agile;Git;Unit Testing;Technical Writing,2
+resume-0024,user-0575,weak,SQL;Selenium;Python;Git;API Testing;JavaScript;Unit Testing;Agile;Machine Learning,2
+resume-0025,user-0173,strong,Docker;Large Language Models;Python;FastAPI;Prompt Engineering;Natural Language Processing;Elasticsearch;Git;Problem Solving;Agile;Unit Testing;Technical Writing,1
+resume-0026,user-0357,strong,Computer Networks;Kubernetes;AWS;Google Cloud;Terraform;Python;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0027,user-0823,weak,Natural Language Processing;FastAPI;Docker;REST APIs;PyTorch;Python;Linux;Problem Solving;Git;Agile,1
+resume-0028,user-0902,average,Pandas;NumPy;Statistics;Machine Learning;SQL;scikit-learn;Data Visualization;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0029,user-0346,strong,React;SQL;Git;JavaScript;Node.js;AWS;Authentication;CSS;REST APIs;TypeScript;Agile;Unit Testing;Technical Writing,1
+resume-0030,user-0706,average,React;Authentication;Express.js;Git;Node.js;Docker;TypeScript;CSS;REST APIs;SQL;Teamwork;Python;Agile;Unit Testing;Technical Writing,2
+resume-0031,user-0603,average,Python;Statistics;Tableau;Data Visualization;SQL;Excel;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0032,user-0122,strong,Java;Object-Oriented Programming;Operating Systems;SQL;System Design;Design Patterns;Algorithms;Unit Testing;Git;Python;Linux;Agile;REST APIs;Technical Writing,1
+resume-0033,user-0302,average,Web Accessibility;REST APIs;JavaScript;HTML;Figma;Git;CSS;React;Agile;Unit Testing;Technical Writing,1
+resume-0034,user-0225,strong,Excel;Data Analysis;Statistics;SQL;Problem Solving;Python;Git;Agile;Machine Learning;Unit Testing;Technical Writing,4
+resume-0035,user-0181,average,Authentication;Database Design;Express.js;Git;SQL;MongoDB;REST APIs;Agile;Machine Learning;Unit Testing;Technical Writing,3
+resume-0036,user-0825,weak,SQL;Node.js;Database Design;Web Security;Unit Testing;REST APIs;System Design;Microservices;Authentication;MongoDB;Git;Agile,1
+resume-0037,user-0077,average,Python;Large Language Models;Prompt Engineering;FastAPI;REST APIs;Machine Learning;Docker;PyTorch;Unit Testing;Elasticsearch;Excel;Git;Agile;Technical Writing,2
+resume-0038,user-0815,strong,SQL;Message Queues;ETL;Data Warehousing;Linux;AWS;Python;Teamwork;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0039,user-0118,weak,Penetration Testing;Computer Networks;Cryptography;Network Security;Bash;Wireshark;SIEM;Python;Web Security;OWASP Top 10;Git;Agile,1
+resume-0040,user-0726,average,Terraform;Serverless;Linux;Network Security;Google Cloud;Kubernetes;CI/CD;Figma;Git;Excel;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0041,user-0495,strong,Operating Systems;Arduino;IoT;C;Embedded Systems;Python;C++;Computer Networks;Git;Linux;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0042,user-0175,strong,SQL;Apache Spark;Data Warehousing;Database Design;Python;Message Queues;Git;Agile;REST APIs;Unit Testing;Technical Writing,3
+resume-0043,user-0287,average,CSS;JavaScript;Git;HTML;Web Accessibility;TypeScript;Figma;Responsive Design;Communication;Teamwork;Agile;Unit Testing;Technical Writing,1
+resume-0044,user-0359,strong,Machine Learning;Git;Linear Algebra;Docker;TensorFlow;Deep Learning;Agile;Figma;Unit Testing;Technical Writing,1
+resume-0045,user-0387,strong,SQL;Database Design;Docker;Linux;Git;Agile;Unit Testing;Technical Writing,2
+resume-0046,user-0754,strong,Node.js;Express.js;PostgreSQL;Unit Testing;System Design;Agile;Linux;Git;Machine Learning;Technical Writing,1
+resume-0047,user-0063,weak,Git;Linux;Computer Networks;GitHub Actions;Network Security;Kubernetes;Docker;CI/CD;Communication;Figma;Agile,2
+resume-0048,user-0799,average,Git;REST APIs;Flutter;TypeScript;Swift;UI/UX Design;React Native;iOS Development;Unit Testing;SQL;Agile;Teamwork;Technical Writing,1
+resume-0049,user-0353,average,Linear Algebra;Statistics;Machine Learning;Deep Learning;Python;Git;SQL;Problem Solving;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0050,user-0079,strong,Game Design;C#;Unity;Object-Oriented Programming;Linear Algebra;C++;Unreal Engine;Data Structures;Git;Excel;Agile;Unit Testing;Technical Writing,1
+resume-0051,user-0525,weak,Kubernetes;CI/CD;Serverless;Computer Networks;Git;Agile;ETL,1
+resume-0052,user-0180,weak,Linear Algebra;Object-Oriented Programming;Unreal Engine;Game Design;Unity;Figma;Excel;SQL;Git;Agile;Machine Learning,2
+resume-0053,user-0057,strong,JavaScript;Responsive Design;Git;REST APIs;SQL;Agile;Unit Testing;Technical Writing,3
+resume-0054,user-0540,average,NumPy;Pandas;Data Visualization;Statistics;Machine Learning;Linear Algebra;Feature Engineering;Communication;Linux;SQL;Git;Agile;Unit Testing;Technical Writing,2
+resume-0055,user-0654,average,Penetration Testing;Python;Operating Systems;OWASP Top 10;Network Security;Git;Agile;Unit Testing;Technical Writing,1
+resume-0056,user-0040,average,Data Warehousing;Database Design;SQL;ETL;Python;Docker;Linux;Apache Spark;PostgreSQL;Message Queues;Teamwork;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0057,user-0566,average,REST APIs;Database Design;SQL;Node.js;Docker;Git;Teamwork;Agile;Unit Testing;Technical Writing,1
+resume-0058,user-0424,average,Prompt Engineering;Large Language Models;Python;Unit Testing;Git;Elasticsearch;Docker;Natural Language Processing;Excel;Agile;REST APIs;Technical Writing,1
+resume-0059,user-0117,weak,Python;Pandas;Apache Spark;Communication;SQL;Feature Engineering;Linear Algebra;scikit-learn;Data Visualization;Problem Solving;Git;Agile;ETL,1
+resume-0060,user-0828,average,Python;PyTorch;Machine Learning;Docker;Statistics;TensorFlow;Communication;Linux;SQL;Git;Agile;ETL;Unit Testing;Technical Writing,4
+resume-0061,user-0463,average,Computer Networks;OWASP Top 10;Network Security;Linux;Wireshark;Web Security;Git;Agile;Unit Testing;Technical Writing,1
+resume-0062,user-0526,strong,GitHub Actions;Git;AWS;Bash;Kubernetes;Figma;Excel;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0063,user-0003,strong,Linux;Network Security;Google Cloud;Computer Networks;Python;SQL;Teamwork;Git;Agile;Unit Testing;Technical Writing,1
+resume-0064,user-0539,average,Authentication;SQL;PostgreSQL;Database Design;Node.js;MongoDB;REST APIs;Unit Testing;Docker;Web Security;Teamwork;Python;Problem Solving;Git;Agile;Technical Writing,1
+resume-0065,user-0507,weak,Data Visualization;Apache Spark;Feature Engineering;scikit-learn;Statistics;Python;Linear Algebra;Git;Agile;Machine Learning,2
+resume-0066,user-0114,average,Python;Linear Algebra;Machine Learning;SQL;Feature Engineering;Deep Learning;Statistics;Git;Agile;Unit Testing;Technical Writing,1
+resume-0067,user-0205,weak,C++;Python;C;Computer Networks;Embedded Systems;Excel;Agile;Git;REST APIs,3
+resume-0068,user-0349,average,AWS;CI/CD;Linux;Docker;Git;Kubernetes;Nginx;Agile;Unit Testing;Technical Writing,1
+resume-0069,user-0230,strong,Jupyter;Feature Engineering;Deep Learning;Apache Spark;Pandas;Machine Learning;Git;Agile;Unit Testing;Technical Writing,1
+resume-0070,user-0531,average,Python;SQL;Data Warehousing;AWS;Git;ETL;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0071,user-0736,strong,Docker;Prometheus;Python;Bash;Linux;GitHub Actions;Computer Networks;AWS;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0072,user-0315,weak,React;Node.js;REST APIs;Authentication;Git;Agile;Machine Learning,1
+resume-0073,user-0453,average,SIEM;Wireshark;Python;Network Security;Penetration Testing;Git;Agile;Unit Testing;Technical Writing,2
+resume-0074,user-0883,weak,SQL;R;Data Visualization;Communication;Statistics;Agile;Python;Git;Machine Learning,2
+resume-0075,user-0201,average,Communication;Responsive Design;Wireframing;Figma;UI/UX Design;Teamwork;Web Accessibility;HTML;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0076,user-0154,average,Operating Systems;Linux;Git;Python;SQL;Communication;Agile;Unit Testing;Technical Writing,1
+resume-0077,user-0272,strong,Terraform;AWS;Linux;Kubernetes;Prometheus;Figma;Problem Solving;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0078,user-0159,strong,scikit-learn;Machine Learning;AWS;MLOps;TensorFlow;Data Structures;Docker;PyTorch;Python;Communication;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0079,user-0061,strong,Data Structures;Deep Learning;MLOps;AWS;scikit-learn;Git;Agile;REST APIs;Unit Testing;Technical Writing,3
+resume-0080,user-0911,strong,Python;TensorFlow;Deep Learning;Machine Learning;Statistics;Linear Algebra;scikit-learn;Git;Agile;Unit Testing;Technical Writing,1
+resume-0081,user-0913,strong,Data Analysis;Pandas;SQL;Statistics;Excel;Python;Data Visualization;Figma;Git;Agile;Unit Testing;Technical Writing,1
+resume-0082,user-0708,strong,Docker;Git;Unit Testing;REST APIs;MongoDB;PostgreSQL;Node.js;SQL;Authentication;Microservices;Agile;Machine Learning;Technical Writing,1
+resume-0083,user-0367,strong,Python;Azure;Kubernetes;AWS;Serverless;Linux;Docker;Terraform;Google Cloud;Communication;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0084,user-0476,strong,Operating Systems;Cryptography;Computer Networks;Wireshark;OWASP Top 10;Bash;SIEM;Git;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0085,user-0922,strong,Computer Networks;SIEM;OWASP Top 10;Penetration Testing;Network Security;Web Security;Wireshark;Cryptography;Problem Solving;Linux;Git;Agile;REST APIs;Unit Testing;Technical Writing,4
+resume-0086,user-0765,average,Linux;Penetration Testing;Operating Systems;Bash;OWASP Top 10;SIEM;Git;Teamwork;SQL;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0087,user-0229,strong,Database Design;Web Security;Express.js;MongoDB;System Design;Unit Testing;Microservices;Git;Agile;Technical Writing,2
+resume-0088,user-0442,weak,System Design;Data Structures;Linux;Python;Unit Testing;Object-Oriented Programming;Git;Algorithms;Design Patterns;Agile;Machine Learning,2
+resume-0089,user-0373,weak,Docker;Deep Learning;Python;TensorFlow;Machine Learning;REST APIs;MLOps;Data Structures;Linear Algebra;SQL;Git;Agile,2
+resume-0090,user-0583,strong,Python;Git;Terraform;Kubernetes;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0091,user-0785,average,Unity;Game Design;Object-Oriented Programming;C#;Data Structures;Git;Agile;REST APIs;Unit Testing;Technical Writing,4
+resume-0092,user-0384,average,C;Computer Networks;Embedded Systems;C++;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0093,user-0595,strong,REST APIs;Node.js;SQL;Authentication;JavaScript;React;CSS;Express.js;Git;HTML;Excel;Communication;Agile;Unit Testing;Technical Writing,1
+resume-0094,user-0192,weak,Tableau;Data Analysis;Python;Excel;Teamwork;Linux;Git;Agile;Machine Learning,1
+resume-0095,user-0324,average,C++;Arduino;Embedded Systems;C;IoT;Python;Operating Systems;Computer Networks;Git;SQL;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0096,user-0490,average,Jest;REST APIs;Figma;Responsive Design;CSS;JavaScript;Communication;Excel;SQL;Git;Agile;Unit Testing;Technical Writing,1
+resume-0097,user-0027,strong,SQL;Python;Apache Spark;Data Warehousing;Docker;Database Design;ETL;Message Queues;Git;Agile;Unit Testing;Technical Writing,2
+resume-0098,user-0505,average,Operating Systems;Java;Data Structures;Problem Solving;Git;System Design;SQL;Object-Oriented Programming;Algorithms;Agile;REST APIs;Unit Testing;Technical Writing,3
+resume-0099,user-0746,average,Docker;Linux;Terraform;AWS;Serverless;Google Cloud;Python;Computer Networks;Azure;Kubernetes;Git;Teamwork;Agile;Unit Testing;Technical Writing,1
+resume-0100,user-0907,strong,Java;SQL;Git;Data Structures;Agile;Unit Testing;Technical Writing,1
+resume-0101,user-0809,weak,Operating Systems;Arduino;C++;Git;Embedded Systems;C;IoT;Agile;ETL,1
+resume-0102,user-0491,average,Tableau;Communication;Power BI;Python;SQL;Git;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0103,user-0863,average,Redux;CSS;JavaScript;Responsive Design;TypeScript;Linux;Git;Agile;Unit Testing;Technical Writing,3
+resume-0104,user-0670,weak,Python;Machine Learning;REST APIs;Natural Language Processing;Problem Solving;Excel;Git;Agile,3
+resume-0105,user-0761,strong,CI/CD;Serverless;AWS;Docker;Agile;Figma;Excel;Git;Unit Testing;Technical Writing,1
+resume-0106,user-0590,average,NumPy;Pandas;Machine Learning;Feature Engineering;Linear Algebra;Data Visualization;Excel;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0107,user-0161,average,SQL;Data Warehousing;Apache Spark;ETL;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0108,user-0616,strong,Linear Algebra;TensorFlow;AWS;SQL;Deep Learning;Statistics;MLOps;scikit-learn;Teamwork;Linux;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0109,user-0002,strong,Git;TypeScript;AWS;Authentication;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0110,user-0717,strong,Linux;IoT;Git;C;Operating Systems;Arduino;C++;Embedded Systems;SQL;Figma;Agile;Unit Testing;Technical Writing,1
+resume-0111,user-0269,average,Figma;JavaScript;REST APIs;Tailwind CSS;Jest;Communication;Problem Solving;Agile;Git;Unit Testing;Technical Writing,1
+resume-0112,user-0978,average,Embedded Systems;Arduino;Python;C;Agile;Git;Machine Learning;Unit Testing;Technical Writing,1
+resume-0113,user-0441,average,CI/CD;Express.js;MongoDB;Node.js;CSS;Git;Agile;Unit Testing;Technical Writing,2
+resume-0114,user-0764,strong,Statistics;Data Analysis;R;Communication;SQL;Database Design;Excel;Data Visualization;Tableau;Power BI;Problem Solving;Git;Agile;Unit Testing;Technical Writing,2
+resume-0115,user-0895,strong,Kubernetes;Docker;AWS;Serverless;Python;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0116,user-0763,weak,Node.js;React;REST APIs;HTML;Express.js;CI/CD;Git;SQL;Authentication;Teamwork;Agile,1
+resume-0117,user-0631,weak,Unit Testing;Node.js;SQL;React;CSS;MongoDB;AWS;HTML;REST APIs;Git;Agile;Machine Learning,4
+resume-0118,user-0551,average,CI/CD;Selenium;API Testing;Playwright;Test-Driven Development;Cypress;JavaScript;SQL;Unit Testing;Jira;Teamwork;Excel;Problem Solving;Git;Agile;REST APIs;Technical Writing,1
+resume-0119,user-0775,average,REST APIs;Git;React Native;Kotlin;Firebase;Unit Testing;JavaScript;Swift;Flutter;UI/UX Design;Agile;Teamwork;Python;Machine Learning;Technical Writing,2
+resume-0120,user-0829,strong,Cypress;Jira;JavaScript;API Testing;Selenium;Playwright;Unit Testing;Git;Teamwork;Communication;Agile;Machine Learning;Technical Writing,2
+resume-0121,user-0074,weak,Machine Learning;FastAPI;PyTorch;Large Language Models;Prompt Engineering;Python;Natural Language Processing;Teamwork;Git;Excel;Agile,3
+resume-0122,user-0852,strong,Object-Oriented Programming;Unity;Git;Data Structures;C++;Game Design;Unreal Engine;Agile;Unit Testing;Technical Writing,1
+resume-0123,user-0072,average,OWASP Top 10;Penetration Testing;Web Security;Cryptography;Linux;Python;Git;Agile;Unit Testing;Technical Writing,2
+resume-0124,user-0973,average,Power BI;Statistics;Excel;Pandas;Database Design;R;Data Analysis;Tableau;Linux;Teamwork;SQL;Git;Agile;Unit Testing;Technical Writing,3
+resume-0125,user-0449,average,Unit Testing;SQL;Microservices;System Design;Express.js;Node.js;Figma;Teamwork;Git;Agile;Technical Writing,1
+resume-0126,user-0147,weak,Database Design;Node.js;REST APIs;SQL;Linux;Git;Agile,1
+resume-0127,user-0088,strong,Data Analysis;SQL;Excel;Python;Agile;Git;Unit Testing;Technical Writing,1
+resume-0128,user-0666,strong,Express.js;REST APIs;Microservices;Authentication;MongoDB;Unit Testing;Redis;Git;Agile;Technical Writing,1
+resume-0129,user-0234,strong,Figma;Web Accessibility;Wireframing;UI/UX Design;HTML;Responsive Design;Teamwork;CSS;Communication;Agile;Git;ETL;Unit Testing;Technical Writing,3
+resume-0130,user-0492,weak,Vite;Tailwind CSS;CSS;TypeScript;Communication;Git;Python;Agile;Machine Learning,1
+resume-0131,user-0053,average,Jupyter;Excel;Communication;Data Visualization;Python;Statistics;Database Design;Power BI;Figma;Git;Agile;Unit Testing;Technical Writing,2
+resume-0132,user-0186,weak,Unit Testing;CI/CD;Python;API Testing;Playwright;Git;Agile;REST APIs,1
+resume-0133,user-0720,weak,Docker;Unit Testing;MongoDB;Node.js;Database Design;Git;Authentication;Teamwork;Linux;Agile,2
+resume-0134,user-0920,strong,Database Design;Docker;Node.js;SQL;Microservices;MongoDB;Redis;Linux;Communication;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0135,user-0742,weak,IoT;Operating Systems;Git;C;Python;Arduino;Linux;C++;Embedded Systems;Computer Networks;Teamwork;Communication;Agile;REST APIs,3
+resume-0136,user-0880,average,AWS;CSS;React;TypeScript;REST APIs;Unit Testing;SQL;JavaScript;Node.js;Next.js;Teamwork;Communication;Problem Solving;Git;Agile;Technical Writing,3
+resume-0137,user-0393,average,Database Design;Docker;SQL;Redis;Unit Testing;Authentication;Git;Node.js;Teamwork;Agile;REST APIs;Technical Writing,1
+resume-0138,user-0501,weak,SQL;Git;Database Design;ETL;Agile,1
+resume-0139,user-0095,weak,Linux;Kubernetes;Docker;Google Cloud;Computer Networks;CI/CD;Git;Agile,2
+resume-0140,user-0983,strong,C++;Unreal Engine;Unity;Object-Oriented Programming;Game Design;Git;Linear Algebra;Data Structures;C#;Agile;Unit Testing;Technical Writing,1
+resume-0141,user-0707,average,Python;JavaScript;Unit Testing;Test-Driven Development;Selenium;Playwright;SQL;Cypress;Git;Agile;ETL;Technical Writing,1
+resume-0142,user-0487,weak,C++;C#;Object-Oriented Programming;Git;Unity;Agile;Machine Learning,2
+resume-0143,user-0869,average,SQL;Statistics;Python;Machine Learning;NumPy;Problem Solving;Git;Agile;Unit Testing;Technical Writing,1
+resume-0144,user-0837,strong,Git;CSS;React;Responsive Design;Figma;HTML;REST APIs;Redux;Next.js;JavaScript;Agile;Unit Testing;Technical Writing,1
+resume-0145,user-0510,average,Game Design;Unity;C#;C++;Unreal Engine;Object-Oriented Programming;Linear Algebra;Python;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0146,user-0055,average,Linux;AWS;Computer Networks;Docker;Serverless;Network Security;Agile;Problem Solving;Git;REST APIs;Unit Testing;Technical Writing,1
+resume-0147,user-0155,strong,Docker;Unit Testing;Node.js;Linux;PostgreSQL;SQL;Git;MongoDB;Express.js;Microservices;Agile;ETL;Technical Writing,1
+resume-0148,user-0149,average,Wireframing;Communication;Teamwork;UI/UX Design;Responsive Design;Agile;Linux;Python;Git;Unit Testing;Technical Writing,3
+resume-0149,user-0749,weak,scikit-learn;Linear Algebra;Git;PyTorch;TensorFlow;Deep Learning;MLOps;Statistics;REST APIs;Machine Learning;Agile,1
+resume-0150,user-0300,strong,Kubernetes;Computer Networks;Network Security;Linux;Git;Agile;Unit Testing;Technical Writing,1
+resume-0151,user-0082,weak,JavaScript;Cypress;Unit Testing;CI/CD;Git;Agile;Machine Learning,2
+resume-0152,user-0039,average,scikit-learn;AWS;Python;Statistics;Linear Algebra;Deep Learning;Docker;Problem Solving;Communication;Teamwork;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0153,user-0805,weak,MongoDB;HTML;REST APIs;Express.js;AWS;Unit Testing;Docker;JavaScript;React;Next.js;Teamwork;Git;Agile;ETL,1
+resume-0154,user-0170,average,Python;Wireshark;Linux;Computer Networks;Excel;Figma;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0155,user-0428,weak,Git;C;Linux;Operating Systems;IoT;Arduino;Embedded Systems;C++;Computer Networks;Communication;Agile;Machine Learning,1
+resume-0156,user-0166,strong,Swift;REST APIs;UI/UX Design;React Native;Firebase;Kotlin;Flutter;Unit Testing;Git;Problem Solving;SQL;Agile;ETL;Technical Writing,2
+resume-0157,user-0100,weak,Arduino;Operating Systems;Embedded Systems;C;Figma;Agile;Git;ETL,1
+resume-0158,user-0017,weak,Linear Algebra;Data Structures;Game Design;C#;Unity;C++;Excel;Git;Agile,1
+resume-0159,user-0548,strong,REST APIs;JavaScript;Unit Testing;Flutter;Swift;Teamwork;Communication;Git;Agile;Technical Writing,1
+resume-0160,user-0212,average,Next.js;Figma;CSS;Web Accessibility;JavaScript;Redux;Git;REST APIs;HTML;Jest;Communication;Problem Solving;Agile;ETL;Unit Testing;Technical Writing,3
+resume-0161,user-0014,average,CI/CD;AWS;Linux;Terraform;Prometheus;Bash;Docker;Teamwork;Figma;Git;Agile;Unit Testing;Technical Writing,1
+resume-0162,user-0563,weak,Penetration Testing;Network Security;Linux;Python;Computer Networks;Git;Agile;Machine Learning,1
+resume-0163,user-0841,weak,Object-Oriented Programming;SQL;Operating Systems;Java;Algorithms;Python;Git;Agile,2
+resume-0164,user-0901,weak,Machine Learning;Linear Algebra;MLOps;REST APIs;scikit-learn;Docker;SQL;Deep Learning;Figma;Linux;Teamwork;Git;Agile;ETL,1
+resume-0165,user-0020,weak,Docker;Git;PostgreSQL;Microservices;REST APIs;Express.js;MongoDB;Database Design;Node.js;Authentication;Excel;Communication;Agile,1
+resume-0166,user-0783,average,IoT;C++;Computer Networks;Embedded Systems;Git;Linux;Python;Communication;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0167,user-0804,weak,Figma;Wireframing;UI/UX Design;Responsive Design;Web Accessibility;CSS;Teamwork;Communication;Python;Git;Agile,1
+resume-0168,user-0593,strong,Python;Linux;PostgreSQL;Git;ETL;AWS;Database Design;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0169,user-0089,weak,JavaScript;REST APIs;Jest;Redux;Next.js;Figma;Git;Responsive Design;Web Accessibility;Problem Solving;Agile;ETL,1
+resume-0170,user-0312,strong,C#;Game Design;Data Structures;Object-Oriented Programming;C++;Unity;Unreal Engine;Linear Algebra;Linux;Python;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0171,user-0727,strong,REST APIs;Deep Learning;SQL;TensorFlow;MLOps;Docker;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0172,user-0232,strong,SQL;Node.js;Docker;Unit Testing;Authentication;Database Design;Express.js;Figma;Git;Agile;Technical Writing,2
+resume-0173,user-0653,weak,SIEM;Network Security;Bash;Penetration Testing;Git;Agile;Machine Learning,1
+resume-0174,user-0126,weak,Java;Operating Systems;Algorithms;Problem Solving;Data Structures;Object-Oriented Programming;Excel;SQL;Git;Agile,2
+resume-0175,user-0592,strong,SQL;TensorFlow;Machine Learning;scikit-learn;PyTorch;Data Structures;Python;Deep Learning;Excel;Git;Agile;Unit Testing;Technical Writing,1
+resume-0176,user-0244,weak,Git;SQL;Database Design;MongoDB;Microservices;Teamwork;Python;Agile;ETL,1
+resume-0177,user-0549,average,Network Security;SIEM;Bash;Linux;Python;Computer Networks;Web Security;Penetration Testing;Wireshark;Git;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0178,user-0262,strong,Computer Networks;Communication;OWASP Top 10;SIEM;Network Security;Python;Penetration Testing;Wireshark;Linux;Figma;Git;Agile;Unit Testing;Technical Writing,2
+resume-0179,user-0069,strong,System Design;Algorithms;SQL;Computer Networks;Data Structures;Object-Oriented Programming;Design Patterns;Problem Solving;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0180,user-0801,strong,Object-Oriented Programming;Data Structures;Unity;Unreal Engine;Excel;Teamwork;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0181,user-0338,average,Machine Learning;TensorFlow;scikit-learn;Python;Deep Learning;Git;Agile;Unit Testing;Technical Writing,3
+resume-0182,user-0254,average,Jupyter;Linear Algebra;Feature Engineering;SQL;scikit-learn;Python;Machine Learning;Statistics;Communication;NumPy;Agile;Excel;Git;REST APIs;Unit Testing;Technical Writing,2
+resume-0183,user-0093,weak,C#;Linear Algebra;Object-Oriented Programming;Unity;Unreal Engine;Git;Data Structures;Agile;Machine Learning,1
+resume-0184,user-0694,weak,Data Warehousing;Apache Spark;Database Design;PostgreSQL;Python;SQL;ETL;AWS;Git;Communication;Figma;Problem Solving;Agile;REST APIs,4
+resume-0185,user-0071,average,Web Accessibility;Communication;UI/UX Design;Teamwork;Responsive Design;Wireframing;Figma;HTML;Git;Agile;Unit Testing;Technical Writing,2
+resume-0186,user-0724,strong,C#;Unity;Unreal Engine;Object-Oriented Programming;Game Design;Git;C++;Problem Solving;Agile;Excel;Machine Learning;Unit Testing;Technical Writing,1
+resume-0187,user-0529,weak,Git;SQL;Express.js;Linux;Authentication;REST APIs;PostgreSQL;Python;Agile,1
+resume-0188,user-0609,strong,Linux;Network Security;Wireshark;SIEM;Git;Agile;Unit Testing;Technical Writing,1
+resume-0189,user-0172,weak,CI/CD;Network Security;Git;Docker;Agile;Machine Learning,2
+resume-0190,user-0236,weak,Feature Engineering;Machine Learning;SQL;Statistics;Pandas;NumPy;Apache Spark;Data Visualization;Python;Communication;Teamwork;Git;Agile;ETL,1
+resume-0191,user-0855,average,REST APIs;React;CSS;Authentication;TypeScript;JavaScript;Node.js;Next.js;Express.js;AWS;Git;Agile;Unit Testing;Technical Writing,1
+resume-0192,user-0494,weak,Data Warehousing;ETL;Apache Spark;Git;SQL;AWS;Docker;PostgreSQL;Database Design;Linux;Agile;REST APIs,2
+resume-0193,user-0237,strong,Pandas;Python;Tableau;Power BI;Data Analysis;Statistics;R;SQL;Database Design;Agile;Git;REST APIs;Unit Testing;Technical Writing,1
+resume-0194,user-0850,strong,Wireframing;HTML;Communication;UI/UX Design;Figma;Excel;Teamwork;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0195,user-0811,weak,Database Design;Python;Message Queues;AWS;Data Warehousing;Agile;Communication;SQL;Git,1
+resume-0196,user-0970,average,SQL;Object-Oriented Programming;Data Structures;Algorithms;Git;Python;Agile;Unit Testing;Technical Writing,3
+resume-0197,user-0474,strong,Arduino;Computer Networks;Git;C;Embedded Systems;Linux;C++;Python;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0198,user-0875,average,Object-Oriented Programming;C++;Git;C#;Linear Algebra;Unreal Engine;Game Design;Unity;Python;Excel;Agile;Unit Testing;Technical Writing,1
+resume-0199,user-0582,strong,Jupyter;Pandas;Data Visualization;Feature Engineering;Deep Learning;scikit-learn;Statistics;Excel;Git;Agile;Unit Testing;Technical Writing,1
+resume-0200,user-0984,weak,Linear Algebra;Object-Oriented Programming;Game Design;Unreal Engine;C#;Git;Agile,3
+resume-0201,user-0532,weak,Object-Oriented Programming;Linear Algebra;Game Design;Git;Problem Solving;Agile,2
+resume-0202,user-0484,average,Prompt Engineering;Large Language Models;FastAPI;REST APIs;Git;Elasticsearch;Python;Figma;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0203,user-0184,average,TypeScript;Next.js;Git;CSS;React;SQL;Linux;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0204,user-0542,strong,Unit Testing;TypeScript;Firebase;Kotlin;Agile;Git;Communication;Machine Learning;Technical Writing,1
+resume-0205,user-0462,average,SQL;Statistics;R;Pandas;Data Visualization;Data Analysis;Jupyter;Power BI;Communication;Excel;Git;Agile;Unit Testing;Technical Writing,2
+resume-0206,user-0473,average,Deep Learning;Data Structures;TensorFlow;PyTorch;Teamwork;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0207,user-0075,strong,Git;Express.js;Web Security;MongoDB;Microservices;Authentication;REST APIs;SQL;Database Design;System Design;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0208,user-0216,strong,Machine Learning;TensorFlow;scikit-learn;REST APIs;MLOps;Statistics;Deep Learning;Linear Algebra;Problem Solving;Python;Git;Agile;Unit Testing;Technical Writing,2
+resume-0209,user-0979,weak,Node.js;Authentication;TypeScript;JavaScript;CI/CD;SQL;HTML;Express.js;REST APIs;Git;Excel;Agile,1
+resume-0210,user-0042,strong,UI/UX Design;Web Accessibility;Responsive Design;Communication;Agile;Figma;Git;ETL;Unit Testing;Technical Writing,1
+resume-0211,user-0310,weak,Figma;UI/UX Design;Responsive Design;Communication;Wireframing;Web Accessibility;HTML;CSS;Teamwork;Git;Agile;REST APIs,2
+resume-0212,user-0145,average,JavaScript;Git;CSS;Responsive Design;Jest;TypeScript;HTML;REST APIs;Tailwind CSS;Vite;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0213,user-0238,strong,Natural Language Processing;Large Language Models;Python;Machine Learning;REST APIs;Prompt Engineering;PyTorch;Git;Agile;Unit Testing;Technical Writing,2
+resume-0214,user-0520,weak,Communication;SIEM;OWASP Top 10;Wireshark;Problem Solving;Git;Agile;REST APIs,1
+resume-0215,user-0481,weak,Computer Networks;Google Cloud;Kubernetes;AWS;Azure;Docker;Linux;Serverless;Python;Terraform;Git;Agile,1
+resume-0216,user-0687,average,React;CSS;Unit Testing;CI/CD;Node.js;Figma;Git;Agile;Machine Learning;Technical Writing,3
+resume-0217,user-0409,average,Terraform;Linux;AWS;Python;Teamwork;Figma;Git;Agile;Unit Testing;Technical Writing,1
+resume-0218,user-0517,average,Algorithms;System Design;Computer Networks;Design Patterns;Agile;SQL;Git;REST APIs;Unit Testing;Technical Writing,1
+resume-0219,user-0024,weak,Docker;Redis;Microservices;MongoDB;REST APIs;Unit Testing;SQL;Database Design;Teamwork;Communication;Git;Agile;Machine Learning,1
+resume-0220,user-0760,average,Python;API Testing;Selenium;Test-Driven Development;JavaScript;Git;Agile;Unit Testing;Technical Writing,1
+resume-0221,user-0602,average,PyTorch;Statistics;Docker;TensorFlow;Git;Agile;Unit Testing;Technical Writing,1
+resume-0222,user-0008,weak,Python;Kubernetes;AWS;Computer Networks;Excel;Git;Agile,1
+resume-0223,user-0015,strong,Computer Networks;Serverless;CI/CD;Kubernetes;Azure;AWS;Terraform;Docker;Network Security;Linux;Python;Problem Solving;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0224,user-0781,strong,Express.js;Authentication;Git;SQL;Teamwork;Agile;Unit Testing;Technical Writing,1
+resume-0225,user-0496,strong,AWS;Computer Networks;Serverless;Kubernetes;Python;Docker;Linux;Azure;Network Security;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0226,user-0691,average,Wireframing;Figma;CSS;HTML;UI/UX Design;Web Accessibility;Communication;Teamwork;Responsive Design;Git;Agile;Unit Testing;Technical Writing,3
+resume-0227,user-0757,average,Arduino;Computer Networks;Embedded Systems;C;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0228,user-0470,strong,Unit Testing;JavaScript;Jira;Python;Cypress;API Testing;Selenium;SQL;Agile;Git;Technical Writing,1
+resume-0229,user-0632,weak,Swift;JavaScript;Android Development;TypeScript;Communication;Agile;SQL;Git;Machine Learning,1
+resume-0230,user-0438,average,Large Language Models;Natural Language Processing;Prompt Engineering;REST APIs;Python;Linux;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0231,user-0289,strong,Statistics;SQL;Power BI;Pandas;Tableau;Data Analysis;Excel;Jupyter;Teamwork;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0232,user-0162,average,Linux;AWS;Serverless;Computer Networks;Google Cloud;Terraform;Python;Git;Agile;Unit Testing;Technical Writing,2
+resume-0233,user-0930,average,CSS;REST APIs;Node.js;Unit Testing;Next.js;React;Git;Agile;Technical Writing,1
+resume-0234,user-0472,strong,Terraform;AWS;Azure;Docker;Kubernetes;CI/CD;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0235,user-0468,average,MongoDB;PostgreSQL;Redis;SQL;Authentication;REST APIs;Git;System Design;Microservices;Agile;Unit Testing;Technical Writing,4
+resume-0236,user-0755,weak,JavaScript;TypeScript;Node.js;REST APIs;SQL;CSS;Git;CI/CD;Authentication;AWS;Excel;Teamwork;Agile,2
+resume-0237,user-0036,average,Object-Oriented Programming;Linear Algebra;Game Design;C++;Data Structures;Unity;C#;Unreal Engine;Git;Communication;Agile;Problem Solving;Unit Testing;Technical Writing,1
+resume-0238,user-0621,average,Arduino;C++;Linux;IoT;Computer Networks;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0239,user-0834,strong,Python;Design Patterns;Algorithms;Computer Networks;Data Structures;Linux;Git;Agile;Unit Testing;Technical Writing,1
+resume-0240,user-0543,strong,CI/CD;AWS;Network Security;Kubernetes;Git;Figma;Problem Solving;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0241,user-0378,average,REST APIs;Docker;Large Language Models;FastAPI;Git;Agile;Unit Testing;Technical Writing,1
+resume-0242,user-0153,weak,Jest;JavaScript;Responsive Design;Vite;React;Git;Agile,1
+resume-0243,user-0383,strong,Python;Machine Learning;FastAPI;Natural Language Processing;REST APIs;Git;Agile;Unit Testing;Technical Writing,1
+resume-0244,user-0252,weak,CSS;Figma;Git;Web Accessibility;TypeScript;Next.js;Communication;Linux;Agile;REST APIs,2
+resume-0245,user-0780,average,Operating Systems;Communication;Python;Computer Networks;Penetration Testing;Git;SQL;Figma;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0246,user-0633,average,AWS;Serverless;Kubernetes;Linux;Docker;Terraform;Computer Networks;CI/CD;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0247,user-0982,average,AWS;CI/CD;Google Cloud;Linux;Serverless;Azure;Terraform;Docker;Network Security;Computer Networks;SQL;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0248,user-0980,average,Tailwind CSS;TypeScript;Responsive Design;HTML;Web Accessibility;Jest;JavaScript;Agile;Git;ETL;Unit Testing;Technical Writing,1
+resume-0249,user-0537,strong,Git;Web Accessibility;React;REST APIs;CSS;TypeScript;Redux;JavaScript;Jest;Agile;Unit Testing;Technical Writing,1
+resume-0250,user-0331,strong,Docker;scikit-learn;Deep Learning;MLOps;SQL;Teamwork;Git;Agile;Unit Testing;Technical Writing,1
+resume-0251,user-0316,strong,Linux;CI/CD;Kubernetes;Docker;Python;Git;Bash;Figma;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0252,user-0070,average,CI/CD;AWS;Bash;Linux;Kubernetes;Docker;Git;Nginx;Prometheus;Agile;Unit Testing;Technical Writing,1
+resume-0253,user-0881,strong,Computer Networks;AWS;Linux;Terraform;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0254,user-0827,weak,Object-Oriented Programming;Git;Data Structures;Linux;SQL;Java;Design Patterns;Agile,1
+resume-0255,user-0733,strong,SQL;MongoDB;Database Design;Git;Docker;Unit Testing;REST APIs;Linux;Agile;Technical Writing,1
+resume-0256,user-0792,weak,Python;REST APIs;Unit Testing;Prompt Engineering;Communication;Git;Agile,1
+resume-0257,user-0643,strong,Express.js;Microservices;System Design;SQL;REST APIs;Database Design;Linux;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0258,user-0665,strong,Authentication;JavaScript;AWS;SQL;Git;REST APIs;TypeScript;React;HTML;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0259,user-0268,strong,Database Design;Docker;SQL;ETL;Data Warehousing;Apache Spark;Excel;Agile;Git;REST APIs;Unit Testing;Technical Writing,1
+resume-0260,user-0257,strong,Statistics;Excel;Power BI;SQL;Data Visualization;Data Analysis;R;Tableau;Python;Linux;Problem Solving;Git;Agile;Machine Learning;Unit Testing;Technical Writing,3
+resume-0261,user-0927,average,Python;REST APIs;Prompt Engineering;Unit Testing;Git;Agile;Machine Learning;Technical Writing,2
+resume-0262,user-0689,strong,Kotlin;React Native;Firebase;REST APIs;TypeScript;Communication;Python;Agile;Git;Unit Testing;Technical Writing,2
+resume-0263,user-0660,average,Git;Linux;Bash;Kubernetes;CI/CD;Prometheus;Computer Networks;Docker;AWS;Nginx;Communication;SQL;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0264,user-0344,average,Statistics;Linear Algebra;NumPy;SQL;Communication;Data Visualization;Git;Agile;REST APIs;Unit Testing;Technical Writing,3
+resume-0265,user-0716,strong,Game Design;C++;Unreal Engine;Data Structures;Unity;C#;Git;Linear Algebra;Object-Oriented Programming;SQL;Linux;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0266,user-0125,weak,Authentication;Git;JavaScript;REST APIs;Express.js;Docker;CSS;AWS;React;CI/CD;Excel;Python;Agile;Machine Learning,2
+resume-0267,user-0597,strong,Unit Testing;CI/CD;JavaScript;Selenium;Playwright;Python;API Testing;Cypress;Communication;Git;Agile;Technical Writing,1
+resume-0268,user-0368,strong,Linux;Redis;MongoDB;Docker;Database Design;Node.js;REST APIs;SQL;System Design;Python;Git;Agile;Unit Testing;Technical Writing,1
+resume-0269,user-0259,average,Bash;Nginx;CI/CD;Prometheus;GitHub Actions;Terraform;Excel;Python;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0270,user-0288,strong,OWASP Top 10;Linux;Network Security;Python;Wireshark;Git;Agile;Unit Testing;Technical Writing,1
+resume-0271,user-0959,strong,C++;Operating Systems;Embedded Systems;C;Arduino;Git;IoT;Computer Networks;Problem Solving;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0272,user-0688,weak,Data Warehousing;ETL;Docker;Python;Database Design;Git;Agile;REST APIs,1
+resume-0273,user-0914,average,Unreal Engine;Unity;Data Structures;Git;C#;Object-Oriented Programming;Linear Algebra;Game Design;Communication;Problem Solving;Excel;Agile;Machine Learning;Unit Testing;Technical Writing,4
+resume-0274,user-0211,average,Object-Oriented Programming;Algorithms;Unit Testing;Design Patterns;SQL;Problem Solving;Python;Excel;Git;Agile;REST APIs;Technical Writing,2
+resume-0275,user-0267,strong,Machine Learning;MLOps;Linear Algebra;Python;Statistics;Docker;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0276,user-0974,average,REST APIs;Docker;Node.js;Express.js;SQL;JavaScript;MongoDB;CSS;React;Authentication;Communication;Linux;Git;Agile;Unit Testing;Technical Writing,1
+resume-0277,user-0043,strong,Pandas;NumPy;SQL;Data Visualization;scikit-learn;Statistics;Linear Algebra;Python;Apache Spark;Linux;Excel;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0278,user-0949,average,Kubernetes;AWS;Computer Networks;CI/CD;Azure;Serverless;Teamwork;Python;Git;Agile;Unit Testing;Technical Writing,1
+resume-0279,user-0382,average,Unit Testing;MongoDB;Web Security;PostgreSQL;REST APIs;SQL;Database Design;Microservices;Docker;Redis;Communication;Git;Agile;Technical Writing,3
+resume-0280,user-0570,weak,C;Embedded Systems;Operating Systems;Python;Linux;Teamwork;Git;Agile;ETL,1
+resume-0281,user-0669,weak,Data Structures;Python;Linear Algebra;Statistics;Docker;Machine Learning;SQL;Git;Agile;ETL,3
+resume-0282,user-0519,strong,Node.js;Database Design;Redis;REST APIs;Authentication;Microservices;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0283,user-0372,average,JavaScript;HTML;Express.js;SQL;AWS;Authentication;React;Git;Node.js;Problem Solving;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0284,user-0340,average,Game Design;Git;Linear Algebra;Unreal Engine;Object-Oriented Programming;Unity;C++;Excel;Teamwork;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0285,user-0066,strong,C;Linux;Embedded Systems;C++;Computer Networks;Git;Agile;Unit Testing;Technical Writing,1
+resume-0286,user-0010,weak,Linux;CI/CD;AWS;Python;Network Security;Excel;Figma;Git;Agile;Machine Learning,1
+resume-0287,user-0937,weak,Linux;AWS;Computer Networks;Kubernetes;Terraform;Docker;Google Cloud;Azure;Python;CI/CD;Git;Agile;ETL,1
+resume-0288,user-0538,strong,C++;Unreal Engine;Linear Algebra;Data Structures;Problem Solving;Git;Agile;Unit Testing;Technical Writing,1
+resume-0289,user-0885,weak,C#;Game Design;Unreal Engine;Linear Algebra;Object-Oriented Programming;Git;Excel;SQL;Agile;REST APIs,1
+resume-0290,user-0156,strong,HTML;REST APIs;Git;Next.js;CSS;TypeScript;Web Accessibility;React;JavaScript;Responsive Design;Linux;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0291,user-0649,weak,Unit Testing;SQL;Express.js;Node.js;Git;Database Design;Docker;PostgreSQL;REST APIs;Authentication;Agile,1
+resume-0292,user-0106,strong,Serverless;Terraform;Linux;AWS;Computer Networks;Docker;Git;Agile;Unit Testing;Technical Writing,1
+resume-0293,user-0455,average,Figma;Responsive Design;Teamwork;Wireframing;UI/UX Design;Web Accessibility;HTML;CSS;Communication;Python;SQL;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0294,user-0099,strong,JavaScript;Playwright;CI/CD;Cypress;Test-Driven Development;Git;Selenium;Problem Solving;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0295,user-0892,weak,System Design;Git;Algorithms;Unit Testing;Java;Python;Data Structures;Object-Oriented Programming;Computer Networks;Linux;Agile;Machine Learning,3
+resume-0296,user-0536,strong,Apache Spark;Python;Feature Engineering;Machine Learning;Statistics;Jupyter;Linear Algebra;Data Visualization;Communication;Figma;Teamwork;Git;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0297,user-0681,strong,Prometheus;Terraform;Bash;AWS;Python;Kubernetes;CI/CD;Computer Networks;Network Security;Git;Problem Solving;Figma;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0298,user-0464,strong,Linux;Web Security;OWASP Top 10;Communication;Network Security;Wireshark;SIEM;Python;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0299,user-0281,strong,Linux;Operating Systems;C++;IoT;C;Embedded Systems;Python;Git;Arduino;Computer Networks;Excel;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0300,user-0824,weak,REST APIs;MongoDB;PostgreSQL;Microservices;Linux;Node.js;Unit Testing;Authentication;Database Design;System Design;Git;Agile;Machine Learning,2
+resume-0301,user-0333,average,System Design;Python;Object-Oriented Programming;Java;Git;SQL;Problem Solving;Linux;Agile;Unit Testing;Technical Writing,1
+resume-0302,user-0250,strong,SQL;Jupyter;Statistics;Machine Learning;scikit-learn;Python;Data Visualization;Deep Learning;Communication;Teamwork;Git;Agile;Unit Testing;Technical Writing,1
+resume-0303,user-0083,average,Git;Prompt Engineering;Python;Machine Learning;Elasticsearch;Docker;FastAPI;Large Language Models;Natural Language Processing;Agile;Unit Testing;Technical Writing,1
+resume-0304,user-0348,weak,Pandas;Tableau;Data Visualization;Python;Communication;Data Analysis;R;Teamwork;Git;Agile,1
+resume-0305,user-0617,average,C#;Game Design;Data Structures;Git;Unity;Linear Algebra;C++;Figma;Excel;Agile;Unit Testing;Technical Writing,2
+resume-0306,user-0647,strong,OWASP Top 10;Cryptography;SIEM;Network Security;Computer Networks;Linux;Python;Bash;Teamwork;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0307,user-0610,strong,Redis;PostgreSQL;Microservices;Node.js;Figma;Git;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0308,user-0444,strong,Cypress;Selenium;Git;Python;JavaScript;Problem Solving;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0309,user-0295,strong,Python;ETL;PostgreSQL;Docker;Git;AWS;SQL;Message Queues;Database Design;Communication;Linux;Agile;Unit Testing;Technical Writing,2
+resume-0310,user-0882,strong,Data Warehousing;ETL;SQL;Python;Linux;Apache Spark;PostgreSQL;AWS;Docker;Agile;Teamwork;Git;REST APIs;Unit Testing;Technical Writing,1
+resume-0311,user-0407,weak,Arduino;C++;Git;IoT;Embedded Systems;Operating Systems;C;Linux;Python;Excel;Agile;REST APIs,1
+resume-0312,user-0012,strong,HTML;Git;React;TypeScript;MongoDB;Node.js;Authentication;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0313,user-0573,strong,Operating Systems;Embedded Systems;Arduino;C;Git;IoT;Problem Solving;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0314,user-0460,strong,Linear Algebra;Git;C++;C#;Data Structures;Object-Oriented Programming;Unity;Teamwork;Agile;Python;Machine Learning;Unit Testing;Technical Writing,1
+resume-0315,user-0995,weak,Excel;Statistics;Tableau;Data Visualization;Python;Power BI;SQL;Linux;Git;Agile;ETL,1
+resume-0316,user-0347,average,Docker;scikit-learn;Git;MLOps;Python;Teamwork;Agile;Unit Testing;Technical Writing,1
+resume-0317,user-0741,average,Vite;React;Web Accessibility;CSS;Figma;Next.js;HTML;Redux;REST APIs;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0318,user-0512,strong,Pandas;Feature Engineering;SQL;NumPy;Agile;Python;Git;Unit Testing;Technical Writing,1
+resume-0319,user-0508,strong,Cryptography;Computer Networks;SIEM;Communication;Wireshark;Operating Systems;Linux;OWASP Top 10;Penetration Testing;Bash;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0320,user-0511,weak,Responsive Design;JavaScript;TypeScript;Tailwind CSS;Figma;Git;Agile;REST APIs,3
+resume-0321,user-0339,weak,Test-Driven Development;Unit Testing;JavaScript;Python;Playwright;Git;Selenium;API Testing;CI/CD;Cypress;Agile,1
+resume-0322,user-0242,weak,React;JavaScript;TypeScript;Next.js;Problem Solving;Git;Agile,1
+resume-0323,user-0524,weak,SQL;PostgreSQL;Data Warehousing;Docker;Linux;ETL;Apache Spark;Git;Agile;REST APIs,1
+resume-0324,user-0561,average,Docker;Bash;GitHub Actions;Linux;Communication;Agile;Git;Unit Testing;Technical Writing,1
+resume-0325,user-0969,strong,Git;Large Language Models;Prompt Engineering;Machine Learning;Excel;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0326,user-0461,weak,UI/UX Design;Web Accessibility;Figma;HTML;Wireframing;Communication;Responsive Design;CSS;Git;Agile,1
+resume-0327,user-0446,weak,TensorFlow;Python;Linear Algebra;Docker;Git;Agile;REST APIs,1
+resume-0328,user-0550,strong,Flutter;React Native;Kotlin;Swift;REST APIs;Communication;Problem Solving;Teamwork;Git;Agile;Unit Testing;Technical Writing,1
+resume-0329,user-0231,weak,Excel;Data Visualization;Pandas;Jupyter;Tableau;Statistics;Teamwork;Figma;Communication;Git;Agile,1
+resume-0330,user-0777,strong,Git;Arduino;Linux;Embedded Systems;C++;IoT;Figma;Communication;Agile;Unit Testing;Technical Writing,1
+resume-0331,user-0195,strong,SQL;Git;Data Warehousing;Apache Spark;ETL;Docker;AWS;PostgreSQL;Database Design;Figma;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0332,user-0133,average,CI/CD;Git;Unit Testing;Selenium;Playwright;Python;SQL;API Testing;JavaScript;Test-Driven Development;Agile;ETL;Technical Writing,2
+resume-0333,user-0282,average,Figma;Wireframing;UI/UX Design;Web Accessibility;Teamwork;Python;Git;Agile;Unit Testing;Technical Writing,1
+resume-0334,user-0483,strong,C;IoT;Linux;Arduino;Python;Embedded Systems;Git;Communication;Agile;Unit Testing;Technical Writing,2
+resume-0335,user-0752,average,API Testing;Unit Testing;Cypress;Python;CI/CD;Selenium;Agile;Git;ETL;Technical Writing,1
+resume-0336,user-0807,weak,Communication;Python;SIEM;Network Security;Computer Networks;OWASP Top 10;Agile;Linux;Git,2
+resume-0337,user-0115,average,React;JavaScript;Tailwind CSS;REST APIs;Git;Agile;ETL;Unit Testing;Technical Writing,3
+resume-0338,user-0739,weak,Linux;Serverless;Kubernetes;Terraform;Python;Problem Solving;Git;Agile;ETL,1
+resume-0339,user-0676,strong,Express.js;JavaScript;HTML;React;SQL;TypeScript;Authentication;Unit Testing;Git;Python;Agile;REST APIs;Technical Writing,1
+resume-0340,user-0771,weak,Excel;SQL;Tableau;Data Analysis;Data Visualization;R;Pandas;Power BI;Linux;Git;Agile;ETL,1
+resume-0341,user-0854,average,Kubernetes;Computer Networks;Linux;Nginx;Agile;Python;Git;Machine Learning;Unit Testing;Technical Writing,2
+resume-0342,user-0942,weak,Apache Spark;SQL;Python;ETL;Message Queues;Git;Agile,3
+resume-0343,user-0623,weak,AWS;Network Security;Computer Networks;Google Cloud;Docker;Problem Solving;Git;Agile;Machine Learning,2
+resume-0344,user-0533,strong,SQL;Playwright;Test-Driven Development;CI/CD;Python;Teamwork;Problem Solving;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0345,user-0921,average,Linux;Kubernetes;Computer Networks;Azure;CI/CD;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0346,user-0871,strong,SQL;REST APIs;Machine Learning;Docker;Python;Data Structures;Linear Algebra;TensorFlow;Teamwork;Git;Agile;Unit Testing;Technical Writing,3
+resume-0347,user-0725,weak,Unit Testing;Prompt Engineering;Natural Language Processing;PyTorch;FastAPI;Python;Large Language Models;Machine Learning;Git;SQL;Agile;REST APIs,1
+resume-0348,user-0292,average,REST APIs;Flutter;Firebase;React Native;JavaScript;Android Development;TypeScript;Git;iOS Development;Kotlin;Figma;Excel;Agile;Unit Testing;Technical Writing,1
+resume-0349,user-0432,weak,Express.js;SQL;Node.js;REST APIs;Git;HTML;React;TypeScript;Agile;Machine Learning,1
+resume-0350,user-0908,strong,Cypress;API Testing;Unit Testing;JavaScript;Python;SQL;Git;Agile;Machine Learning;Technical Writing,2
+resume-0351,user-0207,strong,Python;Apache Spark;Deep Learning;SQL;scikit-learn;Statistics;Machine Learning;Figma;Agile;Problem Solving;Git;ETL;Unit Testing;Technical Writing,2
+resume-0352,user-0818,strong,Deep Learning;TensorFlow;Linear Algebra;Data Structures;Docker;Git;scikit-learn;REST APIs;Statistics;Agile;Python;Unit Testing;Technical Writing,1
+resume-0353,user-0430,weak,Python;Git;Docker;SQL;TensorFlow;Linear Algebra;Deep Learning;REST APIs;Statistics;Problem Solving;Excel;Agile,1
+resume-0354,user-0574,strong,Responsive Design;CSS;Figma;Communication;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0355,user-0091,average,HTML;REST APIs;Jest;Redux;React;CSS;Git;Next.js;Vite;Communication;Teamwork;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0356,user-0354,weak,Operating Systems;IoT;Git;Python;Computer Networks;Linux;Arduino;C++;C;SQL;Agile;REST APIs,1
+resume-0357,user-0076,strong,Statistics;Pandas;Data Analysis;Python;Data Visualization;Power BI;Tableau;SQL;Excel;Communication;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0358,user-0398,average,Embedded Systems;C;Git;Python;IoT;Operating Systems;Linux;Computer Networks;SQL;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0359,user-0987,strong,REST APIs;Unit Testing;Machine Learning;Python;FastAPI;PyTorch;Prompt Engineering;Elasticsearch;Large Language Models;Git;Agile;Technical Writing,1
+resume-0360,user-0884,strong,Docker;AWS;Azure;Kubernetes;Python;Linux;Agile;Git;REST APIs;Unit Testing;Technical Writing,2
+resume-0361,user-0962,strong,Python;Statistics;R;Excel;Power BI;Data Analysis;Communication;SQL;Jupyter;Data Visualization;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0362,user-0630,weak,Figma;Communication;HTML;CSS;Web Accessibility;UI/UX Design;SQL;Linux;Git;Agile;ETL,3
+resume-0363,user-0836,strong,Kubernetes;Terraform;Git;Computer Networks;Python;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0364,user-0506,weak,Natural Language Processing;Prompt Engineering;Docker;Machine Learning;FastAPI;Git;Large Language Models;REST APIs;Excel;Figma;Agile,1
+resume-0365,user-0049,strong,Python;Large Language Models;Machine Learning;PyTorch;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0366,user-0278,weak,Docker;Deep Learning;scikit-learn;TensorFlow;Linear Algebra;PyTorch;SQL;Machine Learning;Agile;Git;REST APIs,1
+resume-0367,user-0986,strong,Operating Systems;OWASP Top 10;Web Security;Linux;Network Security;Cryptography;Wireshark;Computer Networks;SIEM;Figma;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0368,user-0350,strong,Figma;UI/UX Design;Responsive Design;Communication;Wireframing;HTML;Web Accessibility;Teamwork;Git;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0369,user-0119,average,Python;Natural Language Processing;Machine Learning;PyTorch;Large Language Models;Elasticsearch;Prompt Engineering;Excel;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0370,user-0614,weak,ETL;Data Warehousing;Apache Spark;SQL;Python;AWS;Linux;Problem Solving;Git;Agile;Machine Learning,2
+resume-0371,user-0386,average,Jupyter;NumPy;Communication;Python;Pandas;Git;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0372,user-0296,average,C++;Data Structures;Unity;Linear Algebra;C#;Linux;Teamwork;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0373,user-0886,weak,Git;Machine Learning;Python;REST APIs;Docker;SQL;Agile,2
+resume-0374,user-0858,weak,Computer Networks;Bash;Network Security;Python;Git;Excel;SQL;Agile,1
+resume-0375,user-0245,weak,REST APIs;React Native;UI/UX Design;Android Development;Flutter;Kotlin;Git;iOS Development;TypeScript;Agile,1
+resume-0376,user-0026,strong,Wireframing;UI/UX Design;Figma;Responsive Design;Communication;Problem Solving;Git;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0377,user-0390,average,PostgreSQL;Authentication;Unit Testing;SQL;System Design;Redis;Linux;Figma;Git;Agile;Machine Learning;Technical Writing,1
+resume-0378,user-0436,average,Docker;Linux;Serverless;Computer Networks;Terraform;AWS;Teamwork;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0379,user-0067,weak,Object-Oriented Programming;Computer Networks;Git;Python;Data Structures;SQL;System Design;Java;Operating Systems;Unit Testing;Problem Solving;Figma;Linux;Agile;Machine Learning,1
+resume-0380,user-0778,average,Network Security;Computer Networks;SIEM;Python;Linux;Git;Teamwork;Agile;Unit Testing;Technical Writing,3
+resume-0381,user-0640,strong,Node.js;Authentication;TypeScript;SQL;MongoDB;React;CSS;Communication;Figma;Git;Agile;Unit Testing;Technical Writing,2
+resume-0382,user-0899,average,Wireframing;Figma;CSS;HTML;Web Accessibility;Responsive Design;UI/UX Design;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0383,user-0279,strong,Kubernetes;Terraform;Computer Networks;AWS;Network Security;Git;Agile;Unit Testing;Technical Writing,1
+resume-0384,user-0931,strong,Authentication;MongoDB;Web Security;Node.js;Microservices;Linux;Problem Solving;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0385,user-0301,weak,Cryptography;Operating Systems;Linux;Communication;Excel;Git;Agile;REST APIs,1
+resume-0386,user-0168,strong,UI/UX Design;Firebase;REST APIs;Git;Kotlin;Flutter;JavaScript;Android Development;Unit Testing;SQL;Communication;Agile;Technical Writing,2
+resume-0387,user-0328,average,Unity;C++;Game Design;C#;Unreal Engine;Git;Data Structures;Linear Algebra;Agile;Unit Testing;Technical Writing,1
+resume-0388,user-0845,average,Kubernetes;Docker;AWS;Prometheus;Communication;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0389,user-0276,weak,REST APIs;SQL;Machine Learning;Linear Algebra;Deep Learning;Data Structures;PyTorch;TensorFlow;Statistics;Git;Agile,2
+resume-0390,user-0419,average,Linear Algebra;Unreal Engine;Git;Unity;Data Structures;C++;C#;Object-Oriented Programming;Teamwork;Figma;Agile;Unit Testing;Technical Writing,2
+resume-0391,user-0917,average,Node.js;HTML;Git;SQL;REST APIs;React;JavaScript;Unit Testing;Authentication;TypeScript;Communication;Agile;Technical Writing,2
+resume-0392,user-0123,average,IoT;C;Python;Computer Networks;Git;Operating Systems;Problem Solving;Agile;Unit Testing;Technical Writing,1
+resume-0393,user-0224,strong,Machine Learning;Python;MLOps;Linear Algebra;Docker;Deep Learning;Git;Agile;Unit Testing;Technical Writing,2
+resume-0394,user-0064,weak,REST APIs;Swift;UI/UX Design;JavaScript;React Native;SQL;Git;Agile;ETL,1
+resume-0395,user-0392,average,CI/CD;Docker;REST APIs;React;TypeScript;MongoDB;Unit Testing;HTML;Linux;Git;Agile;Technical Writing,1
+resume-0396,user-0304,weak,Design Patterns;Linux;System Design;Git;Algorithms;Object-Oriented Programming;Python;Agile,2
+resume-0397,user-0500,strong,Linux;Computer Networks;Docker;Kubernetes;Terraform;AWS;Prometheus;CI/CD;SQL;Communication;Git;Agile;Unit Testing;Technical Writing,2
+resume-0398,user-0204,strong,Data Structures;PyTorch;Docker;SQL;Statistics;Git;Agile;Unit Testing;Technical Writing,1
+resume-0399,user-0594,weak,JavaScript;iOS Development;REST APIs;Firebase;Git;Flutter;Unit Testing;Kotlin;TypeScript;Agile;Machine Learning,2
+resume-0400,user-0625,average,MLOps;Python;Statistics;scikit-learn;Machine Learning;TensorFlow;Deep Learning;REST APIs;Linear Algebra;Figma;Agile;Git;ETL;Unit Testing;Technical Writing,2
+resume-0401,user-0797,average,Unit Testing;MongoDB;Web Security;Docker;SQL;Express.js;Authentication;Microservices;REST APIs;Teamwork;Git;Agile;Technical Writing,1
+resume-0402,user-0619,strong,Database Design;Node.js;REST APIs;Authentication;Git;Agile;Unit Testing;Technical Writing,2
+resume-0403,user-0362,weak,SQL;Authentication;Unit Testing;MongoDB;CSS;JavaScript;Problem Solving;Linux;Git;Agile,1
+resume-0404,user-0198,average,Data Analysis;Statistics;Power BI;Excel;Communication;Git;Agile;Unit Testing;Technical Writing,1
+resume-0405,user-0933,weak,Network Security;Serverless;Python;CI/CD;Excel;Git;Agile;Machine Learning,1
+resume-0406,user-0547,weak,JavaScript;REST APIs;Swift;React Native;Unit Testing;Kotlin;Flutter;Firebase;Git;Communication;Agile,2
+resume-0407,user-0578,average,Statistics;TensorFlow;REST APIs;AWS;Python;SQL;scikit-learn;Excel;Git;Agile;ETL;Unit Testing;Technical Writing,3
+resume-0408,user-0695,average,Power BI;Jupyter;Data Visualization;R;Communication;SQL;Data Analysis;Teamwork;Excel;Git;Agile;Unit Testing;Technical Writing,1
+resume-0409,user-0209,strong,Git;Web Accessibility;CSS;HTML;REST APIs;Python;Agile;Unit Testing;Technical Writing,1
+resume-0410,user-0613,average,Database Design;Message Queues;ETL;PostgreSQL;Data Warehousing;Git;Figma;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0411,user-0280,strong,Docker;Linux;AWS;Google Cloud;Computer Networks;Python;Azure;Serverless;SQL;Problem Solving;Git;Agile;Unit Testing;Technical Writing,2
+resume-0412,user-0214,strong,SIEM;OWASP Top 10;Linux;Bash;Computer Networks;Web Security;Wireshark;Python;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0413,user-0820,strong,AWS;Git;CI/CD;MongoDB;Docker;CSS;JavaScript;TypeScript;SQL;Problem Solving;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0414,user-0370,strong,Excel;Pandas;R;Statistics;Data Visualization;Tableau;Python;Communication;Power BI;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0415,user-0659,weak,Tableau;Communication;SQL;Statistics;Pandas;Excel;Database Design;Data Analysis;Git;Agile;REST APIs,2
+resume-0416,user-0679,weak,Docker;Linux;ETL;Git;Agile;Machine Learning,2
+resume-0417,user-0196,strong,SIEM;OWASP Top 10;Python;Penetration Testing;Cryptography;Computer Networks;Linux;Wireshark;Bash;Network Security;Problem Solving;SQL;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0418,user-0748,average,Docker;JavaScript;Git;CSS;Figma;Communication;Excel;Agile;Unit Testing;Technical Writing,3
+resume-0419,user-0816,weak,Data Visualization;Excel;Python;Power BI;Pandas;Communication;Statistics;Tableau;SQL;Teamwork;Git;Agile;Machine Learning,1
+resume-0420,user-0611,weak,Web Security;Wireshark;Python;Linux;OWASP Top 10;Cryptography;Network Security;SIEM;Computer Networks;Communication;Teamwork;Figma;Git;Agile;Machine Learning,1
+resume-0421,user-0722,weak,Database Design;Data Warehousing;Git;AWS;Python;ETL;Linux;SQL;Communication;Agile;REST APIs,3
+resume-0422,user-0275,average,Linux;Operating Systems;C++;Python;Git;Arduino;Embedded Systems;IoT;C;SQL;Teamwork;Agile;REST APIs;Unit Testing;Technical Writing,3
+resume-0423,user-0202,average,Selenium;CI/CD;Test-Driven Development;Playwright;JavaScript;SQL;Teamwork;Agile;Git;Machine Learning;Unit Testing;Technical Writing,2
+resume-0424,user-0137,weak,Unity;Git;Linear Algebra;Unreal Engine;Game Design;C#;Object-Oriented Programming;C++;Agile,1
+resume-0425,user-0251,average,Computer Networks;OWASP Top 10;Linux;Bash;SIEM;Cryptography;Network Security;Agile;Excel;Python;Git;Unit Testing;Technical Writing,1
+resume-0426,user-0188,strong,Bash;Network Security;Docker;Git;GitHub Actions;CI/CD;Computer Networks;Prometheus;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0427,user-0283,average,Git;Machine Learning;Prompt Engineering;Unit Testing;Problem Solving;Linux;Communication;Agile;Technical Writing,1
+resume-0428,user-0426,strong,PyTorch;Large Language Models;Natural Language Processing;Python;Elasticsearch;Problem Solving;Git;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0429,user-0967,strong,JavaScript;Firebase;React Native;UI/UX Design;Swift;Figma;Python;SQL;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0430,user-0360,average,Express.js;CSS;HTML;Unit Testing;Git;Agile;Machine Learning;Technical Writing,1
+resume-0431,user-0365,average,Wireframing;Teamwork;Figma;Web Accessibility;UI/UX Design;Communication;Responsive Design;HTML;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0432,user-0127,weak,Responsive Design;HTML;Figma;Communication;Excel;Python;Git;Agile;Machine Learning,2
+resume-0433,user-0429,weak,Unit Testing;Algorithms;Java;Python;Data Structures;SQL;Problem Solving;Git;Agile;Machine Learning,1
+resume-0434,user-0509,average,Web Security;Git;SQL;Express.js;Node.js;REST APIs;Docker;Database Design;Agile;Unit Testing;Technical Writing,1
+resume-0435,user-0981,weak,Python;Docker;Machine Learning;Deep Learning;AWS;MLOps;Agile;Git;ETL,1
+resume-0436,user-0814,weak,AWS;Network Security;Computer Networks;Linux;Kubernetes;Serverless;Git;Agile;ETL,1
+resume-0437,user-0200,weak,Python;Unit Testing;SQL;Problem Solving;Object-Oriented Programming;Communication;Git;Agile,1
+resume-0438,user-0567,strong,Problem Solving;System Design;Algorithms;Data Structures;Operating Systems;SQL;Computer Networks;Object-Oriented Programming;Communication;Git;Agile;Unit Testing;Technical Writing,2
+resume-0439,user-0485,weak,Pandas;R;Jupyter;Power BI;Communication;Git;Agile,1
+resume-0440,user-0900,weak,React;HTML;TypeScript;Jest;Problem Solving;Python;Excel;Git;Agile;ETL,1
+resume-0441,user-0769,weak,Machine Learning;Linear Algebra;Deep Learning;Python;TensorFlow;REST APIs;Statistics;Communication;Linux;Git;Agile,1
+resume-0442,user-0810,weak,Docker;Large Language Models;PyTorch;Git;Python;Prompt Engineering;Elasticsearch;REST APIs;Agile;Machine Learning,1
+resume-0443,user-0750,average,IoT;Arduino;Embedded Systems;Operating Systems;C;Git;Agile;Unit Testing;Technical Writing,2
+resume-0444,user-0806,weak,Python;Unit Testing;Playwright;Cypress;Test-Driven Development;Selenium;SQL;Git;Linux;Agile;REST APIs,1
+resume-0445,user-0856,strong,JavaScript;CI/CD;Express.js;Node.js;Linux;Agile;Git;Unit Testing;Technical Writing,1
+resume-0446,user-0124,average,Embedded Systems;Operating Systems;C++;C;Linux;Problem Solving;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0447,user-0515,weak,Unity;Linear Algebra;Unreal Engine;C#;Object-Oriented Programming;C++;Python;Agile;Git,1
+resume-0448,user-0939,strong,Communication;Bash;Web Security;OWASP Top 10;Teamwork;SQL;Figma;Git;Agile;Unit Testing;Technical Writing,1
+resume-0449,user-0628,average,Python;Cypress;Unit Testing;Selenium;API Testing;Test-Driven Development;SQL;JavaScript;CI/CD;Git;Agile;REST APIs;Technical Writing,1
+resume-0450,user-0146,weak,Authentication;CI/CD;CSS;Node.js;Teamwork;SQL;Git;Agile,1
+resume-0451,user-0477,strong,Unit Testing;Flutter;TypeScript;React Native;Swift;Linux;Git;Agile;Technical Writing,2
+resume-0452,user-0935,strong,Database Design;Data Analysis;Communication;Tableau;Data Visualization;Excel;Agile;SQL;Figma;Git;Unit Testing;Technical Writing,1
+resume-0453,user-0385,strong,R;Excel;Data Analysis;Pandas;Python;Figma;Git;Agile;Unit Testing;Technical Writing,1
+resume-0454,user-0658,weak,API Testing;Unit Testing;JavaScript;Python;Git;Playwright;Selenium;SQL;Communication;Agile;Machine Learning,4
+resume-0455,user-0906,weak,Git;Docker;CI/CD;Kubernetes;Linux;Terraform;Computer Networks;Python;Network Security;AWS;Agile;REST APIs,1
+resume-0456,user-0427,average,Object-Oriented Programming;Unit Testing;Design Patterns;SQL;Data Structures;Algorithms;Git;Agile;Technical Writing,1
+resume-0457,user-0770,average,Unit Testing;Test-Driven Development;API Testing;Playwright;CI/CD;Git;JavaScript;Cypress;SQL;Figma;Agile;Technical Writing,2
+resume-0458,user-0364,weak,Statistics;scikit-learn;Pandas;Linear Algebra;Python;SQL;Communication;Machine Learning;Problem Solving;Excel;Agile;Git;ETL,3
+resume-0459,user-0369,strong,Unreal Engine;C#;Unity;C++;Game Design;Git;Linear Algebra;Object-Oriented Programming;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0460,user-0608,strong,Arduino;Git;Embedded Systems;Operating Systems;C;Python;IoT;C++;Figma;Agile;Unit Testing;Technical Writing,1
+resume-0461,user-0167,strong,Firebase;Unit Testing;React Native;Kotlin;REST APIs;TypeScript;Git;Swift;Flutter;Excel;Python;Problem Solving;Agile;Machine Learning;Technical Writing,1
+resume-0462,user-0534,average,Express.js;Database Design;Unit Testing;Git;PostgreSQL;Node.js;Docker;Communication;Python;Agile;REST APIs;Technical Writing,1
+resume-0463,user-0866,strong,C++;C#;Unreal Engine;Data Structures;Object-Oriented Programming;Unity;Game Design;Linear Algebra;Agile;Git;Machine Learning;Unit Testing;Technical Writing,1
+resume-0464,user-0019,strong,Git;Computer Networks;Kubernetes;Bash;Nginx;Prometheus;Python;Agile;REST APIs;Unit Testing;Technical Writing,2
+resume-0465,user-0826,weak,Operating Systems;Java;Unit Testing;Problem Solving;Data Structures;Object-Oriented Programming;Git;Python;Design Patterns;System Design;SQL;Agile,1
+resume-0466,user-0273,average,Unity;C++;Game Design;Object-Oriented Programming;C#;Git;Linear Algebra;Agile;ETL;Unit Testing;Technical Writing,2
+resume-0467,user-0499,weak,Next.js;CSS;JavaScript;Figma;Git;Agile,1
+resume-0468,user-0443,average,Python;Pandas;Excel;Data Analysis;Tableau;Data Visualization;Database Design;Power BI;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0469,user-0412,weak,Kubernetes;Google Cloud;Computer Networks;Network Security;Terraform;AWS;Python;CI/CD;Git;SQL;Agile,1
+resume-0470,user-0307,average,Docker;Linear Algebra;Deep Learning;Data Structures;Git;Agile;Unit Testing;Technical Writing,1
+resume-0471,user-0380,strong,Data Analysis;Statistics;Communication;SQL;Python;Power BI;Excel;R;Data Visualization;Problem Solving;Figma;Git;Agile;Unit Testing;Technical Writing,2
+resume-0472,user-0535,strong,FastAPI;Python;Large Language Models;PyTorch;Docker;REST APIs;Elasticsearch;Prompt Engineering;Communication;Problem Solving;Git;Agile;Unit Testing;Technical Writing,1
+resume-0473,user-0314,strong,Docker;SQL;ETL;Python;Data Warehousing;Linux;Message Queues;Apache Spark;AWS;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0474,user-0001,average,Linux;Kubernetes;Serverless;Network Security;AWS;Git;Communication;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0475,user-0846,strong,REST APIs;MongoDB;TypeScript;HTML;CSS;SQL;Python;Figma;Agile;Git;Unit Testing;Technical Writing,2
+resume-0476,user-0403,average,Pandas;R;Python;Excel;Data Visualization;Linux;Teamwork;Git;Agile;ETL;Unit Testing;Technical Writing,1
+resume-0477,user-0308,strong,CI/CD;JavaScript;Express.js;REST APIs;SQL;React;Docker;Git;Agile;Unit Testing;Technical Writing,1
+resume-0478,user-0925,strong,Computer Networks;Wireshark;Python;Web Security;Linux;Communication;Network Security;Penetration Testing;Teamwork;Excel;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0479,user-0596,weak,C;Python;Computer Networks;Arduino;Teamwork;Communication;Git;Agile;REST APIs,1
+resume-0480,user-0222,weak,TensorFlow;Deep Learning;Linear Algebra;Statistics;Docker;MLOps;Data Structures;AWS;Git;Agile;REST APIs,2
+resume-0481,user-0591,strong,Statistics;Machine Learning;TensorFlow;Linear Algebra;REST APIs;SQL;Deep Learning;Git;Agile;Unit Testing;Technical Writing,1
+resume-0482,user-0194,weak,Git;Jira;Unit Testing;API Testing;JavaScript;Test-Driven Development;CI/CD;Cypress;Playwright;Figma;Python;Problem Solving;Agile,3
+resume-0483,user-0690,strong,Teamwork;Communication;Figma;Responsive Design;Web Accessibility;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0484,user-0788,strong,AWS;Git;Docker;CI/CD;Bash;Linux;Terraform;Prometheus;Excel;Figma;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0485,user-0006,average,MongoDB;PostgreSQL;Node.js;Unit Testing;Redis;REST APIs;Database Design;Express.js;SQL;Agile;Git;Technical Writing,1
+resume-0486,user-0031,strong,Node.js;Microservices;Redis;Express.js;PostgreSQL;Docker;Database Design;Git;Agile;Machine Learning;Unit Testing;Technical Writing,1
+resume-0487,user-0644,weak,Jira;API Testing;Git;JavaScript;Selenium;Playwright;Test-Driven Development;Unit Testing;Cypress;CI/CD;Agile,1
+resume-0488,user-0101,strong,Cryptography;Computer Networks;SIEM;Linux;Teamwork;Problem Solving;Git;Agile;Unit Testing;Technical Writing,1
+resume-0489,user-0502,average,Git;React Native;Kotlin;REST APIs;Flutter;Excel;Communication;Agile;Machine Learning;Unit Testing;Technical Writing,2
+resume-0490,user-0090,weak,Selenium;SQL;Python;API Testing;Problem Solving;Figma;Git;Agile;ETL,1
+resume-0491,user-0059,weak,Python;Machine Learning;REST APIs;Unit Testing;Prompt Engineering;Natural Language Processing;FastAPI;Git;Agile,2
+resume-0492,user-0334,weak,C++;Game Design;Git;Unreal Engine;C#;Unity;Data Structures;Agile,2
+resume-0493,user-0098,average,API Testing;Git;Playwright;Unit Testing;JavaScript;CI/CD;Cypress;Python;SQL;Problem Solving;Agile;Technical Writing,2
+resume-0494,user-0291,weak,Design Patterns;Object-Oriented Programming;Unit Testing;Git;Problem Solving;Algorithms;System Design;SQL;Python;Operating Systems;Agile;ETL,1
+resume-0495,user-0618,weak,Python;Prompt Engineering;FastAPI;Unit Testing;Large Language Models;Elasticsearch;PyTorch;Machine Learning;Git;Docker;Agile,1
+resume-0496,user-0912,strong,ETL;Message Queues;SQL;Linux;AWS;Git;Data Warehousing;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0497,user-0097,average,Linear Algebra;AWS;scikit-learn;Python;PyTorch;Machine Learning;Deep Learning;Statistics;Data Structures;Teamwork;Communication;Linux;Git;Agile;REST APIs;Unit Testing;Technical Writing,1
+resume-0498,user-0374,strong,Computer Networks;Wireshark;Penetration Testing;OWASP Top 10;Web Security;Linux;Cryptography;Communication;Problem Solving;Git;Agile;Unit Testing;Technical Writing,1
+resume-0499,user-0009,strong,Database Design;Linux;Web Security;Node.js;Authentication;Docker;Git;Agile;ETL;Unit Testing;Technical Writing,3
+resume-0500,user-0745,average,Wireshark;Network Security;Communication;OWASP Top 10;Linux;Bash;Git;Python;Excel;Agile;Machine Learning;Unit Testing;Technical Writing,2

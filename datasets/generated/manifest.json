@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "baseDate": "2026-10-01T12:00:00.000Z",
+  "counts": {
+    "users": 1000,
+    "courses": 228,
+    "projects": 500,
+    "jobs": 300,
+    "resumes": 500,
+    "mentor_offers": 260,
+    "mentor_sessions": 900,
+    "reviews": 398,
+    "enrollments": 3000,
+    "bookmarks": 2500,
+    "join_requests": 450,
+    "applications": 1500,
+    "career_goals": 700,
+    "notifications": 2633
+  },
+  "note": "All records are synthetic and generated for demonstration and testing."
+}

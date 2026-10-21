@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Frontend Developer",
+    "description": "Builds accessible, responsive user interfaces for the web.",
+    "skills": [
+      {"name": "HTML", "weight": 3}, {"name": "CSS", "weight": 3}, {"name": "JavaScript", "weight": 3},
+      {"name": "React", "weight": 3}, {"name": "TypeScript", "weight": 2}, {"name": "Responsive Design", "weight": 2},
+      {"name": "Git", "weight": 2}, {"name": "REST APIs", "weight": 2}, {"name": "Web Accessibility", "weight": 2},
+      {"name": "Jest", "weight": 1}, {"name": "Next.js", "weight": 1}, {"name": "Tailwind CSS", "weight": 1},
+      {"name": "Redux", "weight": 1}, {"name": "Figma", "weight": 1}, {"name": "Vite", "weight": 1}
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "description": "Designs APIs, data models and server-side business logic.",
+    "skills": [
+      {"name": "Node.js", "weight": 3}, {"name": "REST APIs", "weight": 3}, {"name": "SQL", "weight": 3},
+      {"name": "Database Design", "weight": 3}, {"name": "Git", "weight": 2}, {"name": "Authentication", "weight": 2},
+      {"name": "Express.js", "weight": 2}, {"name": "PostgreSQL", "weight": 2}, {"name": "MongoDB", "weight": 2},
+      {"name": "Docker", "weight": 2}, {"name": "Unit Testing", "weight": 2}, {"name": "Redis", "weight": 1},
+      {"name": "System Design", "weight": 1}, {"name": "Microservices", "weight": 1}, {"name": "Linux", "weight": 1},
+      {"name": "Web Security", "weight": 1}
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "Ships complete features across the frontend, backend and database.",
+    "skills": [
+      {"name": "JavaScript", "weight": 3}, {"name": "React", "weight": 3}, {"name": "Node.js", "weight": 3},
+      {"name": "REST APIs", "weight": 3}, {"name": "HTML", "weight": 2}, {"name": "CSS", "weight": 2},
+      {"name": "MongoDB", "weight": 2}, {"name": "SQL", "weight": 2}, {"name": "Git", "weight": 2},
+      {"name": "Express.js", "weight": 2}, {"name": "TypeScript", "weight": 2}, {"name": "Authentication", "weight": 2},
+      {"name": "Docker", "weight": 1}, {"name": "Unit Testing", "weight": 1}, {"name": "CI/CD", "weight": 1},
+      {"name": "Next.js", "weight": 1}, {"name": "AWS", "weight": 1}
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Turns data into insights with SQL, statistics and dashboards.",
+    "skills": [
+      {"name": "SQL", "weight": 3}, {"name": "Excel", "weight": 3}, {"name": "Statistics", "weight": 3},
+      {"name": "Data Analysis", "weight": 3}, {"name": "Python", "weight": 2}, {"name": "Pandas", "weight": 2},
+      {"name": "Data Visualization", "weight": 2}, {"name": "Power BI", "weight": 2}, {"name": "Tableau", "weight": 2},
+      {"name": "Communication", "weight": 2}, {"name": "Jupyter", "weight": 1}, {"name": "Database Design", "weight": 1},
+      {"name": "R", "weight": 1}
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Builds statistical and machine-learning models to answer business questions.",
+    "skills": [
+      {"name": "Python", "weight": 3}, {"name": "Statistics", "weight": 3}, {"name": "Machine Learning", "weight": 3},
+      {"name": "Pandas", "weight": 3}, {"name": "SQL", "weight": 2}, {"name": "NumPy", "weight": 2},
+      {"name": "scikit-learn", "weight": 2}, {"name": "Data Visualization", "weight": 2}, {"name": "Feature Engineering", "weight": 2},
+      {"name": "Linear Algebra", "weight": 2}, {"name": "Jupyter", "weight": 1}, {"name": "Deep Learning", "weight": 1},
+      {"name": "Communication", "weight": 1}, {"name": "Apache Spark", "weight": 1}
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Trains, evaluates and deploys machine-learning models in production.",
+    "skills": [
+      {"name": "Python", "weight": 3}, {"name": "Machine Learning", "weight": 3}, {"name": "Deep Learning", "weight": 3},
+      {"name": "PyTorch", "weight": 2}, {"name": "TensorFlow", "weight": 2}, {"name": "scikit-learn", "weight": 2},
+      {"name": "MLOps", "weight": 2}, {"name": "Docker", "weight": 2}, {"name": "Linear Algebra", "weight": 2},
+      {"name": "Statistics", "weight": 2}, {"name": "SQL", "weight": 1}, {"name": "Git", "weight": 1},
+      {"name": "AWS", "weight": 1}, {"name": "REST APIs", "weight": 1}, {"name": "Data Structures", "weight": 1}
+    ]
+  },
+  {
+    "title": "AI / LLM Engineer",
+    "description": "Builds applications on top of large language models: RAG, agents, evaluation.",
+    "skills": [
+      {"name": "Python", "weight": 3}, {"name": "Large Language Models", "weight": 3}, {"name": "Prompt Engineering", "weight": 3},
+      {"name": "Natural Language Processing", "weight": 2}, {"name": "REST APIs", "weight": 2}, {"name": "FastAPI", "weight": 2},
+      {"name": "Machine Learning", "weight": 2}, {"name": "PyTorch", "weight": 1}, {"name": "Docker", "weight": 1},
+      {"name": "Elasticsearch", "weight": 1}, {"name": "Git", "weight": 1}, {"name": "Unit Testing", "weight": 1}
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Automates builds, deployments and infrastructure; keeps systems reliable.",
+    "skills": [
+      {"name": "Linux", "weight": 3}, {"name": "Docker", "weight": 3}, {"name": "CI/CD", "weight": 3},
+      {"name": "Kubernetes", "weight": 3}, {"name": "AWS", "weight": 2}, {"name": "Terraform", "weight": 2},
+      {"name": "Bash", "weight": 2}, {"name": "Git", "weight": 2}, {"name": "Computer Networks", "weight": 2},
+      {"name": "Prometheus", "weight": 2}, {"name": "GitHub Actions", "weight": 1}, {"name": "Python", "weight": 1},
+      {"name": "Nginx", "weight": 1}, {"name": "Network Security", "weight": 1}
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Designs and operates secure, cost-efficient cloud infrastructure.",
+    "skills": [
+      {"name": "AWS", "weight": 3}, {"name": "Linux", "weight": 3}, {"name": "Computer Networks", "weight": 3},
+      {"name": "Terraform", "weight": 2}, {"name": "Docker", "weight": 2}, {"name": "Serverless", "weight": 2},
+      {"name": "Kubernetes", "weight": 2}, {"name": "Azure", "weight": 1}, {"name": "Google Cloud", "weight": 1},
+      {"name": "Python", "weight": 1}, {"name": "Network Security", "weight": 1}, {"name": "CI/CD", "weight": 1}
+    ]
+  },
+  {
+    "title": "Mobile App Developer",
+    "description": "Builds native or cross-platform mobile applications.",
+    "skills": [
+      {"name": "React Native", "weight": 3}, {"name": "Flutter", "weight": 2}, {"name": "JavaScript", "weight": 2},
+      {"name": "Kotlin", "weight": 2}, {"name": "Swift", "weight": 2}, {"name": "REST APIs", "weight": 2},
+      {"name": "Git", "weight": 2}, {"name": "Firebase", "weight": 2}, {"name": "UI/UX Design", "weight": 1},
+      {"name": "Android Development", "weight": 1}, {"name": "iOS Development", "weight": 1}, {"name": "Unit Testing", "weight": 1},
+      {"name": "TypeScript", "weight": 1}
+    ]
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "description": "Monitors, detects and responds to security threats.",
+    "skills": [
+      {"name": "Network Security", "weight": 3}, {"name": "Computer Networks", "weight": 3}, {"name": "Linux", "weight": 3},
+      {"name": "SIEM", "weight": 2}, {"name": "Penetration Testing", "weight": 2}, {"name": "Cryptography", "weight": 2},
+      {"name": "Wireshark", "weight": 2}, {"name": "OWASP Top 10", "weight": 2}, {"name": "Python", "weight": 2},
+      {"name": "Bash", "weight": 1}, {"name": "Web Security", "weight": 1}, {"name": "Operating Systems", "weight": 1},
+      {"name": "Communication", "weight": 1}
+    ]
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "Researches users and designs intuitive product experiences.",
+    "skills": [
+      {"name": "UI/UX Design", "weight": 3}, {"name": "Figma", "weight": 3}, {"name": "Wireframing", "weight": 3},
+      {"name": "Web Accessibility", "weight": 2}, {"name": "Communication", "weight": 2}, {"name": "HTML", "weight": 1},
+      {"name": "CSS", "weight": 1}, {"name": "Responsive Design", "weight": 2}, {"name": "Teamwork", "weight": 1}
+    ]
+  },
+  {
+    "title": "QA Automation Engineer",
+    "description": "Builds automated test suites that keep releases safe.",
+    "skills": [
+      {"name": "Unit Testing", "weight": 3}, {"name": "API Testing", "weight": 3}, {"name": "Selenium", "weight": 2},
+      {"name": "Cypress", "weight": 2}, {"name": "Playwright", "weight": 2}, {"name": "JavaScript", "weight": 2},
+      {"name": "Python", "weight": 2}, {"name": "CI/CD", "weight": 2}, {"name": "Git", "weight": 1},
+      {"name": "SQL", "weight": 1}, {"name": "Jira", "weight": 1}, {"name": "Test-Driven Development", "weight": 1}
+    ]
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Builds reliable pipelines and warehouses that move and model data.",
+    "skills": [
+      {"name": "SQL", "weight": 3}, {"name": "Python", "weight": 3}, {"name": "ETL", "weight": 3},
+      {"name": "Data Warehousing", "weight": 3}, {"name": "Apache Spark", "weight": 2}, {"name": "Database Design", "weight": 2},
+      {"name": "AWS", "weight": 2}, {"name": "Docker", "weight": 1}, {"name": "Linux", "weight": 1},
+      {"name": "Message Queues", "weight": 1}, {"name": "Git", "weight": 1}, {"name": "PostgreSQL", "weight": 1}
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "description": "Generalist engineer with strong CS fundamentals and clean code habits.",
+    "skills": [
+      {"name": "Data Structures", "weight": 3}, {"name": "Algorithms", "weight": 3}, {"name": "Object-Oriented Programming", "weight": 3},
+      {"name": "Git", "weight": 2}, {"name": "SQL", "weight": 2}, {"name": "Java", "weight": 2},
+      {"name": "Python", "weight": 2}, {"name": "Unit Testing", "weight": 2}, {"name": "System Design", "weight": 2},
+      {"name": "Operating Systems", "weight": 1}, {"name": "Computer Networks", "weight": 1}, {"name": "Design Patterns", "weight": 1},
+      {"name": "Linux", "weight": 1}, {"name": "Problem Solving", "weight": 1}
+    ]
+  },
+  {
+    "title": "Game Developer",
+    "description": "Builds gameplay systems and interactive experiences.",
+    "skills": [
+      {"name": "Unity", "weight": 3}, {"name": "C#", "weight": 3}, {"name": "Game Design", "weight": 2},
+      {"name": "C++", "weight": 2}, {"name": "Unreal Engine", "weight": 2}, {"name": "Linear Algebra", "weight": 2},
+      {"name": "Object-Oriented Programming", "weight": 2}, {"name": "Git", "weight": 1}, {"name": "Data Structures", "weight": 1}
+    ]
+  },
+  {
+    "title": "Embedded Systems Engineer",
+    "description": "Writes firmware for microcontrollers and connected devices.",
+    "skills": [
+      {"name": "C", "weight": 3}, {"name": "Embedded Systems", "weight": 3}, {"name": "C++", "weight": 2},
+      {"name": "Operating Systems", "weight": 2}, {"name": "Arduino", "weight": 2}, {"name": "IoT", "weight": 2},
+      {"name": "Computer Networks", "weight": 1}, {"name": "Linux", "weight": 1}, {"name": "Python", "weight": 1},
+      {"name": "Git", "weight": 1}
+    ]
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {"qid": "js-1", "skill": "JavaScript", "type": "conceptual", "question": "Explain the difference between var, let and const in JavaScript.", "points": [
+    {"label": "var is function-scoped", "keywords": ["function scope", "function-scoped", "function scoped"]},
+    {"label": "let/const are block-scoped", "keywords": ["block scope", "block-scoped", "block scoped"]},
+    {"label": "hoisting / temporal dead zone", "keywords": ["hoist", "temporal dead zone", "tdz"]},
+    {"label": "const prevents reassignment (not mutation)", "keywords": ["reassign", "mutat", "cannot be changed", "immutable binding"]}]},
+  {"qid": "js-2", "skill": "JavaScript", "type": "conceptual", "question": "What is a closure in JavaScript? Give a practical use case.", "points": [
+    {"label": "function remembers its lexical scope", "keywords": ["lexical", "outer scope", "remembers", "enclosing"]},
+    {"label": "access after outer function returns", "keywords": ["after", "returned", "outer function"]},
+    {"label": "practical use (data privacy, factories, callbacks)", "keywords": ["private", "counter", "factory", "callback", "memoiz", "event handler"]}]},
+  {"qid": "js-3", "skill": "JavaScript", "type": "technical", "question": "How does the JavaScript event loop handle asynchronous code?", "points": [
+    {"label": "single-threaded call stack", "keywords": ["call stack", "single thread", "single-threaded"]},
+    {"label": "task / callback queue", "keywords": ["callback queue", "task queue", "macrotask", "message queue"]},
+    {"label": "microtasks (promises) run before macrotasks", "keywords": ["microtask", "promise"]},
+    {"label": "Web APIs / non-blocking I/O", "keywords": ["web api", "settimeout", "non-blocking", "libuv"]}]},
+  {"qid": "js-4", "skill": "JavaScript", "type": "technical", "question": "Compare callbacks, promises and async/await for handling asynchronous operations.", "points": [
+    {"label": "callback hell / nesting", "keywords": ["callback hell", "nest", "pyramid"]},
+    {"label": "promises chain with then/catch", "keywords": ["then", "chain", "resolve", "reject"]},
+    {"label": "async/await is syntax over promises", "keywords": ["syntactic sugar", "built on promises", "await"]},
+    {"label": "error handling with try/catch", "keywords": ["try", "catch", "error handling"]}]},
+  {"qid": "ts-1", "skill": "TypeScript", "type": "conceptual", "question": "Why use TypeScript over JavaScript, and what is the difference between an interface and a type alias?", "points": [
+    {"label": "static type checking catches errors early", "keywords": ["compile time", "static typ", "catch errors", "type check"]},
+    {"label": "better tooling / autocompletion", "keywords": ["autocomplet", "intellisense", "tooling", "refactor"]},
+    {"label": "interfaces can be extended / merged", "keywords": ["extend", "declaration merging", "merge"]},
+    {"label": "type aliases support unions and primitives", "keywords": ["union", "primitive", "intersection"]}]},
+  {"qid": "ts-2", "skill": "TypeScript", "type": "technical", "question": "What are generics in TypeScript and when would you use them?", "points": [
+    {"label": "reusable code that works over many types", "keywords": ["reusable", "any type", "many types", "type parameter"]},
+    {"label": "keeps type safety (vs any)", "keywords": ["type safe", "type-safe", "instead of any", "preserve"]},
+    {"label": "example (array helper, API response, Promise<T>)", "keywords": ["array", "promise<", "response", "<t>", "list"]}]},
+
+  {"qid": "react-1", "skill": "React", "type": "conceptual", "question": "What is the virtual DOM and how does React use it to update the UI?", "points": [
+    {"label": "in-memory representation of the UI", "keywords": ["in-memory", "in memory", "lightweight copy", "javascript object"]},
+    {"label": "diffing / reconciliation", "keywords": ["diff", "reconcil", "compare"]},
+    {"label": "minimal real DOM updates", "keywords": ["minimal", "only the changed", "batch", "efficient"]},
+    {"label": "keys help identify list items", "keywords": ["key"]}]},
+  {"qid": "react-2", "skill": "React", "type": "technical", "question": "Explain useEffect: when it runs, the dependency array, and cleanup.", "points": [
+    {"label": "runs after render for side effects", "keywords": ["after render", "side effect", "after the component"]},
+    {"label": "dependency array controls re-runs", "keywords": ["dependency", "dependencies", "empty array", "[]"]},
+    {"label": "cleanup function on unmount / before re-run", "keywords": ["cleanup", "clean up", "unmount", "unsubscribe"]},
+    {"label": "common uses: fetching, subscriptions, timers", "keywords": ["fetch", "subscription", "timer", "listener"]}]},
+  {"qid": "react-3", "skill": "React", "type": "technical", "question": "How do you manage state that many components need? Compare lifting state, Context and a state library.", "points": [
+    {"label": "lifting state to a common parent", "keywords": ["lift", "common parent", "props"]},
+    {"label": "Context avoids prop drilling", "keywords": ["context", "prop drilling"]},
+    {"label": "state libraries (Redux/Zustand) for complex global state", "keywords": ["redux", "zustand", "store", "mobx"]},
+    {"label": "trade-offs: re-renders / complexity", "keywords": ["re-render", "rerender", "complex", "boilerplate", "performance"]}]},
+  {"qid": "react-4", "skill": "React", "type": "technical", "question": "How would you find and fix performance problems in a React app?", "points": [
+    {"label": "profile with React DevTools", "keywords": ["profiler", "devtools", "measure"]},
+    {"label": "memoization (React.memo, useMemo, useCallback)", "keywords": ["memo", "usememo", "usecallback"]},
+    {"label": "code splitting / lazy loading", "keywords": ["lazy", "code split", "suspense", "dynamic import"]},
+    {"label": "virtualize long lists / avoid unnecessary re-renders", "keywords": ["virtual", "windowing", "re-render", "rerender"]}]},
+
+  {"qid": "node-1", "skill": "Node.js", "type": "conceptual", "question": "Why is Node.js good at I/O-heavy workloads but not CPU-heavy ones?", "points": [
+    {"label": "event-driven, non-blocking I/O", "keywords": ["non-blocking", "event-driven", "event loop", "asynchronous"]},
+    {"label": "single main thread", "keywords": ["single thread", "single-threaded", "one thread"]},
+    {"label": "CPU work blocks the event loop", "keywords": ["block", "cpu-intensive", "cpu intensive", "heavy computation"]},
+    {"label": "worker threads / offloading as a solution", "keywords": ["worker thread", "child process", "offload", "queue"]}]},
+  {"qid": "node-2", "skill": "Node.js", "type": "technical", "question": "How do you handle errors in an asynchronous Node.js/Express application?", "points": [
+    {"label": "try/catch with async/await", "keywords": ["try", "catch"]},
+    {"label": "centralised error-handling middleware", "keywords": ["error middleware", "error handler", "middleware", "next(err"]},
+    {"label": "unhandled rejections / process events", "keywords": ["unhandled", "unhandledrejection", "uncaughtexception"]},
+    {"label": "meaningful status codes and logging", "keywords": ["status code", "log", "500", "400"]}]},
+  {"qid": "node-3", "skill": "Express.js", "type": "conceptual", "question": "What is middleware in Express and how does the request pipeline work?", "points": [
+    {"label": "functions with req, res, next", "keywords": ["req", "res", "next"]},
+    {"label": "run in order they are registered", "keywords": ["order", "sequence", "pipeline", "chain"]},
+    {"label": "examples: auth, logging, parsing", "keywords": ["auth", "logging", "body pars", "cors", "json"]},
+    {"label": "can end the response or call next", "keywords": ["end the response", "send", "call next", "pass control"]}]},
+  {"qid": "express-2", "skill": "Express.js", "type": "technical", "question": "How would you structure a medium-sized Express API so it stays maintainable?", "points": [
+    {"label": "routes / controllers / services separation", "keywords": ["controller", "service", "routes", "layer"]},
+    {"label": "validation layer", "keywords": ["validat", "zod", "joi", "schema"]},
+    {"label": "config and environment variables", "keywords": ["env", "config", "dotenv"]},
+    {"label": "tests", "keywords": ["test", "supertest", "jest"]}]},
+
+  {"qid": "rest-1", "skill": "REST APIs", "type": "conceptual", "question": "What makes an API RESTful? Explain resources, HTTP methods and status codes.", "points": [
+    {"label": "resources identified by URLs", "keywords": ["resource", "url", "endpoint", "noun"]},
+    {"label": "HTTP verbs (GET/POST/PUT/PATCH/DELETE)", "keywords": ["get", "post", "put", "delete", "patch"]},
+    {"label": "stateless requests", "keywords": ["stateless"]},
+    {"label": "meaningful status codes", "keywords": ["status code", "200", "201", "404", "400"]}]},
+  {"qid": "rest-2", "skill": "REST APIs", "type": "technical", "question": "What is the difference between PUT and PATCH, and what does idempotent mean?", "points": [
+    {"label": "PUT replaces the whole resource", "keywords": ["replace", "entire", "whole", "full update"]},
+    {"label": "PATCH updates part of a resource", "keywords": ["partial", "part of", "some fields"]},
+    {"label": "idempotent: repeating gives same result", "keywords": ["same result", "same effect", "multiple times", "repeat"]}]},
+  {"qid": "rest-3", "skill": "REST APIs", "type": "technical", "question": "How would you design pagination, filtering and versioning for a public API?", "points": [
+    {"label": "limit/offset or cursor pagination", "keywords": ["limit", "offset", "cursor", "page"]},
+    {"label": "query parameters for filters/sorting", "keywords": ["query param", "filter", "sort"]},
+    {"label": "versioning (URL or header)", "keywords": ["/v1", "version", "header"]},
+    {"label": "return metadata (total, next page)", "keywords": ["total", "next", "metadata", "has more"]}]},
+  {"qid": "auth-1", "skill": "Authentication", "type": "conceptual", "question": "Explain how JWT-based authentication works and its security trade-offs.", "points": [
+    {"label": "signed token with claims", "keywords": ["sign", "signature", "claims", "payload"]},
+    {"label": "sent in Authorization header / cookie", "keywords": ["authorization header", "bearer", "cookie"]},
+    {"label": "server verifies signature (stateless)", "keywords": ["verify", "stateless", "secret"]},
+    {"label": "expiry / revocation is hard", "keywords": ["expir", "revoke", "revocation", "refresh token", "blacklist"]},
+    {"label": "storage risks (XSS / httpOnly)", "keywords": ["xss", "httponly", "localstorage"]}]},
+  {"qid": "auth-2", "skill": "Authentication", "type": "technical", "question": "How should passwords be stored and why?", "points": [
+    {"label": "never store plain text", "keywords": ["plain text", "plaintext", "never store"]},
+    {"label": "slow adaptive hash (bcrypt/argon2/scrypt)", "keywords": ["bcrypt", "argon2", "scrypt", "pbkdf2"]},
+    {"label": "unique salt per password", "keywords": ["salt"]},
+    {"label": "protects against rainbow tables / brute force", "keywords": ["rainbow", "brute force", "brute-force", "leak", "breach"]}]},
+
+  {"qid": "sql-1", "skill": "SQL", "type": "technical", "question": "Explain the different types of SQL JOINs with an example.", "points": [
+    {"label": "INNER JOIN returns matching rows", "keywords": ["inner join", "matching rows", "both tables"]},
+    {"label": "LEFT/RIGHT JOIN keep unmatched rows from one side", "keywords": ["left join", "right join", "null"]},
+    {"label": "FULL OUTER JOIN", "keywords": ["full outer", "full join"]},
+    {"label": "concrete example", "keywords": ["customers", "orders", "users", "students", "employees", "example"]}]},
+  {"qid": "sql-2", "skill": "SQL", "type": "technical", "question": "What is the difference between WHERE and HAVING, and how does GROUP BY work?", "points": [
+    {"label": "WHERE filters rows before grouping", "keywords": ["before group", "individual rows", "before aggregat"]},
+    {"label": "HAVING filters groups after aggregation", "keywords": ["after group", "aggregat", "groups"]},
+    {"label": "GROUP BY with aggregate functions", "keywords": ["count", "sum", "avg", "aggregate"]}]},
+  {"qid": "sql-3", "skill": "SQL", "type": "technical", "question": "What are indexes and when can they hurt performance?", "points": [
+    {"label": "speed up lookups (B-tree)", "keywords": ["faster", "b-tree", "btree", "lookup", "search"]},
+    {"label": "slow down writes", "keywords": ["insert", "write", "update", "slower writes"]},
+    {"label": "extra storage", "keywords": ["storage", "space", "memory"]},
+    {"label": "choose columns used in WHERE/JOIN; composite indexes", "keywords": ["where", "join", "composite", "selectiv"]}]},
+  {"qid": "db-1", "skill": "Database Design", "type": "conceptual", "question": "What is normalization? When would you deliberately denormalize?", "points": [
+    {"label": "reduce redundancy / anomalies", "keywords": ["redundan", "duplicate", "anomal"]},
+    {"label": "normal forms (1NF/2NF/3NF)", "keywords": ["1nf", "2nf", "3nf", "normal form"]},
+    {"label": "denormalize for read performance", "keywords": ["read performance", "faster reads", "fewer joins", "reporting"]},
+    {"label": "trade-off: consistency vs speed", "keywords": ["consisten", "trade-off", "tradeoff"]}]},
+  {"qid": "db-2", "skill": "Database Design", "type": "technical", "question": "Explain ACID transactions.", "points": [
+    {"label": "Atomicity", "keywords": ["atomic", "all or nothing"]},
+    {"label": "Consistency", "keywords": ["consisten", "valid state"]},
+    {"label": "Isolation", "keywords": ["isolat", "concurrent"]},
+    {"label": "Durability", "keywords": ["durab", "persist", "survive"]}]},
+  {"qid": "mongo-1", "skill": "MongoDB", "type": "conceptual", "question": "When would you choose MongoDB over a relational database? How do you model relationships in MongoDB?", "points": [
+    {"label": "flexible document schema", "keywords": ["flexible", "schema-less", "schemaless", "document"]},
+    {"label": "embedding vs referencing", "keywords": ["embed", "reference", "populate", "ref"]},
+    {"label": "relational better for complex joins / strict consistency", "keywords": ["join", "transaction", "relational", "consisten"]},
+    {"label": "model around access patterns", "keywords": ["access pattern", "query pattern", "how data is read"]}]},
+  {"qid": "mongo-2", "skill": "MongoDB", "type": "technical", "question": "What is the aggregation pipeline in MongoDB? Give an example.", "points": [
+    {"label": "stages that transform documents", "keywords": ["stage", "pipeline"]},
+    {"label": "$match / $group / $project / $sort", "keywords": ["$match", "$group", "$project", "$sort", "match", "group"]},
+    {"label": "example such as totals per category", "keywords": ["total", "count", "average", "per", "example"]}]},
+
+  {"qid": "py-1", "skill": "Python", "type": "conceptual", "question": "What is the difference between a list and a tuple in Python, and when would you use a dictionary or a set?", "points": [
+    {"label": "lists are mutable, tuples immutable", "keywords": ["mutable", "immutable"]},
+    {"label": "tuples can be dict keys / hashable", "keywords": ["hashable", "dictionary key", "dict key"]},
+    {"label": "dict for key-value lookups (O(1))", "keywords": ["key-value", "key value", "o(1)", "lookup", "hash"]},
+    {"label": "set for uniqueness / membership", "keywords": ["unique", "membership", "duplicates"]}]},
+  {"qid": "py-2", "skill": "Python", "type": "technical", "question": "Explain generators and the yield keyword. Why are they useful?", "points": [
+    {"label": "produce values lazily", "keywords": ["lazy", "on demand", "one at a time"]},
+    {"label": "yield pauses and resumes the function", "keywords": ["pause", "resume", "state"]},
+    {"label": "memory efficient for large data", "keywords": ["memory", "large", "stream"]},
+    {"label": "iterators protocol", "keywords": ["iterator", "next(", "__next__", "iterable"]}]},
+  {"qid": "py-3", "skill": "Python", "type": "technical", "question": "What are decorators in Python? Write or describe a simple one.", "points": [
+    {"label": "function that wraps another function", "keywords": ["wrap", "takes a function", "returns a function"]},
+    {"label": "@ syntax", "keywords": ["@"]},
+    {"label": "use cases: logging, timing, auth, caching", "keywords": ["logging", "timing", "auth", "cache", "retry"]},
+    {"label": "functools.wraps preserves metadata", "keywords": ["functools", "wraps"]}]},
+
+  {"qid": "ds-1", "skill": "Data Structures", "type": "conceptual", "question": "Compare arrays and linked lists in terms of access, insertion and memory.", "points": [
+    {"label": "array O(1) random access", "keywords": ["o(1)", "index", "random access", "constant time"]},
+    {"label": "linked list O(n) access", "keywords": ["o(n)", "traverse", "linear"]},
+    {"label": "linked list cheap insert/delete at known node", "keywords": ["insert", "delete", "pointer"]},
+    {"label": "memory: contiguous vs nodes with pointers", "keywords": ["contiguous", "pointer", "overhead", "cache"]}]},
+  {"qid": "ds-2", "skill": "Data Structures", "type": "conceptual", "question": "How does a hash table work, and how are collisions handled?", "points": [
+    {"label": "hash function maps keys to buckets", "keywords": ["hash function", "bucket", "index"]},
+    {"label": "average O(1) operations", "keywords": ["o(1)", "constant"]},
+    {"label": "collision handling: chaining / open addressing", "keywords": ["chaining", "open addressing", "linear probing", "probing"]},
+    {"label": "load factor and resizing", "keywords": ["load factor", "resiz", "rehash"]}]},
+  {"qid": "ds-3", "skill": "Data Structures", "type": "conceptual", "question": "When would you use a stack, a queue and a heap? Give one example for each.", "points": [
+    {"label": "stack: LIFO (undo, call stack, DFS)", "keywords": ["lifo", "undo", "call stack", "dfs", "parenthes"]},
+    {"label": "queue: FIFO (BFS, scheduling)", "keywords": ["fifo", "bfs", "schedul", "buffer"]},
+    {"label": "heap: priority queue (top-k, Dijkstra)", "keywords": ["priority", "top k", "top-k", "dijkstra", "min-heap", "max-heap"]}]},
+  {"qid": "algo-1", "skill": "Algorithms", "type": "conceptual", "question": "Explain Big-O notation and give the time complexity of binary search and merge sort.", "points": [
+    {"label": "describes growth as input grows (worst case)", "keywords": ["growth", "input size", "worst case", "upper bound"]},
+    {"label": "binary search O(log n)", "keywords": ["log n", "logn", "o(log"]},
+    {"label": "merge sort O(n log n)", "keywords": ["n log n", "nlogn"]},
+    {"label": "space complexity mentioned", "keywords": ["space", "memory"]}]},
+  {"qid": "algo-2", "skill": "Algorithms", "type": "technical", "question": "What is dynamic programming? Walk through a classic problem.", "points": [
+    {"label": "overlapping subproblems", "keywords": ["overlapping", "subproblem"]},
+    {"label": "optimal substructure", "keywords": ["optimal substructure"]},
+    {"label": "memoization or tabulation", "keywords": ["memoiz", "tabulat", "bottom-up", "top-down", "cache"]},
+    {"label": "example (Fibonacci, knapsack, LCS, coin change)", "keywords": ["fibonacci", "knapsack", "lcs", "coin", "longest common"]}]},
+  {"qid": "algo-3", "skill": "Algorithms", "type": "technical", "question": "Compare BFS and DFS. When is each the better choice?", "points": [
+    {"label": "BFS explores level by level with a queue", "keywords": ["level", "queue", "breadth"]},
+    {"label": "DFS goes deep with a stack/recursion", "keywords": ["stack", "recursion", "depth"]},
+    {"label": "BFS finds shortest path in unweighted graphs", "keywords": ["shortest path", "unweighted"]},
+    {"label": "DFS for cycle detection / topological sort / backtracking", "keywords": ["cycle", "topological", "backtrack", "connected component"]}]},
+  {"qid": "oop-1", "skill": "Object-Oriented Programming", "type": "conceptual", "question": "Explain the four pillars of object-oriented programming.", "points": [
+    {"label": "encapsulation", "keywords": ["encapsulat"]},
+    {"label": "abstraction", "keywords": ["abstract"]},
+    {"label": "inheritance", "keywords": ["inherit"]},
+    {"label": "polymorphism", "keywords": ["polymorph"]}]},
+  {"qid": "oop-2", "skill": "Object-Oriented Programming", "type": "conceptual", "question": "When would you prefer composition over inheritance?", "points": [
+    {"label": "has-a vs is-a", "keywords": ["has-a", "has a", "is-a", "is a"]},
+    {"label": "inheritance creates tight coupling / fragile hierarchies", "keywords": ["coupling", "fragile", "deep hierarch", "rigid"]},
+    {"label": "composition is more flexible / swappable behaviour", "keywords": ["flexib", "swap", "runtime", "reuse"]}]},
+  {"qid": "sd-1", "skill": "System Design", "type": "technical", "question": "Design a URL shortener. What are the main components and how does it scale?", "points": [
+    {"label": "key generation (hash / base62 / counter)", "keywords": ["base62", "hash", "counter", "unique id", "short code"]},
+    {"label": "database for mapping", "keywords": ["database", "key-value", "store", "table"]},
+    {"label": "cache hot URLs", "keywords": ["cache", "redis"]},
+    {"label": "horizontal scaling / load balancer", "keywords": ["load balanc", "horizontal", "replica", "shard"]},
+    {"label": "redirect with 301/302 and analytics", "keywords": ["redirect", "301", "302", "analytics"]}]},
+  {"qid": "sd-2", "skill": "System Design", "type": "conceptual", "question": "What is caching, where can you add caches, and how do you keep them correct?", "points": [
+    {"label": "store frequently used data closer/faster", "keywords": ["frequent", "faster", "memory", "latency"]},
+    {"label": "layers: browser, CDN, application, database", "keywords": ["cdn", "browser", "redis", "application cache", "memcache"]},
+    {"label": "invalidation strategies / TTL", "keywords": ["invalidat", "ttl", "expir", "write-through", "cache-aside"]},
+    {"label": "stale data trade-off", "keywords": ["stale", "consisten"]}]},
+  {"qid": "sd-3", "skill": "System Design", "type": "conceptual", "question": "Explain horizontal vs vertical scaling and the role of a load balancer.", "points": [
+    {"label": "vertical: bigger machine", "keywords": ["bigger machine", "more cpu", "more ram", "scale up", "vertical"]},
+    {"label": "horizontal: more machines", "keywords": ["more machines", "more servers", "scale out", "horizontal"]},
+    {"label": "load balancer distributes traffic", "keywords": ["distribut", "round robin", "load balanc"]},
+    {"label": "stateless services make scaling easier", "keywords": ["stateless", "session"]}]},
+
+  {"qid": "git-1", "skill": "Git", "type": "conceptual", "question": "What is the difference between git merge and git rebase?", "points": [
+    {"label": "merge creates a merge commit, preserves history", "keywords": ["merge commit", "preserve", "history"]},
+    {"label": "rebase rewrites commits onto a new base", "keywords": ["rewrite", "replay", "linear", "new base"]},
+    {"label": "don't rebase shared/public branches", "keywords": ["shared", "public", "pushed", "force push"]}]},
+  {"qid": "git-2", "skill": "Git", "type": "technical", "question": "Describe a good Git branching workflow for a team project.", "points": [
+    {"label": "feature branches", "keywords": ["feature branch", "branch per"]},
+    {"label": "pull requests and code review", "keywords": ["pull request", "pr", "code review", "review"]},
+    {"label": "protected main branch / CI checks", "keywords": ["protect", "main", "ci", "checks"]},
+    {"label": "small focused commits with clear messages", "keywords": ["commit message", "small commit", "atomic commit"]}]},
+  {"qid": "docker-1", "skill": "Docker", "type": "conceptual", "question": "What is the difference between a Docker image and a container, and how is Docker different from a VM?", "points": [
+    {"label": "image is a read-only template", "keywords": ["template", "read-only", "blueprint", "layers"]},
+    {"label": "container is a running instance", "keywords": ["running instance", "instance"]},
+    {"label": "containers share the host kernel", "keywords": ["kernel", "share"]},
+    {"label": "lighter and faster than VMs", "keywords": ["lightweight", "lighter", "faster", "overhead"]}]},
+  {"qid": "docker-2", "skill": "Docker", "type": "technical", "question": "How would you write an efficient, secure Dockerfile for a Node.js app?", "points": [
+    {"label": "small base image (alpine/slim)", "keywords": ["alpine", "slim", "small base", "distroless"]},
+    {"label": "layer caching: copy package files first", "keywords": ["package.json", "cache", "layer"]},
+    {"label": "multi-stage builds", "keywords": ["multi-stage", "multistage", "multi stage"]},
+    {"label": "run as non-root, no secrets in image", "keywords": ["non-root", "user node", "secret", ".dockerignore"]}]},
+  {"qid": "k8s-1", "skill": "Kubernetes", "type": "conceptual", "question": "Explain Pods, Deployments and Services in Kubernetes.", "points": [
+    {"label": "Pod: smallest unit, one or more containers", "keywords": ["smallest", "one or more containers", "pod"]},
+    {"label": "Deployment manages replicas and rollouts", "keywords": ["replica", "rollout", "rolling update", "desired state"]},
+    {"label": "Service gives stable networking / load balancing", "keywords": ["stable", "ip", "dns", "load balanc", "clusterip"]}]},
+  {"qid": "k8s-2", "skill": "Kubernetes", "type": "technical", "question": "How does Kubernetes keep an application healthy and scalable?", "points": [
+    {"label": "liveness and readiness probes", "keywords": ["liveness", "readiness", "probe", "health check"]},
+    {"label": "self-healing restarts", "keywords": ["restart", "self-heal", "reschedul"]},
+    {"label": "horizontal pod autoscaler", "keywords": ["autoscal", "hpa"]},
+    {"label": "resource requests and limits", "keywords": ["requests", "limits", "resource"]}]},
+  {"qid": "linux-1", "skill": "Linux", "type": "technical", "question": "How would you investigate a Linux server that has suddenly become slow?", "points": [
+    {"label": "check CPU/memory (top, htop, free)", "keywords": ["top", "htop", "free", "vmstat", "cpu", "memory"]},
+    {"label": "check disk usage / I/O (df, du, iostat)", "keywords": ["df", "du", "iostat", "disk"]},
+    {"label": "check logs (journalctl, /var/log)", "keywords": ["journalctl", "/var/log", "log", "dmesg"]},
+    {"label": "check processes / network (ps, ss, netstat)", "keywords": ["ps ", "netstat", "ss ", "lsof", "process"]}]},
+  {"qid": "linux-2", "skill": "Linux", "type": "conceptual", "question": "Explain Linux file permissions and what chmod 755 means.", "points": [
+    {"label": "read/write/execute", "keywords": ["read", "write", "execute", "rwx"]},
+    {"label": "owner/group/others", "keywords": ["owner", "group", "others"]},
+    {"label": "755 = rwx for owner, r-x for group and others", "keywords": ["rwxr-xr-x", "owner can", "7 ", "5 "]}]},
+  {"qid": "cicd-1", "skill": "CI/CD", "type": "conceptual", "question": "What is CI/CD and what stages would a good pipeline contain?", "points": [
+    {"label": "continuous integration: merge often, automated build/test", "keywords": ["integration", "merge", "automat"]},
+    {"label": "continuous delivery/deployment", "keywords": ["deliver", "deploy"]},
+    {"label": "stages: lint, test, build, deploy", "keywords": ["lint", "test", "build", "deploy"]},
+    {"label": "fast feedback / rollback", "keywords": ["feedback", "rollback", "roll back"]}]},
+  {"qid": "cicd-2", "skill": "CI/CD", "type": "technical", "question": "How do you manage secrets and environments safely in a CI/CD pipeline?", "points": [
+    {"label": "never commit secrets", "keywords": ["never commit", "not in code", "gitignore", "repository"]},
+    {"label": "use the CI's secret store / vault", "keywords": ["secret", "vault", "secrets manager"]},
+    {"label": "separate staging and production", "keywords": ["staging", "production", "environment"]},
+    {"label": "least privilege / rotation", "keywords": ["least privilege", "rotat", "scoped"]}]},
+  {"qid": "aws-1", "skill": "AWS", "type": "conceptual", "question": "Which AWS services would you use to host a web app with a database and file uploads?", "points": [
+    {"label": "compute (EC2 / ECS / Lambda / Elastic Beanstalk)", "keywords": ["ec2", "ecs", "lambda", "beanstalk", "fargate"]},
+    {"label": "database (RDS / DynamoDB)", "keywords": ["rds", "dynamodb", "aurora"]},
+    {"label": "file storage (S3)", "keywords": ["s3"]},
+    {"label": "networking / security (VPC, IAM, security groups)", "keywords": ["vpc", "iam", "security group"]},
+    {"label": "CDN (CloudFront)", "keywords": ["cloudfront", "cdn"]}]},
+  {"qid": "aws-2", "skill": "AWS", "type": "conceptual", "question": "What is IAM and what does the principle of least privilege mean?", "points": [
+    {"label": "IAM manages identities and permissions", "keywords": ["identit", "permission", "users", "roles", "policies"]},
+    {"label": "least privilege: only permissions needed", "keywords": ["only the permissions", "minimum", "least privilege", "only what"]},
+    {"label": "roles instead of long-lived keys", "keywords": ["role", "temporary credential", "access key"]}]},
+  {"qid": "net-1", "skill": "Computer Networks", "type": "conceptual", "question": "What happens when you type a URL into the browser and press Enter?", "points": [
+    {"label": "DNS resolution", "keywords": ["dns"]},
+    {"label": "TCP connection / TLS handshake", "keywords": ["tcp", "handshake", "tls", "ssl"]},
+    {"label": "HTTP request and response", "keywords": ["http request", "get request", "response"]},
+    {"label": "browser renders HTML/CSS/JS", "keywords": ["render", "parse", "dom"]}]},
+  {"qid": "net-2", "skill": "Computer Networks", "type": "conceptual", "question": "Compare TCP and UDP and give a use case for each.", "points": [
+    {"label": "TCP reliable, ordered, connection-oriented", "keywords": ["reliable", "ordered", "connection-oriented", "handshake"]},
+    {"label": "UDP connectionless, faster, no guarantee", "keywords": ["connectionless", "no guarantee", "faster", "unreliable"]},
+    {"label": "use cases: web/email vs streaming/gaming/DNS", "keywords": ["stream", "gaming", "video", "dns", "voip", "web", "email"]}]},
+  {"qid": "os-1", "skill": "Operating Systems", "type": "conceptual", "question": "What is the difference between a process and a thread?", "points": [
+    {"label": "process has its own memory space", "keywords": ["own memory", "separate memory", "address space"]},
+    {"label": "threads share memory within a process", "keywords": ["share memory", "shared memory", "same memory"]},
+    {"label": "threads are lighter to create/switch", "keywords": ["lightweight", "lighter", "context switch"]},
+    {"label": "synchronization issues (race conditions)", "keywords": ["race condition", "lock", "mutex", "synchroniz"]}]},
+  {"qid": "os-2", "skill": "Operating Systems", "type": "conceptual", "question": "What is a deadlock and how can it be prevented?", "points": [
+    {"label": "processes waiting on each other forever", "keywords": ["waiting", "each other", "forever", "circular"]},
+    {"label": "four Coffman conditions", "keywords": ["mutual exclusion", "hold and wait", "no preemption", "circular wait"]},
+    {"label": "prevention: lock ordering, timeouts", "keywords": ["order", "timeout", "avoid", "banker"]}]},
+
+  {"qid": "stats-1", "skill": "Statistics", "type": "conceptual", "question": "Explain p-values and statistical significance in plain language.", "points": [
+    {"label": "probability of data at least this extreme if null is true", "keywords": ["null hypothesis", "if the null", "at least as extreme", "by chance"]},
+    {"label": "significance level / alpha (e.g. 0.05)", "keywords": ["0.05", "alpha", "significance level", "threshold"]},
+    {"label": "not the probability the hypothesis is true", "keywords": ["not the probability", "misinterpret", "does not prove"]}]},
+  {"qid": "stats-2", "skill": "Statistics", "type": "conceptual", "question": "What is the difference between correlation and causation? How could you establish causation?", "points": [
+    {"label": "correlation is association", "keywords": ["associat", "move together", "relationship"]},
+    {"label": "confounding variables", "keywords": ["confound", "third variable", "lurking"]},
+    {"label": "randomized experiments / A/B tests", "keywords": ["random", "a/b test", "experiment", "control group"]}]},
+  {"qid": "ml-1", "skill": "Machine Learning", "type": "conceptual", "question": "Explain overfitting and how to prevent it.", "points": [
+    {"label": "model memorizes training data, poor generalization", "keywords": ["memoriz", "generaliz", "training data", "noise"]},
+    {"label": "detect via validation / test gap", "keywords": ["validation", "test set", "gap"]},
+    {"label": "regularization", "keywords": ["regulariz", "l1", "l2", "dropout"]},
+    {"label": "more data / simpler model / cross-validation / early stopping", "keywords": ["more data", "simpler", "cross-validation", "cross validation", "early stopping"]}]},
+  {"qid": "ml-2", "skill": "Machine Learning", "type": "conceptual", "question": "Explain the bias-variance trade-off.", "points": [
+    {"label": "bias: error from overly simple assumptions (underfitting)", "keywords": ["underfit", "too simple", "bias"]},
+    {"label": "variance: sensitivity to training data (overfitting)", "keywords": ["overfit", "sensitiv", "variance"]},
+    {"label": "balance to minimize total error", "keywords": ["balance", "trade-off", "tradeoff", "total error"]}]},
+  {"qid": "ml-3", "skill": "Machine Learning", "type": "technical", "question": "Which metrics would you use for an imbalanced classification problem and why?", "points": [
+    {"label": "accuracy is misleading", "keywords": ["accuracy is misleading", "accuracy can be", "not accuracy", "misleading"]},
+    {"label": "precision and recall", "keywords": ["precision", "recall"]},
+    {"label": "F1 score", "keywords": ["f1"]},
+    {"label": "ROC-AUC / PR-AUC / confusion matrix", "keywords": ["auc", "roc", "confusion matrix"]}]},
+  {"qid": "ml-4", "skill": "Machine Learning", "type": "technical", "question": "Walk through how you would build a model end-to-end, from raw data to deployment.", "points": [
+    {"label": "define problem and metric", "keywords": ["define", "metric", "objective"]},
+    {"label": "data cleaning and EDA", "keywords": ["clean", "eda", "explor", "missing values"]},
+    {"label": "feature engineering and train/validation split", "keywords": ["feature", "split", "train", "validation"]},
+    {"label": "model selection and tuning", "keywords": ["baseline", "hyperparameter", "tuning", "cross-validation"]},
+    {"label": "deployment and monitoring", "keywords": ["deploy", "monitor", "drift", "api"]}]},
+  {"qid": "dl-1", "skill": "Deep Learning", "type": "conceptual", "question": "Explain how a neural network learns using backpropagation and gradient descent.", "points": [
+    {"label": "forward pass computes predictions", "keywords": ["forward pass", "forward propagation", "prediction"]},
+    {"label": "loss function measures error", "keywords": ["loss"]},
+    {"label": "backpropagation computes gradients (chain rule)", "keywords": ["gradient", "chain rule", "backprop"]},
+    {"label": "gradient descent updates weights with a learning rate", "keywords": ["learning rate", "update the weights", "weights"]}]},
+  {"qid": "dl-2", "skill": "Deep Learning", "type": "conceptual", "question": "What are CNNs and why do they work well for images?", "points": [
+    {"label": "convolutional filters detect local patterns", "keywords": ["filter", "kernel", "convolution", "local pattern", "edges"]},
+    {"label": "parameter sharing", "keywords": ["parameter sharing", "shared weights", "fewer parameters"]},
+    {"label": "pooling / hierarchy of features", "keywords": ["pooling", "hierarch", "deeper layers"]}]},
+  {"qid": "pandas-1", "skill": "Pandas", "type": "technical", "question": "How do you handle missing values and duplicates in a pandas DataFrame?", "points": [
+    {"label": "detect with isnull/isna", "keywords": ["isnull", "isna", "info()"]},
+    {"label": "drop or fill (dropna, fillna, imputation)", "keywords": ["dropna", "fillna", "imput", "mean", "median"]},
+    {"label": "drop_duplicates", "keywords": ["drop_duplicates", "duplicated"]},
+    {"label": "reason about why data is missing", "keywords": ["why", "bias", "domain", "pattern"]}]},
+  {"qid": "pandas-2", "skill": "Pandas", "type": "technical", "question": "Explain groupby, merge and pivot_table in pandas with examples.", "points": [
+    {"label": "groupby + aggregation", "keywords": ["groupby", "agg", "sum", "mean"]},
+    {"label": "merge like SQL joins", "keywords": ["merge", "join", "on="]},
+    {"label": "pivot_table reshapes data", "keywords": ["pivot", "reshape", "index", "columns"]}]},
+  {"qid": "da-1", "skill": "Data Analysis", "type": "technical", "question": "A product's weekly sales dropped 20%. How would you investigate?", "points": [
+    {"label": "verify data quality first", "keywords": ["data quality", "verify", "tracking", "pipeline"]},
+    {"label": "segment (region, channel, product, customer)", "keywords": ["segment", "region", "channel", "break down"]},
+    {"label": "check external factors / seasonality", "keywords": ["season", "holiday", "competitor", "external"]},
+    {"label": "form hypotheses and communicate findings", "keywords": ["hypothes", "stakeholder", "communicat", "dashboard"]}]},
+  {"qid": "da-2", "skill": "Data Analysis", "type": "conceptual", "question": "How do you choose the right chart for a dataset?", "points": [
+    {"label": "line chart for trends over time", "keywords": ["line", "trend", "time"]},
+    {"label": "bar chart for comparisons", "keywords": ["bar", "compar", "categor"]},
+    {"label": "scatter for relationships, histogram for distributions", "keywords": ["scatter", "histogram", "distribution", "relationship"]},
+    {"label": "keep it simple / audience", "keywords": ["audience", "simple", "clear", "avoid pie"]}]},
+  {"qid": "nlp-1", "skill": "Natural Language Processing", "type": "conceptual", "question": "How would you turn text into features for a machine-learning model?", "points": [
+    {"label": "tokenization and cleaning", "keywords": ["token", "lowercase", "stop word", "stemming", "lemmat"]},
+    {"label": "bag of words / TF-IDF", "keywords": ["bag of words", "tf-idf", "tfidf", "count vector"]},
+    {"label": "embeddings (word2vec, transformers)", "keywords": ["embedding", "word2vec", "bert", "transformer"]}]},
+  {"qid": "llm-1", "skill": "Large Language Models", "type": "conceptual", "question": "What is retrieval-augmented generation (RAG) and why is it used?", "points": [
+    {"label": "retrieve relevant documents for a query", "keywords": ["retriev", "search", "relevant documents"]},
+    {"label": "embeddings / vector store", "keywords": ["embedding", "vector"]},
+    {"label": "add retrieved context to the prompt", "keywords": ["context", "prompt"]},
+    {"label": "reduces hallucinations, uses up-to-date/private data", "keywords": ["hallucinat", "up-to-date", "private data", "grounded"]}]},
+  {"qid": "llm-2", "skill": "Large Language Models", "type": "technical", "question": "How would you evaluate the quality of an LLM-powered feature before shipping it?", "points": [
+    {"label": "build a test set of realistic inputs", "keywords": ["test set", "eval set", "dataset", "examples"]},
+    {"label": "define criteria / rubric", "keywords": ["criteria", "rubric", "metric"]},
+    {"label": "automated + human evaluation", "keywords": ["human", "automat", "llm-as-judge", "judge"]},
+    {"label": "monitor in production / regressions", "keywords": ["monitor", "regression", "production", "feedback"]}]},
+  {"qid": "netsec-1", "skill": "Network Security", "type": "conceptual", "question": "What is defense in depth? Give examples of layers.", "points": [
+    {"label": "multiple independent security layers", "keywords": ["multiple layers", "layers", "layered"]},
+    {"label": "firewalls / network segmentation", "keywords": ["firewall", "segment", "vpc"]},
+    {"label": "authentication / MFA / least privilege", "keywords": ["mfa", "multi-factor", "least privilege", "access control"]},
+    {"label": "monitoring / patching / encryption", "keywords": ["monitor", "patch", "encrypt", "logging"]}]},
+  {"qid": "netsec-2", "skill": "Network Security", "type": "technical", "question": "How would you respond to a suspected compromised server?", "points": [
+    {"label": "contain / isolate the host", "keywords": ["isolate", "contain", "disconnect"]},
+    {"label": "preserve evidence / logs", "keywords": ["evidence", "forensic", "snapshot", "logs"]},
+    {"label": "identify root cause and scope", "keywords": ["root cause", "scope", "investigat"]},
+    {"label": "eradicate, recover, rotate credentials", "keywords": ["rotate", "credential", "rebuild", "patch", "recover"]},
+    {"label": "post-incident review", "keywords": ["post-incident", "lessons learned", "postmortem", "report"]}]},
+  {"qid": "owasp-1", "skill": "OWASP Top 10", "type": "technical", "question": "Explain SQL injection and XSS, and how to prevent each.", "points": [
+    {"label": "SQL injection: untrusted input changes the query", "keywords": ["untrusted input", "query", "inject"]},
+    {"label": "prevent with parameterized queries / ORM", "keywords": ["parameteriz", "prepared statement", "orm", "placeholder"]},
+    {"label": "XSS: injected scripts run in other users' browsers", "keywords": ["script", "browser", "cross-site scripting"]},
+    {"label": "prevent with output encoding / escaping / CSP", "keywords": ["escap", "encod", "sanitiz", "csp", "content security policy"]}]},
+  {"qid": "owasp-2", "skill": "OWASP Top 10", "type": "conceptual", "question": "What is broken access control and how do you test for it?", "points": [
+    {"label": "users can act outside intended permissions", "keywords": ["permission", "unauthorized", "outside", "other users"]},
+    {"label": "IDOR example", "keywords": ["idor", "insecure direct object", "change the id"]},
+    {"label": "enforce checks server-side on every request", "keywords": ["server-side", "server side", "every request", "deny by default"]},
+    {"label": "test with different roles/accounts", "keywords": ["different user", "different role", "another account", "test"]}]},
+  {"qid": "crypto-1", "skill": "Cryptography", "type": "conceptual", "question": "Compare symmetric and asymmetric encryption, and explain where hashing fits.", "points": [
+    {"label": "symmetric: same key, fast (AES)", "keywords": ["same key", "shared key", "aes", "symmetric"]},
+    {"label": "asymmetric: public/private key pair (RSA, ECC)", "keywords": ["public key", "private key", "rsa", "ecc"]},
+    {"label": "TLS combines both", "keywords": ["tls", "https", "key exchange"]},
+    {"label": "hashing is one-way, not encryption", "keywords": ["one-way", "one way", "irreversible", "sha"]}]},
+  {"qid": "test-1", "skill": "Unit Testing", "type": "conceptual", "question": "What makes a good unit test? Explain the testing pyramid.", "points": [
+    {"label": "fast, isolated, deterministic", "keywords": ["fast", "isolat", "deterministic", "independent"]},
+    {"label": "arrange-act-assert / one behaviour", "keywords": ["arrange", "assert", "one behavio", "single"]},
+    {"label": "mocks/stubs for dependencies", "keywords": ["mock", "stub", "fake"]},
+    {"label": "pyramid: many unit, fewer integration, few E2E", "keywords": ["pyramid", "integration", "end-to-end", "e2e"]}]},
+  {"qid": "test-2", "skill": "Unit Testing", "type": "technical", "question": "How do you decide what to test in a new feature?", "points": [
+    {"label": "core business logic / happy path", "keywords": ["happy path", "business logic", "core"]},
+    {"label": "edge cases and invalid input", "keywords": ["edge case", "invalid", "boundary", "empty"]},
+    {"label": "error handling and permissions", "keywords": ["error", "permission", "unauthorized"]},
+    {"label": "regression tests for bugs", "keywords": ["regression", "bug"]}]},
+  {"qid": "apitest-1", "skill": "API Testing", "type": "technical", "question": "How would you test a REST endpoint that creates a resource?", "points": [
+    {"label": "valid request returns 201 and body", "keywords": ["201", "created", "response body"]},
+    {"label": "validation errors return 400", "keywords": ["400", "invalid", "validation"]},
+    {"label": "auth checks (401/403)", "keywords": ["401", "403", "auth"]},
+    {"label": "verify persistence / side effects", "keywords": ["database", "persist", "side effect", "get it back"]}]},
+  {"qid": "html-1", "skill": "HTML", "type": "conceptual", "question": "Why is semantic HTML important?", "points": [
+    {"label": "meaningful elements (header, nav, main, article)", "keywords": ["header", "nav", "main", "article", "section"]},
+    {"label": "accessibility / screen readers", "keywords": ["accessib", "screen reader"]},
+    {"label": "SEO", "keywords": ["seo", "search engine"]},
+    {"label": "maintainability / readability", "keywords": ["maintain", "readab"]}]},
+  {"qid": "css-1", "skill": "CSS", "type": "technical", "question": "Compare Flexbox and CSS Grid. When do you use each?", "points": [
+    {"label": "Flexbox is one-dimensional", "keywords": ["one-dimensional", "one dimension", "single row", "single axis"]},
+    {"label": "Grid is two-dimensional", "keywords": ["two-dimensional", "two dimension", "rows and columns"]},
+    {"label": "Flexbox for components / alignment", "keywords": ["navbar", "align", "component", "center"]},
+    {"label": "Grid for page layouts", "keywords": ["page layout", "layout"]}]},
+  {"qid": "a11y-1", "skill": "Web Accessibility", "type": "technical", "question": "How would you make a web form accessible?", "points": [
+    {"label": "labels associated with inputs", "keywords": ["label", "for="]},
+    {"label": "keyboard navigation and focus states", "keywords": ["keyboard", "focus", "tab"]},
+    {"label": "clear error messages (aria-live / aria-describedby)", "keywords": ["error message", "aria"]},
+    {"label": "colour contrast", "keywords": ["contrast", "colour", "color"]}]},
+  {"qid": "ux-1", "skill": "UI/UX Design", "type": "conceptual", "question": "Walk through your design process from problem to final UI.", "points": [
+    {"label": "user research / understand the problem", "keywords": ["research", "interview", "user needs", "persona"]},
+    {"label": "wireframes and prototypes", "keywords": ["wireframe", "prototype", "sketch"]},
+    {"label": "usability testing and iteration", "keywords": ["usability test", "test with users", "iterat", "feedback"]},
+    {"label": "handoff / design system", "keywords": ["handoff", "design system", "developer"]}]},
+  {"qid": "ux-2", "skill": "UI/UX Design", "type": "conceptual", "question": "How do you measure whether a design change improved the user experience?", "points": [
+    {"label": "define success metrics (task success, conversion)", "keywords": ["metric", "conversion", "task success", "completion"]},
+    {"label": "A/B testing", "keywords": ["a/b", "experiment"]},
+    {"label": "qualitative feedback / usability sessions", "keywords": ["qualitative", "usability", "interview", "survey"]}]},
+  {"qid": "figma-1", "skill": "Figma", "type": "technical", "question": "How do you keep a Figma file organised and consistent across a team?", "points": [
+    {"label": "components and variants", "keywords": ["component", "variant"]},
+    {"label": "shared styles / tokens / auto layout", "keywords": ["style", "token", "auto layout"]},
+    {"label": "naming and page structure", "keywords": ["naming", "pages", "structure"]},
+    {"label": "shared library", "keywords": ["library", "team library"]}]},
+  {"qid": "rn-1", "skill": "React Native", "type": "conceptual", "question": "How does React Native differ from building a web app with React?", "points": [
+    {"label": "renders native components, not DOM", "keywords": ["native component", "no dom", "not the dom", "view", "text"]},
+    {"label": "styling with StyleSheet / Flexbox", "keywords": ["stylesheet", "flexbox"]},
+    {"label": "platform differences / native modules", "keywords": ["platform", "native module", "ios", "android"]},
+    {"label": "navigation libraries", "keywords": ["navigation", "react navigation", "expo router"]}]},
+  {"qid": "unity-1", "skill": "Unity", "type": "technical", "question": "Explain Update vs FixedUpdate in Unity and when to use each.", "points": [
+    {"label": "Update runs every frame", "keywords": ["every frame", "per frame"]},
+    {"label": "FixedUpdate runs at fixed timestep", "keywords": ["fixed timestep", "fixed time", "fixed interval"]},
+    {"label": "physics in FixedUpdate, input in Update", "keywords": ["physics", "rigidbody", "input"]},
+    {"label": "Time.deltaTime for frame independence", "keywords": ["deltatime", "frame rate"]}]},
+  {"qid": "embedded-1", "skill": "Embedded Systems", "type": "conceptual", "question": "What is an interrupt and how should an ISR be written?", "points": [
+    {"label": "hardware signal that pauses normal execution", "keywords": ["signal", "pause", "hardware", "event"]},
+    {"label": "keep ISRs short", "keywords": ["short", "quick", "minimal"]},
+    {"label": "volatile shared variables / no blocking calls", "keywords": ["volatile", "blocking", "printf", "delay"]},
+    {"label": "defer work to main loop", "keywords": ["flag", "main loop", "defer"]}]},
+  {"qid": "etl-1", "skill": "ETL", "type": "technical", "question": "How would you design a reliable daily data pipeline?", "points": [
+    {"label": "extract, transform, load stages", "keywords": ["extract", "transform", "load"]},
+    {"label": "idempotent / re-runnable jobs", "keywords": ["idempot", "re-run", "rerun", "backfill"]},
+    {"label": "orchestration and scheduling (Airflow)", "keywords": ["airflow", "schedul", "orchestrat", "cron"]},
+    {"label": "data quality checks and alerting", "keywords": ["quality", "validation", "alert", "monitor"]}]},
+  {"qid": "dwh-1", "skill": "Data Warehousing", "type": "conceptual", "question": "Explain star schema, fact tables and dimension tables.", "points": [
+    {"label": "fact table holds measurable events", "keywords": ["fact", "measure", "event", "transaction"]},
+    {"label": "dimension tables describe context", "keywords": ["dimension", "context", "attribute"]},
+    {"label": "star: facts in the center linked to dimensions", "keywords": ["center", "star", "foreign key"]},
+    {"label": "optimised for analytics queries", "keywords": ["analytic", "olap", "aggregat", "reporting"]}]},
+  {"qid": "excel-1", "skill": "Excel", "type": "technical", "question": "Which Excel features do you use for analysing a large dataset?", "points": [
+    {"label": "pivot tables", "keywords": ["pivot"]},
+    {"label": "lookup functions (XLOOKUP/VLOOKUP/INDEX-MATCH)", "keywords": ["xlookup", "vlookup", "index", "match"]},
+    {"label": "conditional formatting / charts", "keywords": ["conditional formatting", "chart"]},
+    {"label": "data cleaning (filters, remove duplicates, Power Query)", "keywords": ["filter", "duplicates", "power query", "clean"]}]},
+
+  {"qid": "beh-1", "skill": "Behavioral", "type": "behavioral", "question": "Tell me about a time you faced a difficult technical problem. How did you solve it?", "points": [
+    {"label": "Situation: context of the problem", "keywords": ["project", "when i", "during", "situation", "we were"]},
+    {"label": "Task: your responsibility", "keywords": ["my task", "i was responsible", "i needed", "my role", "goal"]},
+    {"label": "Action: concrete steps you took", "keywords": ["i decided", "i debugged", "i researched", "i implemented", "i tried", "first", "then"]},
+    {"label": "Result: measurable outcome and learning", "keywords": ["result", "as a result", "reduced", "improved", "%", "learned"]}]},
+  {"qid": "beh-2", "skill": "Behavioral", "type": "behavioral", "question": "Describe a conflict you had in a team and how you handled it.", "points": [
+    {"label": "Situation: what the disagreement was", "keywords": ["disagree", "conflict", "teammate", "team"]},
+    {"label": "Action: listened and communicated", "keywords": ["listen", "discuss", "talked", "understand", "meeting"]},
+    {"label": "Action: found a compromise or data-driven decision", "keywords": ["compromise", "agreed", "data", "prototype", "both"]},
+    {"label": "Result: outcome and relationship", "keywords": ["result", "outcome", "shipped", "learned", "relationship"]}]},
+  {"qid": "beh-3", "skill": "Behavioral", "type": "behavioral", "question": "Tell me about a project you are proud of. What was your specific contribution?", "points": [
+    {"label": "Situation: project goal and users", "keywords": ["project", "users", "goal", "built"]},
+    {"label": "Task: your specific role", "keywords": ["my role", "i was responsible", "i led", "i owned", "i built"]},
+    {"label": "Action: technologies and decisions", "keywords": ["used", "chose", "implemented", "designed"]},
+    {"label": "Result: impact with numbers", "keywords": ["users", "%", "result", "impact", "improved", "award"]}]},
+  {"qid": "beh-4", "skill": "Behavioral", "type": "behavioral", "question": "Tell me about a time you failed or made a mistake. What did you learn?", "points": [
+    {"label": "Situation: honest description of the mistake", "keywords": ["mistake", "failed", "wrong", "missed"]},
+    {"label": "Action: took ownership and fixed it", "keywords": ["owned", "ownership", "fixed", "took responsibility", "apologized"]},
+    {"label": "Result: what changed afterwards", "keywords": ["learned", "now i", "since then", "changed", "process"]}]},
+  {"qid": "beh-5", "skill": "Behavioral", "type": "behavioral", "question": "Describe a time you had to learn a new technology quickly.", "points": [
+    {"label": "Situation: why it was needed", "keywords": ["needed", "deadline", "project", "had to"]},
+    {"label": "Action: learning strategy", "keywords": ["documentation", "tutorial", "course", "built a small", "practice"]},
+    {"label": "Action: applied it to real work", "keywords": ["applied", "implemented", "used it"]},
+    {"label": "Result: outcome", "keywords": ["result", "delivered", "shipped", "on time", "learned"]}]},
+  {"qid": "beh-6", "skill": "Behavioral", "type": "behavioral", "question": "How do you prioritise when you have several deadlines at the same time?", "points": [
+    {"label": "assess urgency and impact", "keywords": ["urgen", "impact", "important"]},
+    {"label": "plan and break down work", "keywords": ["plan", "break down", "list", "schedule"]},
+    {"label": "communicate with stakeholders early", "keywords": ["communicat", "stakeholder", "manager", "inform"]},
+    {"label": "concrete example", "keywords": ["for example", "once", "last semester", "when i"]}]},
+  {"qid": "beh-7", "skill": "Behavioral", "type": "behavioral", "question": "Why do you want this role, and where do you see yourself in two years?", "points": [
+    {"label": "connects role to own skills/interests", "keywords": ["skills", "interest", "passion", "enjoy"]},
+    {"label": "knows about the role/company", "keywords": ["company", "team", "product", "mission"]},
+    {"label": "growth plan", "keywords": ["grow", "learn", "two years", "2 years", "future"]}]},
+  {"qid": "beh-8", "skill": "Behavioral", "type": "behavioral", "question": "Tell me about a time you received critical feedback.", "points": [
+    {"label": "Situation: the feedback", "keywords": ["feedback", "review", "told me"]},
+    {"label": "Action: reflected and acted on it", "keywords": ["reflected", "changed", "improved", "worked on"]},
+    {"label": "Result: improvement", "keywords": ["result", "improved", "better", "learned"]}]}
+]

@@ -1,0 +1,301 @@
+id,title,company,location,experienceLevel,employmentType,remote,requiredSkills,niceToHaveSkills,minYearsExperience,salaryMin,salaryMax
+job-0001,Junior Software Engineer,Zephyr AI,"Berlin, Germany",entry,full-time,False,Algorithms;Data Structures;Python;Unit Testing;System Design;SQL,Linux;Operating Systems,1,48076,69680
+job-0002,Junior Mobile App Developer,Vantage Robotics,"Hyderabad, India",entry,full-time,False,Flutter;Git;React Native;Firebase;Swift,Android Development;iOS Development,1,52912,70784
+job-0003,Data Engineer,Driftwood Health,"Dublin, Ireland",mid,full-time,False,AWS;ETL;Apache Spark;Data Warehousing;Database Design;SQL,Message Queues;Linux,2,78648,108793
+job-0004,AI / LLM Engineer Intern,Indigo Digital,"Seattle, USA",internship,internship,False,Prompt Engineering;Python;Large Language Models;Machine Learning,PyTorch;Git;Docker;Unit Testing,0,1342,2034
+job-0005,Software Engineer Intern,Lumen Security,Remote,internship,internship,True,Algorithms;Java;Python;Unit Testing;Git,Computer Networks;Operating Systems;Design Patterns;Linux,0,1410,2025
+job-0006,Senior Cloud Engineer,Foxglove Logistics,Remote,senior,full-time,True,Computer Networks;Docker;Linux;AWS;Terraform;Kubernetes,Python;CI/CD,6,112811,169951
+job-0007,Junior Data Scientist,Willow Networks,"Sydney, Australia",entry,full-time,False,Statistics;Python;Machine Learning;Linear Algebra;SQL,Deep Learning;Communication;Jupyter;Apache Spark,0,47095,72169
+job-0008,Frontend Developer,Nimbus Analytics,Remote,mid,full-time,True,Git;TypeScript;CSS;Responsive Design,Tailwind CSS;Redux,2,73789,117594
+job-0009,Senior Backend Developer,Quanta Studios,Singapore,senior,full-time,False,MongoDB;SQL;Docker;Unit Testing,Microservices,5,113440,167698
+job-0010,Frontend Developer Intern,Orbit Works,"Lagos, Nigeria",internship,internship,False,CSS;REST APIs;HTML;Git;Responsive Design;JavaScript;Web Accessibility,Tailwind CSS;Redux,0,1369,1746
+job-0011,Junior Embedded Systems Engineer,Vantage Digital,"Lagos, Nigeria",entry,full-time,False,C;Embedded Systems;Operating Systems;IoT;C++;Arduino,Linux,1,53534,76340
+job-0012,Senior Backend Developer,Lumen Security,"Toronto, Canada",senior,full-time,False,SQL;Git;REST APIs;Express.js;Docker;Unit Testing,Linux;Microservices;System Design,6,113970,170528
+job-0013,Junior Embedded Systems Engineer,Zephyr Cloud,Remote,entry,full-time,True,C;IoT;Arduino;Operating Systems,Python;Computer Networks;Linux;Git,1,48321,65731
+job-0014,DevOps Engineer Intern,Orbit Cloud,"São Paulo, Brazil",internship,internship,False,CI/CD;Prometheus;Kubernetes;Terraform;Docker;Computer Networks;AWS,GitHub Actions,0,1396,1883
+job-0015,Junior Backend Developer,Orbit Finance,"London, UK",entry,full-time,False,Node.js;Unit Testing;Authentication;REST APIs,Web Security,1,54645,70237
+job-0016,Backend Developer Intern,Zephyr Health,"Chennai, India",internship,internship,False,Database Design;REST APIs;Authentication;MongoDB;PostgreSQL;SQL;Git,Redis,0,1488,1804
+job-0017,Senior Data Scientist,Pinecrest Health,"Austin, USA",senior,contract,False,Python;Feature Engineering;SQL;Machine Learning;scikit-learn;Pandas;NumPy,Jupyter,5,122236,160911
+job-0018,DevOps Engineer Intern,Mosaic Health,Remote,internship,internship,True,AWS;Terraform;Git;Linux;Bash;Kubernetes;Prometheus,Python;Network Security,0,1284,1835
+job-0019,Game Developer Intern,Mosaic Learning,Remote,internship,internship,True,Unreal Engine;C#;Unity;Object-Oriented Programming;Game Design;C++;Linear Algebra,Data Structures;Git,0,1301,1887
+job-0020,Junior UI/UX Designer,Indigo Works,Remote,entry,full-time,True,UI/UX Design;Communication;Figma;Wireframing,HTML;Teamwork,1,46934,70029
+job-0021,QA Automation Engineer Intern,Tidal Robotics,"London, UK",internship,internship,False,Selenium;Playwright;JavaScript;Python;Cypress;CI/CD,Test-Driven Development,0,1331,1843
+job-0022,Senior QA Automation Engineer,Kestrel Studios,Remote,senior,full-time,True,Selenium;Unit Testing;Cypress;Playwright;API Testing,Jira;Test-Driven Development;Git,5,116595,158125
+job-0023,Cloud Engineer,Willow Analytics,"São Paulo, Brazil",mid,full-time,False,Serverless;AWS;Docker;Computer Networks,Python;Google Cloud,2,78702,102206
+job-0024,AI / LLM Engineer Intern,Nimbus Works,Remote,internship,internship,True,REST APIs;Python;Natural Language Processing;Machine Learning,Git,0,1314,2086
+job-0025,Data Engineer Intern,Brightpath Works,Remote,internship,internship,True,ETL;Data Warehousing;AWS;SQL;Python;Database Design,PostgreSQL;Docker;Git,0,1462,1982
+job-0026,Cloud Engineer,Redwood Analytics,"Delhi, India",mid,full-time,False,Computer Networks;AWS;Serverless;Docker,CI/CD;Google Cloud,3,75648,103058
+job-0027,Junior Mobile App Developer,Juniper Finance,"Hyderabad, India",entry,full-time,False,Swift;Kotlin;Firebase;REST APIs,iOS Development,0,54426,71906
+job-0028,Junior Embedded Systems Engineer,Mosaic Systems,"Lagos, Nigeria",entry,full-time,False,Arduino;Embedded Systems;C;C++,Linux;Python,0,51233,64219
+job-0029,Junior Data Analyst,Kestrel AI,"Seattle, USA",entry,full-time,False,Power BI;Communication;SQL;Pandas;Python,R;Database Design;Jupyter,1,51703,75757
+job-0030,Junior AI / LLM Engineer,Redwood Works,Remote,entry,full-time,True,Python;Natural Language Processing;Prompt Engineering;Machine Learning,Unit Testing;Docker;PyTorch;Elasticsearch,1,52452,75990
+job-0031,Junior Game Developer,Northwind Networks,"Berlin, Germany",entry,full-time,False,Object-Oriented Programming;Game Design;C++;Unity;C#;Unreal Engine;Linear Algebra,Data Structures;Git,1,48547,72025
+job-0032,Machine Learning Engineer,Sable Learning,"Bengaluru, India",mid,full-time,False,Deep Learning;Statistics;scikit-learn;Linear Algebra,REST APIs;Git;SQL;AWS,2,77572,101753
+job-0033,UI/UX Designer,Cobalt Learning,"Austin, USA",mid,full-time,False,Wireframing;Responsive Design;UI/UX Design;Communication;Figma,CSS;HTML;Teamwork,3,80023,111163
+job-0034,DevOps Engineer Intern,Brightpath Networks,"Delhi, India",internship,internship,False,Terraform;Linux;AWS;Computer Networks;Kubernetes;Docker;Prometheus,Python;Network Security;GitHub Actions;Nginx,0,1465,1864
+job-0035,Software Engineer Intern,Vantage Networks,Remote,internship,internship,True,System Design;Unit Testing;Data Structures;Git,Operating Systems,0,1457,2066
+job-0036,Frontend Developer Intern,Tidal Systems,"Austin, USA",internship,internship,False,React;CSS;TypeScript;Git,Jest;Tailwind CSS;Vite;Redux,0,1295,2091
+job-0037,Full Stack Developer Intern,Willow Finance,Remote,internship,internship,True,CSS;HTML;Authentication;React;Node.js;Git,CI/CD;AWS,0,1422,1877
+job-0038,QA Automation Engineer Intern,Brightpath Finance,Remote,internship,internship,True,Playwright;CI/CD;Cypress;Selenium;Unit Testing;JavaScript;API Testing,Jira;Git;SQL,0,1357,1874
+job-0039,Junior Data Engineer,Umbra AI,Remote,entry,full-time,True,Data Warehousing;Apache Spark;SQL;Python;AWS;Database Design;ETL,Linux;Message Queues;PostgreSQL,1,46952,63488
+job-0040,Full Stack Developer,Quanta Digital,"Mumbai, India",mid,full-time,False,JavaScript;MongoDB;REST APIs;Node.js;HTML;CSS,CI/CD;Docker;Next.js;AWS,2,77723,118013
+job-0041,Senior DevOps Engineer,Redwood Logistics,"Berlin, Germany",senior,full-time,False,Git;Linux;Docker;AWS;Prometheus;Computer Networks,GitHub Actions;Nginx;Network Security,5,121591,168772
+job-0042,DevOps Engineer Intern,Evergreen AI,Remote,internship,internship,True,Terraform;Git;Docker;Linux;Prometheus;AWS;Computer Networks,GitHub Actions;Network Security;Nginx,0,1394,1917
+job-0043,Machine Learning Engineer Intern,Cobalt Cloud,Remote,internship,internship,True,MLOps;Docker;Machine Learning;PyTorch,REST APIs;SQL;AWS;Git,0,1488,2050
+job-0044,Junior Cybersecurity Analyst,Vantage Digital,"Bengaluru, India",entry,full-time,False,SIEM;Cryptography;Computer Networks;Network Security;Linux,Operating Systems;Web Security,0,53114,73132
+job-0045,Junior Frontend Developer,Quill Logistics,Remote,entry,full-time,True,TypeScript;REST APIs;Responsive Design;React,Redux,0,51266,74425
+job-0046,QA Automation Engineer Intern,Driftwood Digital,Remote,internship,internship,True,Unit Testing;API Testing;Playwright;Cypress;Selenium;JavaScript;Python,SQL;Jira,0,1372,1894
+job-0047,Junior QA Automation Engineer,Sable Labs,Remote,entry,full-time,True,Selenium;CI/CD;Python;Unit Testing,Jira;Git;SQL,1,52496,69338
+job-0048,Cloud Engineer Intern,Helix Digital,"Berlin, Germany",internship,internship,False,Terraform;Docker;Computer Networks;AWS;Linux;Serverless,Python;Google Cloud,0,1337,1865
+job-0049,Junior UI/UX Designer,Nimbus Networks,"Bengaluru, India",entry,full-time,False,Communication;Responsive Design;Web Accessibility;Figma,CSS;Teamwork;HTML,0,47604,69146
+job-0050,Mobile App Developer Intern,Kestrel Analytics,"Berlin, Germany",internship,internship,False,Firebase;React Native;JavaScript;Swift;REST APIs;Kotlin;Flutter,iOS Development;TypeScript,0,1276,2006
+job-0051,Junior Backend Developer,Nimbus Logistics,"Delhi, India",entry,full-time,False,PostgreSQL;MongoDB;Node.js;SQL,Redis;System Design,1,48363,68000
+job-0052,Full Stack Developer Intern,Sable Studios,"Delhi, India",internship,internship,False,SQL;Express.js;Node.js;JavaScript;TypeScript,Docker;AWS;Next.js,0,1464,2039
+job-0053,Embedded Systems Engineer,Tidal Cloud,"Berlin, Germany",mid,full-time,False,C++;Arduino;IoT;C;Operating Systems,Computer Networks;Git;Python;Linux,2,78384,109100
+job-0054,Backend Developer,Kestrel Systems,"Dublin, Ireland",mid,full-time,False,SQL;Git;Express.js;Node.js;Docker;MongoDB,Web Security;System Design;Microservices,3,77562,105892
+job-0055,Senior Software Engineer,Granite Cloud,Remote,senior,full-time,True,SQL;Algorithms;Data Structures;Git;Python;Object-Oriented Programming,Computer Networks,6,118871,164469
+job-0056,Junior Data Scientist,Orbit Systems,"Sydney, Australia",entry,full-time,False,Feature Engineering;SQL;Pandas;Machine Learning;Statistics;NumPy;Data Visualization,Apache Spark;Jupyter;Deep Learning;Communication,0,47175,69681
+job-0057,Backend Developer Intern,Nimbus Health,"Pune, India",internship,internship,False,Database Design;Express.js;Unit Testing;Authentication;Git,Redis;Linux,0,1358,1924
+job-0058,Junior Data Engineer,Cobalt Systems,"Dublin, Ireland",entry,full-time,False,Database Design;AWS;ETL;Python,Docker;Git;PostgreSQL;Message Queues,1,51870,67897
+job-0059,Data Scientist,Northwind Networks,Remote,mid,part-time,True,NumPy;Linear Algebra;Statistics;Pandas;Data Visualization;Feature Engineering;scikit-learn,Apache Spark;Deep Learning;Jupyter;Communication,2,81741,112623
+job-0060,Data Analyst,Redwood AI,"Dublin, Ireland",mid,full-time,False,Data Visualization;Data Analysis;Statistics;Excel,Database Design;Jupyter;R,3,80000,111697
+job-0061,Junior Game Developer,Helix Health,"London, UK",entry,full-time,False,Object-Oriented Programming;Game Design;Unity;C++;Linear Algebra;Unreal Engine,Data Structures;Git,1,46986,76936
+job-0062,Embedded Systems Engineer Intern,Brightpath Robotics,"Mumbai, India",internship,internship,False,C;IoT;Operating Systems;C++,Git;Python;Computer Networks,0,1362,1869
+job-0063,DevOps Engineer,Quanta Finance,Remote,mid,full-time,True,Terraform;Linux;Prometheus;AWS;Bash;Git;Computer Networks,Nginx;GitHub Actions;Network Security;Python,3,76961,98125
+job-0064,Machine Learning Engineer,Pinecrest Health,"Lagos, Nigeria",mid,full-time,False,Linear Algebra;MLOps;scikit-learn;Machine Learning,AWS;Data Structures;Git;REST APIs,2,81594,104810
+job-0065,Cloud Engineer,Quanta Systems,"London, UK",mid,full-time,False,Kubernetes;Linux;Terraform;AWS,Network Security,2,72541,111084
+job-0066,Data Engineer Intern,Cobalt Networks,Remote,internship,internship,True,ETL;AWS;Apache Spark;SQL;Data Warehousing,Linux,0,1296,1736
+job-0067,Mobile App Developer Intern,Evergreen Health,Remote,internship,internship,True,Firebase;Kotlin;REST APIs;React Native;Swift;Flutter;Git,TypeScript;Unit Testing;Android Development,0,1471,1929
+job-0068,UI/UX Designer Intern,Redwood Robotics,Remote,internship,internship,True,UI/UX Design;Wireframing;Responsive Design;Web Accessibility;Figma;Communication,CSS,0,1442,1865
+job-0069,UI/UX Designer Intern,Nimbus AI,Remote,internship,internship,True,Responsive Design;Figma;UI/UX Design;Communication;Wireframing;Web Accessibility,CSS;Teamwork;HTML,0,1463,2012
+job-0070,Game Developer Intern,Granite Health,Remote,internship,internship,True,Object-Oriented Programming;Unreal Engine;Unity;Linear Algebra;C++;C#,Git;Data Structures,0,1454,1883
+job-0071,Senior Data Scientist,Evergreen AI,"Pune, India",senior,full-time,False,Statistics;scikit-learn;Feature Engineering;Linear Algebra;Data Visualization;SQL;NumPy,Deep Learning;Apache Spark;Jupyter,6,121960,150125
+job-0072,Data Analyst Intern,Evergreen Health,"Berlin, Germany",internship,internship,False,Statistics;Power BI;SQL;Tableau;Pandas;Python,Jupyter;R,0,1284,2036
+job-0073,Game Developer,Indigo Learning,"Nairobi, Kenya",mid,full-time,False,Object-Oriented Programming;C++;Unity;Game Design,Git;Data Structures,3,74515,115608
+job-0074,Cybersecurity Analyst Intern,Driftwood AI,"Nairobi, Kenya",internship,internship,False,Python;Penetration Testing;OWASP Top 10;Computer Networks,Communication;Web Security,0,1332,2081
+job-0075,Junior QA Automation Engineer,Juniper Cloud,Remote,entry,full-time,True,Unit Testing;API Testing;Python;JavaScript;CI/CD,Git;SQL;Test-Driven Development;Jira,0,52303,75593
+job-0076,Data Analyst Intern,Vantage Learning,Remote,internship,internship,True,Data Analysis;Python;SQL;Data Visualization;Pandas,Database Design,0,1357,1902
+job-0077,QA Automation Engineer Intern,Kestrel Learning,"Toronto, Canada",internship,internship,False,Python;Cypress;Unit Testing;JavaScript;CI/CD,SQL,0,1302,2092
+job-0078,Senior UI/UX Designer,Lumen Digital,Remote,senior,full-time,True,Figma;UI/UX Design;Communication;Web Accessibility;Wireframing,HTML;Teamwork;CSS,6,119941,166748
+job-0079,UI/UX Designer,Willow Labs,"Toronto, Canada",mid,full-time,False,Responsive Design;Figma;UI/UX Design;Web Accessibility;Wireframing;Communication,Teamwork;HTML,2,73852,111230
+job-0080,Junior Full Stack Developer,Juniper Analytics,"Seattle, USA",entry,full-time,False,React;JavaScript;Authentication;TypeScript;Express.js,CI/CD,1,53581,75604
+job-0081,UI/UX Designer Intern,Evergreen Health,"Mumbai, India",internship,internship,False,Communication;Responsive Design;Wireframing;UI/UX Design;Figma,HTML;CSS,0,1344,1923
+job-0082,Game Developer,Helix Robotics,Remote,mid,full-time,True,Unreal Engine;Linear Algebra;C++;Game Design;C#;Object-Oriented Programming;Unity,Data Structures;Git,2,83387,114138
+job-0083,Junior Cloud Engineer,Tidal Learning,Remote,entry,full-time,True,AWS;Terraform;Kubernetes;Computer Networks,CI/CD;Azure;Python;Network Security,0,51477,67231
+job-0084,Junior Mobile App Developer,Northwind Analytics,"Toronto, Canada",entry,full-time,False,Git;Firebase;Swift;JavaScript;REST APIs;Flutter,iOS Development,0,47843,73121
+job-0085,AI / LLM Engineer,Willow Finance,Remote,mid,full-time,True,Prompt Engineering;Large Language Models;REST APIs;FastAPI,Git;Elasticsearch;Unit Testing;Docker,2,81682,117961
+job-0086,Data Analyst,Sable Finance,"Lagos, Nigeria",mid,full-time,False,Statistics;SQL;Data Visualization;Power BI;Data Analysis;Pandas;Excel,R,2,74301,112931
+job-0087,Data Analyst,Northwind Works,"Seattle, USA",mid,full-time,False,Communication;Data Analysis;Statistics;Python,R,3,76581,105468
+job-0088,UI/UX Designer Intern,Evergreen Logistics,"Mumbai, India",internship,internship,False,Wireframing;Web Accessibility;Figma;Communication,CSS;Teamwork;HTML,0,1344,2031
+job-0089,Cloud Engineer,Willow Works,Remote,mid,full-time,True,Kubernetes;Computer Networks;AWS;Serverless;Terraform;Linux;Docker,Azure;CI/CD,3,76385,104839
+job-0090,Data Scientist Intern,Driftwood Learning,Remote,internship,internship,True,Feature Engineering;Statistics;Pandas;Python;Linear Algebra;scikit-learn,Deep Learning;Jupyter;Communication,0,1436,2071
+job-0091,Junior Data Engineer,Orbit Works,Remote,entry,contract,True,SQL;Database Design;Data Warehousing;Python;ETL;AWS;Apache Spark,Git;PostgreSQL;Linux;Docker,0,51537,68880
+job-0092,Junior UI/UX Designer,Helix Logistics,"Toronto, Canada",entry,full-time,False,Figma;UI/UX Design;Responsive Design;Web Accessibility,HTML;Teamwork;CSS,0,49957,71245
+job-0093,Junior Game Developer,Zephyr Learning,Singapore,entry,full-time,False,Game Design;Object-Oriented Programming;Unity;C#;Linear Algebra;Unreal Engine;C++,Git;Data Structures,0,49843,76734
+job-0094,Cybersecurity Analyst,Evergreen Analytics,"London, UK",mid,full-time,False,Cryptography;Network Security;Computer Networks;SIEM;Penetration Testing;Linux,Bash;Web Security;Communication,2,84500,110074
+job-0095,Data Engineer,Quanta Health,Remote,mid,full-time,True,SQL;AWS;Data Warehousing;ETL,PostgreSQL;Message Queues,3,84946,99943
+job-0096,Data Engineer,Umbra Networks,"Hyderabad, India",mid,contract,False,Database Design;Data Warehousing;SQL;AWS;ETL,Git;Message Queues,2,74585,110936
+job-0097,Junior Software Engineer,Kestrel Security,"Toronto, Canada",entry,full-time,False,Unit Testing;System Design;Java;SQL;Python,Operating Systems,1,48157,74583
+job-0098,Embedded Systems Engineer Intern,Redwood Security,Remote,internship,internship,True,C++;C;IoT;Embedded Systems,Python,0,1451,1846
+job-0099,Machine Learning Engineer Intern,Vantage Cloud,"Berlin, Germany",internship,internship,False,PyTorch;Docker;Python;scikit-learn,REST APIs,0,1326,2017
+job-0100,Junior Mobile App Developer,Orbit AI,"Nairobi, Kenya",entry,full-time,False,Swift;React Native;JavaScript;Firebase,TypeScript;iOS Development,0,49523,73955
+job-0101,QA Automation Engineer,Pinecrest Health,"Delhi, India",mid,full-time,False,JavaScript;Python;Cypress;API Testing;CI/CD;Unit Testing;Playwright,SQL;Test-Driven Development;Git,2,76211,116993
+job-0102,Junior Game Developer,Brightpath Labs,Remote,entry,contract,True,Game Design;C++;C#;Object-Oriented Programming;Linear Algebra,Git;Data Structures,0,54460,70447
+job-0103,Full Stack Developer Intern,Vantage Studios,Remote,internship,internship,True,React;Authentication;Node.js;JavaScript,Next.js,0,1345,1903
+job-0104,Cloud Engineer,Helix AI,"Dublin, Ireland",mid,full-time,False,Kubernetes;Docker;AWS;Linux;Computer Networks,Google Cloud,3,84598,113675
+job-0105,Junior Software Engineer,Quanta Analytics,Remote,entry,contract,True,Unit Testing;SQL;Java;Algorithms;Git;Object-Oriented Programming,Design Patterns;Problem Solving,0,51941,74578
+job-0106,Junior QA Automation Engineer,Pinecrest Networks,"London, UK",entry,full-time,False,Unit Testing;Cypress;JavaScript;API Testing;Python,SQL;Git,0,53579,67410
+job-0107,Junior DevOps Engineer,Helix Labs,"Dublin, Ireland",entry,full-time,False,Linux;Computer Networks;CI/CD;AWS;Terraform;Prometheus,Nginx;Python,0,48401,72768
+job-0108,Junior Cloud Engineer,Orbit Logistics,"Bengaluru, India",entry,full-time,False,AWS;Serverless;Computer Networks;Terraform;Docker;Kubernetes,Python;Network Security;Google Cloud,0,53651,69180
+job-0109,Junior DevOps Engineer,Willow Security,"Nairobi, Kenya",entry,full-time,False,Linux;Prometheus;Computer Networks;Terraform;Bash,Network Security;Nginx,0,49341,67560
+job-0110,Data Scientist Intern,Vantage Networks,Remote,internship,internship,True,Statistics;Machine Learning;Linear Algebra;Pandas;SQL,Deep Learning,0,1312,1778
+job-0111,Cloud Engineer Intern,Driftwood Analytics,"Austin, USA",internship,internship,False,Kubernetes;AWS;Docker;Linux;Computer Networks;Serverless;Terraform,CI/CD;Google Cloud;Python,0,1370,2046
+job-0112,Software Engineer Intern,Vantage Logistics,"Pune, India",internship,internship,False,System Design;Python;Algorithms;Unit Testing,Computer Networks,0,1450,1854
+job-0113,Junior Cloud Engineer,Quanta Works,Singapore,entry,full-time,False,Terraform;AWS;Serverless;Computer Networks;Kubernetes,Python;CI/CD;Azure;Network Security,1,52093,70464
+job-0114,Cloud Engineer,Orbit Works,"Lagos, Nigeria",mid,full-time,False,Serverless;AWS;Kubernetes;Terraform;Computer Networks,CI/CD,2,78408,105472
+job-0115,Junior Embedded Systems Engineer,Granite Studios,"Austin, USA",entry,part-time,False,C;C++;Operating Systems;IoT;Arduino;Embedded Systems,Linux;Python;Computer Networks,1,53195,64020
+job-0116,Junior Software Engineer,Driftwood Digital,Singapore,entry,contract,False,Object-Oriented Programming;Unit Testing;Java;SQL,Computer Networks,0,48055,66855
+job-0117,Junior Cybersecurity Analyst,Tidal Health,Remote,entry,full-time,True,SIEM;OWASP Top 10;Computer Networks;Network Security;Cryptography;Python;Linux,Bash,0,50541,67296
+job-0118,Backend Developer,Granite Labs,"Delhi, India",mid,part-time,False,Git;Unit Testing;Docker;Node.js;Express.js;Authentication;Database Design,Linux,3,75043,112123
+job-0119,AI / LLM Engineer Intern,Pinecrest AI,"London, UK",internship,internship,False,REST APIs;Natural Language Processing;Python;Prompt Engineering,PyTorch;Docker;Elasticsearch,0,1444,1826
+job-0120,Software Engineer,Redwood AI,"Delhi, India",mid,full-time,False,Object-Oriented Programming;Java;Python;Unit Testing,Design Patterns,3,81101,111395
+job-0121,Embedded Systems Engineer Intern,Mosaic AI,"Nairobi, Kenya",internship,internship,False,Arduino;Embedded Systems;Operating Systems;C;C++,Git,0,1479,2065
+job-0122,Full Stack Developer,Helix Finance,Remote,mid,full-time,True,Express.js;HTML;Git;MongoDB,Docker;Next.js;CI/CD;Unit Testing,3,73293,99998
+job-0123,Software Engineer,Juniper Studios,Remote,mid,contract,True,Java;System Design;Git;Algorithms;Data Structures,Problem Solving,3,72460,101178
+job-0124,Junior Game Developer,Brightpath Learning,Remote,entry,part-time,True,C#;Unity;Game Design;Object-Oriented Programming;C++;Linear Algebra,Git;Data Structures,1,48679,65431
+job-0125,Software Engineer Intern,Willow Health,"São Paulo, Brazil",internship,internship,False,Unit Testing;Algorithms;Java;SQL;Python;Object-Oriented Programming;System Design,Design Patterns,0,1339,2009
+job-0126,DevOps Engineer Intern,Zephyr Works,Remote,internship,internship,True,Prometheus;Computer Networks;Git;Linux;Kubernetes;CI/CD;Terraform,Python;Nginx,0,1279,1815
+job-0127,Full Stack Developer Intern,Tidal Digital,Remote,internship,internship,True,JavaScript;Authentication;SQL;Express.js,Docker;Unit Testing,0,1396,1979
+job-0128,Junior Machine Learning Engineer,Helix Logistics,"Austin, USA",entry,full-time,False,Statistics;PyTorch;Linear Algebra;TensorFlow,Git;REST APIs,1,53091,75792
+job-0129,Embedded Systems Engineer,Lumen Studios,Remote,mid,full-time,True,C++;IoT;Operating Systems;Arduino;Embedded Systems,Git,2,79617,103293
+job-0130,QA Automation Engineer Intern,Quill Cloud,"Sydney, Australia",internship,internship,False,Python;Playwright;CI/CD;API Testing;JavaScript;Cypress;Selenium,SQL,0,1401,1950
+job-0131,Senior Machine Learning Engineer,Quanta Analytics,"Mumbai, India",senior,full-time,False,MLOps;PyTorch;scikit-learn;Statistics;Docker,AWS,5,119550,167373
+job-0132,AI / LLM Engineer Intern,Kestrel Networks,"Hyderabad, India",internship,internship,False,Large Language Models;REST APIs;Prompt Engineering;FastAPI;Python;Machine Learning;Natural Language Processing,Unit Testing;Elasticsearch,0,1284,1817
+job-0133,Junior Machine Learning Engineer,Cobalt Cloud,Remote,entry,full-time,True,Deep Learning;TensorFlow;Docker;Linear Algebra,REST APIs;Data Structures;AWS;Git,0,47164,71629
+job-0134,UI/UX Designer Intern,Quill Digital,"Pune, India",internship,internship,False,Web Accessibility;Communication;Wireframing;Responsive Design;UI/UX Design;Figma,Teamwork,0,1415,1726
+job-0135,Junior Data Engineer,Quanta AI,"São Paulo, Brazil",entry,contract,False,SQL;Apache Spark;ETL;AWS;Python;Database Design,Message Queues;Linux;PostgreSQL,1,52589,76650
+job-0136,Data Scientist,Evergreen Health,Remote,mid,full-time,True,Data Visualization;NumPy;Python;Statistics;scikit-learn;Machine Learning,Jupyter;Communication,2,82182,114944
+job-0137,Frontend Developer Intern,Sable Robotics,"Sydney, Australia",internship,internship,False,REST APIs;Responsive Design;TypeScript;CSS,Tailwind CSS;Redux;Figma,0,1392,1936
+job-0138,Junior Full Stack Developer,Willow Analytics,Remote,entry,part-time,True,MongoDB;Authentication;Node.js;TypeScript,AWS;CI/CD;Docker;Next.js,1,47668,68614
+job-0139,QA Automation Engineer Intern,Brightpath Logistics,Remote,internship,internship,True,Playwright;Selenium;Unit Testing;API Testing;JavaScript;Python,Test-Driven Development;SQL;Git,0,1315,1772
+job-0140,QA Automation Engineer Intern,Foxglove Robotics,"Hyderabad, India",internship,internship,False,Selenium;Python;Playwright;API Testing;CI/CD,Git,0,1353,1819
+job-0141,Junior Frontend Developer,Brightpath Networks,"Toronto, Canada",entry,full-time,False,React;Responsive Design;REST APIs;Git;HTML;Web Accessibility,Figma;Next.js;Jest,1,49444,66013
+job-0142,Junior Software Engineer,Mosaic Learning,"Lagos, Nigeria",entry,full-time,False,Algorithms;Object-Oriented Programming;Git;Unit Testing;Data Structures;Python;System Design,Problem Solving;Design Patterns;Operating Systems,1,49472,64692
+job-0143,Software Engineer Intern,Umbra Cloud,Remote,internship,internship,True,Unit Testing;Git;Python;Algorithms;Data Structures;System Design,Problem Solving;Design Patterns;Computer Networks;Linux,0,1283,2013
+job-0144,Junior Embedded Systems Engineer,Driftwood Cloud,Singapore,entry,contract,False,Arduino;C++;Operating Systems;Embedded Systems;C;IoT,Python;Linux;Computer Networks;Git,1,53487,76796
+job-0145,Junior Full Stack Developer,Vantage Networks,"Lagos, Nigeria",entry,full-time,False,Node.js;SQL;Express.js;Authentication;JavaScript;TypeScript,CI/CD;Next.js;Docker,0,51985,71006
+job-0146,Junior DevOps Engineer,Indigo Studios,Remote,entry,full-time,True,Computer Networks;Kubernetes;Prometheus;Terraform;Docker;Bash,Nginx,0,48107,74265
+job-0147,Senior Frontend Developer,Quill Networks,Remote,senior,full-time,True,Git;Web Accessibility;JavaScript;CSS;REST APIs;React;TypeScript,Vite;Jest;Figma;Tailwind CSS,5,110097,148993
+job-0148,Junior Full Stack Developer,Zephyr Robotics,Remote,entry,full-time,True,Git;Authentication;MongoDB;HTML,AWS;Docker;Unit Testing,0,52791,73743
+job-0149,UI/UX Designer Intern,Orbit Systems,"São Paulo, Brazil",internship,internship,False,Figma;Responsive Design;UI/UX Design;Communication,CSS;HTML,0,1469,2004
+job-0150,Machine Learning Engineer Intern,Northwind Security,"Austin, USA",internship,internship,False,PyTorch;Linear Algebra;Python;Docker;scikit-learn,REST APIs,0,1344,1732
+job-0151,QA Automation Engineer Intern,Umbra Works,Remote,internship,internship,True,CI/CD;JavaScript;Selenium;Unit Testing,SQL;Git;Jira;Test-Driven Development,0,1387,1789
+job-0152,Junior Full Stack Developer,Umbra AI,"Delhi, India",entry,part-time,False,SQL;CSS;React;HTML;Express.js,CI/CD;Next.js;AWS;Unit Testing,0,50423,68655
+job-0153,Junior Mobile App Developer,Driftwood Health,Remote,entry,contract,True,Kotlin;JavaScript;Git;REST APIs;React Native;Firebase;Swift,TypeScript,0,51507,66503
+job-0154,Junior QA Automation Engineer,Tidal Security,Remote,entry,full-time,True,Unit Testing;Selenium;Playwright;Python;JavaScript;API Testing;CI/CD,Jira;Git;Test-Driven Development,0,50679,71934
+job-0155,Data Engineer Intern,Brightpath Labs,"Dublin, Ireland",internship,internship,False,Python;SQL;AWS;Database Design;Data Warehousing;ETL,Git;PostgreSQL;Message Queues,0,1338,1886
+job-0156,Cybersecurity Analyst,Orbit Works,"London, UK",mid,full-time,False,Linux;Python;Computer Networks;Penetration Testing;Network Security;OWASP Top 10;Wireshark,Bash;Web Security;Communication,3,81149,114927
+job-0157,Junior Backend Developer,Northwind Networks,Remote,entry,full-time,True,Express.js;Git;MongoDB;PostgreSQL,System Design;Microservices,0,49259,69892
+job-0158,Junior AI / LLM Engineer,Quill Works,Remote,entry,full-time,True,Natural Language Processing;Large Language Models;Machine Learning;FastAPI;Python;REST APIs;Prompt Engineering,Unit Testing;Docker,1,53041,65467
+job-0159,Data Engineer,Helix Robotics,"Bengaluru, India",mid,contract,False,ETL;Apache Spark;Python;Data Warehousing;SQL,Linux;Docker,3,75424,98944
+job-0160,Mobile App Developer,Vantage Networks,Remote,mid,full-time,True,REST APIs;Firebase;Flutter;React Native,TypeScript;Unit Testing,2,75008,98511
+job-0161,Backend Developer,Driftwood Analytics,Remote,mid,full-time,True,Git;Node.js;Express.js;Docker;PostgreSQL,Linux;Microservices;Web Security;System Design,3,77858,108854
+job-0162,Data Engineer,Driftwood Learning,"Toronto, Canada",mid,full-time,False,ETL;Python;Apache Spark;Database Design;Data Warehousing;AWS,Docker;PostgreSQL;Message Queues,2,74004,101724
+job-0163,Junior Data Engineer,Umbra Health,"Berlin, Germany",entry,full-time,False,Python;AWS;Apache Spark;SQL;Database Design;ETL,Message Queues,0,47741,66734
+job-0164,Junior Embedded Systems Engineer,Orbit Cloud,"Nairobi, Kenya",entry,full-time,False,Operating Systems;Embedded Systems;Arduino;C;IoT,Python;Computer Networks;Git,1,49392,70624
+job-0165,Senior Data Engineer,Helix Logistics,"Austin, USA",senior,full-time,False,AWS;Database Design;Data Warehousing;SQL;Python;ETL,Docker;Linux,5,118204,147715
+job-0166,Junior Data Engineer,Quanta Cloud,"Chennai, India",entry,full-time,False,SQL;Apache Spark;AWS;Data Warehousing;Python;Database Design;ETL,Docker;PostgreSQL;Message Queues;Linux,1,51389,68769
+job-0167,Data Analyst Intern,Pinecrest Works,Singapore,internship,internship,False,Excel;Power BI;Communication;Pandas,Jupyter;Database Design;R,0,1445,1788
+job-0168,Junior Backend Developer,Lumen Networks,"Pune, India",entry,full-time,False,Unit Testing;REST APIs;Docker;Express.js;Git;Database Design,Web Security;Redis;System Design;Microservices,0,51738,75424
+job-0169,Junior Frontend Developer,Evergreen Works,"London, UK",entry,full-time,False,JavaScript;REST APIs;Responsive Design;HTML;Git,Next.js;Vite;Tailwind CSS;Figma,1,53849,70244
+job-0170,Junior Backend Developer,Brightpath Studios,"São Paulo, Brazil",entry,full-time,False,Database Design;REST APIs;PostgreSQL;SQL;Express.js;Node.js,Microservices,1,53940,72214
+job-0171,Junior AI / LLM Engineer,Nimbus Networks,"Toronto, Canada",entry,full-time,False,Prompt Engineering;Machine Learning;FastAPI;Large Language Models;Python;REST APIs,PyTorch;Docker,1,53540,66494
+job-0172,Cybersecurity Analyst Intern,Mosaic Studios,"London, UK",internship,internship,False,OWASP Top 10;Wireshark;Linux;SIEM,Communication,0,1294,2054
+job-0173,Junior Mobile App Developer,Quanta Analytics,Remote,entry,full-time,True,Firebase;Git;Flutter;React Native,TypeScript;iOS Development;Unit Testing;Android Development,1,50738,68459
+job-0174,Junior Backend Developer,Northwind Cloud,Remote,entry,full-time,True,PostgreSQL;SQL;Authentication;Docker;Database Design;Git;REST APIs,Microservices;Web Security;System Design,0,52793,63356
+job-0175,AI / LLM Engineer Intern,Willow Health,"Mumbai, India",internship,internship,False,FastAPI;Prompt Engineering;Machine Learning;Large Language Models;REST APIs,PyTorch;Unit Testing;Elasticsearch;Docker,0,1457,1897
+job-0176,Junior Cloud Engineer,Evergreen Cloud,"Lagos, Nigeria",entry,full-time,False,Linux;Computer Networks;Docker;Terraform;Serverless;AWS;Kubernetes,Python;Google Cloud,1,52027,63350
+job-0177,Game Developer,Umbra Networks,"Hyderabad, India",mid,full-time,False,C++;Unity;Game Design;Object-Oriented Programming;Unreal Engine,Data Structures;Git,2,72677,104239
+job-0178,Cloud Engineer Intern,Quanta Security,Remote,internship,internship,True,Linux;Kubernetes;Docker;Terraform,CI/CD;Python,0,1296,1973
+job-0179,Junior AI / LLM Engineer,Granite Learning,"Seattle, USA",entry,full-time,False,REST APIs;Prompt Engineering;Large Language Models;Natural Language Processing;Machine Learning;FastAPI;Python,Unit Testing,1,52737,66654
+job-0180,Junior Game Developer,Granite AI,Remote,entry,full-time,True,Object-Oriented Programming;Game Design;Unreal Engine;Linear Algebra;Unity;C++;C#,Git;Data Structures,1,53436,71544
+job-0181,Junior Data Analyst,Kestrel Logistics,Remote,entry,full-time,True,Python;Power BI;Tableau;SQL;Statistics,R;Jupyter;Database Design,1,49665,76686
+job-0182,Junior Game Developer,Mosaic Analytics,"Austin, USA",entry,full-time,False,Unreal Engine;Unity;C++;Game Design;Linear Algebra;C#,Git,0,52250,67721
+job-0183,Junior Cybersecurity Analyst,Mosaic Learning,"Nairobi, Kenya",entry,full-time,False,Linux;SIEM;Wireshark;Network Security;Penetration Testing,Communication;Web Security;Bash,1,47440,67005
+job-0184,AI / LLM Engineer Intern,Indigo Logistics,"Sydney, Australia",internship,internship,False,Prompt Engineering;Python;Machine Learning;Natural Language Processing;Large Language Models;REST APIs,Unit Testing;Docker,0,1490,2007
+job-0185,Junior Machine Learning Engineer,Driftwood Labs,"Chennai, India",entry,full-time,False,Machine Learning;Statistics;MLOps;scikit-learn;Docker,REST APIs;AWS;Git;Data Structures,1,50082,66732
+job-0186,Junior Data Scientist,Brightpath Finance,Remote,entry,full-time,True,Statistics;Feature Engineering;Data Visualization;NumPy;Python;scikit-learn;Machine Learning,Apache Spark;Deep Learning,0,53035,71267
+job-0187,Junior Cybersecurity Analyst,Indigo Health,Remote,entry,full-time,True,Computer Networks;OWASP Top 10;Linux;Python,Bash;Web Security;Communication;Operating Systems,1,48123,72595
+job-0188,Junior AI / LLM Engineer,Nimbus Digital,"Mumbai, India",entry,full-time,False,REST APIs;Python;FastAPI;Large Language Models,Git;Elasticsearch;PyTorch,0,48855,63751
+job-0189,UI/UX Designer Intern,Quanta Digital,"Delhi, India",internship,internship,False,Figma;Web Accessibility;Responsive Design;UI/UX Design;Communication;Wireframing,HTML,0,1440,1859
+job-0190,Senior Frontend Developer,Sable Logistics,Remote,senior,full-time,True,TypeScript;HTML;Git;React;JavaScript;CSS,Next.js;Tailwind CSS,6,114100,173938
+job-0191,Mobile App Developer Intern,Vantage Robotics,Remote,internship,internship,True,Flutter;Firebase;Git;JavaScript;Kotlin,iOS Development,0,1307,1850
+job-0192,QA Automation Engineer Intern,Willow Health,"Dublin, Ireland",internship,internship,False,CI/CD;Unit Testing;JavaScript;Selenium;Cypress,Test-Driven Development,0,1385,1741
+job-0193,Data Engineer Intern,Mosaic Security,"Seattle, USA",internship,internship,False,ETL;Data Warehousing;Apache Spark;AWS,PostgreSQL;Message Queues,0,1399,2010
+job-0194,Junior Embedded Systems Engineer,Brightpath AI,"Delhi, India",entry,full-time,False,IoT;Embedded Systems;C++;Operating Systems;Arduino,Linux;Python;Computer Networks,0,49869,63546
+job-0195,Senior QA Automation Engineer,Brightpath Cloud,Remote,senior,full-time,True,CI/CD;JavaScript;Selenium;API Testing;Playwright;Cypress,Test-Driven Development;Jira,6,116340,160765
+job-0196,Junior Data Analyst,Willow Security,Remote,entry,full-time,True,Python;Data Visualization;Pandas;Statistics,Database Design;R;Jupyter,1,52574,72425
+job-0197,Data Scientist,Nimbus Digital,"London, UK",mid,full-time,False,Machine Learning;Pandas;Python;Linear Algebra;Statistics,Jupyter,3,78604,98726
+job-0198,DevOps Engineer Intern,Nimbus Systems,Remote,internship,internship,True,Prometheus;Kubernetes;Git;Terraform;Computer Networks;CI/CD;Linux,Python,0,1374,2004
+job-0199,Cloud Engineer,Mosaic Finance,"Berlin, Germany",mid,full-time,False,AWS;Serverless;Terraform;Computer Networks;Docker;Kubernetes,Google Cloud,2,79211,100890
+job-0200,Full Stack Developer Intern,Brightpath Digital,"Hyderabad, India",internship,internship,False,Authentication;JavaScript;REST APIs;Express.js,Unit Testing;Next.js,0,1338,1977
+job-0201,UI/UX Designer,Evergreen Networks,Remote,mid,full-time,True,UI/UX Design;Wireframing;Responsive Design;Communication;Web Accessibility;Figma,CSS,2,78502,108472
+job-0202,Senior Embedded Systems Engineer,Driftwood Learning,"Sydney, Australia",senior,full-time,False,IoT;Embedded Systems;C;Operating Systems;C++,Computer Networks,5,111874,166886
+job-0203,Junior Full Stack Developer,Driftwood Digital,"Sydney, Australia",entry,full-time,False,HTML;React;JavaScript;Git;REST APIs;Node.js,CI/CD;Unit Testing;Next.js,0,50884,70797
+job-0204,Backend Developer Intern,Nimbus Digital,"São Paulo, Brazil",internship,internship,False,MongoDB;Database Design;REST APIs;Node.js;Git,Microservices,0,1448,1989
+job-0205,Mobile App Developer,Quanta Networks,Remote,mid,full-time,True,JavaScript;Git;Firebase;Flutter,UI/UX Design;iOS Development;Unit Testing,2,82954,103985
+job-0206,Software Engineer,Kestrel Security,"Hyderabad, India",mid,full-time,False,Python;System Design;Data Structures;Java;Git;SQL;Object-Oriented Programming,Computer Networks;Linux;Operating Systems;Design Patterns,2,84352,112380
+job-0207,Backend Developer,Cobalt Health,"Dublin, Ireland",mid,contract,False,Authentication;Docker;SQL;Database Design;Node.js,Microservices;Redis;Linux;System Design,2,78801,118686
+job-0208,Frontend Developer,Quanta Security,Remote,mid,full-time,True,Git;HTML;JavaScript;REST APIs;TypeScript;Web Accessibility,Vite;Jest;Redux,3,72528,108879
+job-0209,Junior Software Engineer,Quill Logistics,Remote,entry,full-time,True,Python;Git;Algorithms;System Design;SQL,Design Patterns;Operating Systems;Linux,0,54359,64069
+job-0210,Frontend Developer Intern,Willow Security,Singapore,internship,internship,False,React;Responsive Design;TypeScript;CSS;REST APIs,Jest;Redux;Next.js,0,1381,1744
+job-0211,AI / LLM Engineer Intern,Vantage Security,"Dublin, Ireland",internship,internship,False,Machine Learning;Python;Prompt Engineering;FastAPI;Large Language Models;Natural Language Processing;REST APIs,Elasticsearch;Unit Testing,0,1403,2040
+job-0212,Junior Cybersecurity Analyst,Umbra Logistics,"Pune, India",entry,full-time,False,Wireshark;Penetration Testing;Cryptography;Computer Networks;Python;OWASP Top 10,Operating Systems,0,50882,68204
+job-0213,Junior DevOps Engineer,Granite Works,Remote,entry,full-time,True,CI/CD;Prometheus;Terraform;Bash;AWS;Linux;Computer Networks,Nginx,0,53635,75236
+job-0214,Junior UI/UX Designer,Brightpath Works,"Toronto, Canada",entry,part-time,False,Responsive Design;UI/UX Design;Figma;Communication;Wireframing;Web Accessibility,HTML;CSS;Teamwork,0,50018,64295
+job-0215,Data Analyst Intern,Northwind AI,"Pune, India",internship,internship,False,Statistics;SQL;Excel;Pandas,Jupyter;Database Design;R,0,1455,1969
+job-0216,Junior Frontend Developer,Sable Security,"London, UK",entry,contract,False,CSS;REST APIs;Git;Web Accessibility;JavaScript,Next.js;Vite;Jest;Figma,1,47589,76753
+job-0217,QA Automation Engineer Intern,Quill Systems,"Seattle, USA",internship,internship,False,Selenium;CI/CD;Unit Testing;JavaScript;Playwright,Jira;Test-Driven Development,0,1283,1741
+job-0218,Cloud Engineer Intern,Indigo Analytics,Remote,internship,internship,True,Computer Networks;Serverless;Terraform;Kubernetes;AWS;Docker;Linux,CI/CD,0,1342,1777
+job-0219,Mobile App Developer Intern,Kestrel AI,Remote,internship,internship,True,Swift;JavaScript;Kotlin;REST APIs;Flutter,TypeScript;Unit Testing;iOS Development;UI/UX Design,0,1494,1862
+job-0220,Cloud Engineer,Vantage Robotics,"Berlin, Germany",mid,full-time,False,Serverless;Kubernetes;Linux;AWS;Docker,Python;CI/CD,3,75297,108215
+job-0221,Junior Cloud Engineer,Sable Systems,Remote,entry,full-time,True,Linux;Docker;AWS;Kubernetes,Azure,0,46852,67984
+job-0222,Data Engineer Intern,Zephyr Logistics,"Seattle, USA",internship,internship,False,Python;ETL;Apache Spark;Database Design;Data Warehousing;AWS;SQL,Message Queues,0,1475,1732
+job-0223,Junior Data Scientist,Driftwood Networks,"Berlin, Germany",entry,full-time,False,scikit-learn;Statistics;Pandas;Data Visualization,Communication,0,49626,67295
+job-0224,Embedded Systems Engineer,Orbit Labs,Remote,mid,full-time,True,IoT;Arduino;Operating Systems;C;C++,Linux;Computer Networks,2,83427,100737
+job-0225,Frontend Developer Intern,Nimbus Studios,Remote,internship,internship,True,Responsive Design;Web Accessibility;TypeScript;CSS;JavaScript;Git,Next.js,0,1354,1829
+job-0226,Cybersecurity Analyst,Redwood Finance,Remote,mid,full-time,True,Penetration Testing;SIEM;Cryptography;Python,Communication;Bash,3,84903,109100
+job-0227,Full Stack Developer,Northwind Works,"Hyderabad, India",mid,full-time,False,HTML;JavaScript;MongoDB;Node.js;React,Next.js;Docker;AWS,3,74401,114061
+job-0228,QA Automation Engineer Intern,Driftwood Security,"London, UK",internship,internship,False,Playwright;Unit Testing;JavaScript;Selenium,Test-Driven Development;Jira;Git;SQL,0,1414,1885
+job-0229,UI/UX Designer,Redwood Logistics,Singapore,mid,full-time,False,UI/UX Design;Communication;Responsive Design;Wireframing;Web Accessibility;Figma,CSS;Teamwork;HTML,3,72476,106875
+job-0230,Game Developer,Granite Labs,"Hyderabad, India",mid,full-time,False,C++;Game Design;C#;Linear Algebra;Unity,Git;Data Structures,3,79998,104733
+job-0231,Cloud Engineer Intern,Sable Works,Remote,internship,internship,True,Linux;Kubernetes;Serverless;AWS;Terraform;Computer Networks;Docker,Python;Network Security;Google Cloud,0,1385,1847
+job-0232,Junior Frontend Developer,Helix Cloud,"London, UK",entry,full-time,False,HTML;JavaScript;Git;TypeScript;Responsive Design;React,Jest;Figma;Next.js,0,49751,71787
+job-0233,QA Automation Engineer Intern,Willow Cloud,Remote,internship,internship,True,JavaScript;Selenium;API Testing;Cypress,Test-Driven Development;SQL,0,1321,1749
+job-0234,Software Engineer Intern,Nimbus Security,Remote,internship,internship,True,Algorithms;Unit Testing;Java;Git;Object-Oriented Programming,Operating Systems;Design Patterns;Computer Networks,0,1325,1808
+job-0235,Junior Software Engineer,Foxglove Learning,Remote,entry,full-time,True,Object-Oriented Programming;Unit Testing;Git;Algorithms;System Design;Java;SQL,Operating Systems;Linux;Problem Solving;Design Patterns,0,52750,71249
+job-0236,Game Developer,Northwind Works,Remote,mid,full-time,True,Object-Oriented Programming;C++;C#;Unreal Engine;Unity;Game Design,Git;Data Structures,3,84090,105256
+job-0237,Software Engineer Intern,Lumen AI,"Delhi, India",internship,internship,False,Python;Java;System Design;Data Structures;Unit Testing;Object-Oriented Programming,Problem Solving;Design Patterns;Computer Networks;Operating Systems,0,1479,1988
+job-0238,Junior Software Engineer,Driftwood Cloud,Remote,entry,full-time,True,Python;System Design;Algorithms;Java;Git,Linux;Problem Solving;Operating Systems;Computer Networks,1,53270,69476
+job-0239,Junior Frontend Developer,Quill Logistics,Remote,entry,full-time,True,CSS;React;TypeScript;Web Accessibility;Git;HTML,Jest,1,54118,69700
+job-0240,Game Developer,Quill Labs,Remote,mid,contract,True,Unity;Unreal Engine;C#;Game Design;Linear Algebra;Object-Oriented Programming;C++,Data Structures;Git,2,74539,104144
+job-0241,Senior Full Stack Developer,Foxglove Studios,"Mumbai, India",senior,full-time,False,CSS;React;SQL;Authentication;MongoDB;REST APIs;Express.js,Next.js;CI/CD,6,109957,174031
+job-0242,Junior Frontend Developer,Northwind Works,"Toronto, Canada",entry,full-time,False,JavaScript;Git;TypeScript;HTML,Redux;Tailwind CSS;Figma;Next.js,1,54597,72587
+job-0243,Frontend Developer,Orbit Systems,"Pune, India",mid,full-time,False,TypeScript;REST APIs;CSS;HTML;Web Accessibility;Git,Tailwind CSS;Redux;Vite;Jest,3,81196,106458
+job-0244,Data Analyst,Evergreen Labs,Remote,mid,contract,True,SQL;Excel;Power BI;Python,Database Design;R;Jupyter,2,81033,106889
+job-0245,Embedded Systems Engineer Intern,Tidal Logistics,Remote,internship,internship,True,C++;IoT;Embedded Systems;C;Arduino,Computer Networks;Git;Linux,0,1441,2060
+job-0246,Junior Frontend Developer,Northwind Security,Remote,entry,full-time,True,CSS;React;TypeScript;REST APIs,Tailwind CSS;Vite;Next.js,1,51810,66279
+job-0247,Cybersecurity Analyst Intern,Vantage Works,"Lagos, Nigeria",internship,internship,False,Wireshark;Linux;Penetration Testing;Python;SIEM,Communication;Bash;Operating Systems,0,1297,1813
+job-0248,Senior UI/UX Designer,Redwood Labs,"Berlin, Germany",senior,full-time,False,Web Accessibility;UI/UX Design;Communication;Figma;Responsive Design;Wireframing,CSS;HTML,6,118617,151684
+job-0249,Backend Developer,Juniper Works,"Sydney, Australia",mid,full-time,False,MongoDB;Unit Testing;PostgreSQL;Authentication;Git;Node.js;REST APIs,System Design,3,76494,113027
+job-0250,Cybersecurity Analyst Intern,Umbra AI,Remote,internship,internship,True,Linux;OWASP Top 10;Cryptography;Network Security;Computer Networks;SIEM,Web Security;Bash;Operating Systems;Communication,0,1421,2062
+job-0251,Junior Mobile App Developer,Quill Robotics,Remote,entry,contract,True,React Native;Git;JavaScript;Flutter,Android Development;UI/UX Design,0,48317,66318
+job-0252,Junior Full Stack Developer,Vantage Health,Remote,entry,full-time,True,Node.js;React;TypeScript;HTML;SQL;CSS,Next.js;AWS;Unit Testing,1,47649,75385
+job-0253,Full Stack Developer Intern,Granite Health,"London, UK",internship,internship,False,Node.js;React;Express.js;SQL;Authentication,Next.js;AWS;Docker,0,1434,1739
+job-0254,Senior Embedded Systems Engineer,Granite Security,Remote,senior,full-time,True,Operating Systems;Embedded Systems;IoT;C,Computer Networks;Linux;Python,5,119560,172272
+job-0255,Senior Cybersecurity Analyst,Helix Logistics,Remote,senior,full-time,True,Linux;SIEM;Network Security;Penetration Testing;Computer Networks,Bash;Communication,5,110310,174936
+job-0256,Game Developer Intern,Cobalt Finance,"Delhi, India",internship,internship,False,C#;Unity;C++;Object-Oriented Programming;Game Design;Unreal Engine,Data Structures;Git,0,1395,1850
+job-0257,DevOps Engineer Intern,Pinecrest AI,Remote,internship,internship,True,CI/CD;Git;Bash;Docker,Network Security;Python;Nginx,0,1497,1878
+job-0258,Cybersecurity Analyst,Lumen Cloud,"São Paulo, Brazil",mid,full-time,False,Computer Networks;Python;Network Security;Cryptography;Penetration Testing,Web Security;Bash;Communication,3,81868,102232
+job-0259,Junior Data Scientist,Sable Robotics,Remote,entry,full-time,True,Python;SQL;Machine Learning;scikit-learn,Communication;Apache Spark,0,49142,68137
+job-0260,Cybersecurity Analyst Intern,Nimbus Robotics,Remote,internship,internship,True,Python;Network Security;SIEM;Penetration Testing;OWASP Top 10;Linux,Communication;Operating Systems,0,1452,1942
+job-0261,Junior UI/UX Designer,Orbit Works,Remote,entry,part-time,True,Wireframing;Figma;UI/UX Design;Responsive Design,HTML,0,50899,64493
+job-0262,DevOps Engineer Intern,Vantage Cloud,"Chennai, India",internship,internship,False,Git;Prometheus;Linux;CI/CD;Docker;AWS;Kubernetes,Nginx;GitHub Actions,0,1452,1778
+job-0263,Data Scientist,Willow AI,"Austin, USA",mid,contract,False,Python;SQL;Statistics;Pandas;Data Visualization;scikit-learn,Deep Learning;Jupyter;Communication,2,80555,104338
+job-0264,Frontend Developer Intern,Orbit Cloud,"Sydney, Australia",internship,internship,False,Git;CSS;HTML;Responsive Design;Web Accessibility;React,Jest,0,1327,2077
+job-0265,Data Analyst,Indigo Networks,Remote,mid,full-time,True,SQL;Power BI;Data Analysis;Data Visualization;Tableau;Excel;Communication,Jupyter;R;Database Design,2,77923,105026
+job-0266,AI / LLM Engineer,Granite Systems,"Nairobi, Kenya",mid,full-time,False,Large Language Models;Natural Language Processing;Python;Prompt Engineering;Machine Learning;FastAPI,PyTorch,2,79085,106777
+job-0267,QA Automation Engineer Intern,Vantage Studios,"Hyderabad, India",internship,internship,False,Python;API Testing;CI/CD;JavaScript;Unit Testing,Git;SQL;Jira,0,1290,1839
+job-0268,Game Developer,Brightpath Digital,"Toronto, Canada",mid,full-time,False,Object-Oriented Programming;Linear Algebra;C#;C++,Git;Data Structures,3,74260,114147
+job-0269,Machine Learning Engineer Intern,Redwood Learning,"Mumbai, India",internship,internship,False,PyTorch;MLOps;Linear Algebra;Docker;scikit-learn;Deep Learning,REST APIs;Git;SQL;AWS,0,1421,1817
+job-0270,QA Automation Engineer Intern,Lumen Systems,"Nairobi, Kenya",internship,internship,False,Playwright;Cypress;Unit Testing;Selenium;Python;CI/CD;JavaScript,Jira;SQL;Git;Test-Driven Development,0,1440,1760
+job-0271,Junior Embedded Systems Engineer,Mosaic Labs,Remote,entry,full-time,True,Embedded Systems;C++;C;Operating Systems,Git;Computer Networks;Python,1,49202,66912
+job-0272,Junior Data Engineer,Northwind Networks,Remote,entry,full-time,True,Data Warehousing;SQL;AWS;Database Design;Python,Message Queues;Linux;Docker;PostgreSQL,1,52438,76473
+job-0273,Full Stack Developer,Zephyr Learning,Remote,mid,full-time,True,Git;REST APIs;SQL;HTML;Express.js;TypeScript;MongoDB,Next.js;AWS,2,78404,104377
+job-0274,Junior Game Developer,Sable Finance,"Dublin, Ireland",entry,full-time,False,C#;Linear Algebra;Unreal Engine;Object-Oriented Programming,Git;Data Structures,1,47354,67534
+job-0275,Data Analyst Intern,Pinecrest Systems,Remote,internship,internship,True,Pandas;Data Visualization;Excel;Communication;SQL;Statistics;Tableau,Database Design;Jupyter;R,0,1466,1828
+job-0276,UI/UX Designer,Driftwood Studios,Remote,mid,full-time,True,Responsive Design;Communication;Web Accessibility;Figma;UI/UX Design,HTML;CSS,2,77618,113707
+job-0277,Frontend Developer Intern,Umbra Studios,Remote,internship,internship,True,JavaScript;HTML;Responsive Design;CSS;Git;TypeScript;React,Redux;Jest,0,1457,1927
+job-0278,Senior Data Scientist,Vantage Studios,Remote,senior,full-time,True,SQL;Pandas;NumPy;Data Visualization;Python;Statistics,Communication,5,113072,152816
+job-0279,Backend Developer Intern,Tidal Digital,Remote,internship,internship,True,REST APIs;Node.js;Express.js;MongoDB;PostgreSQL;Database Design,Microservices,0,1418,1969
+job-0280,Embedded Systems Engineer Intern,Evergreen AI,"Mumbai, India",internship,internship,False,C++;Operating Systems;C;Arduino;IoT,Git,0,1393,2044
+job-0281,QA Automation Engineer,Quill Works,Remote,mid,full-time,True,API Testing;Python;JavaScript;Cypress;Unit Testing;CI/CD;Selenium,Test-Driven Development;Git,3,81963,115779
+job-0282,AI / LLM Engineer Intern,Zephyr Health,"Lagos, Nigeria",internship,internship,False,Large Language Models;Python;Machine Learning;Prompt Engineering;Natural Language Processing;FastAPI,Git;Elasticsearch;Docker;Unit Testing,0,1401,1753
+job-0283,Junior QA Automation Engineer,Indigo Learning,"São Paulo, Brazil",entry,full-time,False,JavaScript;Cypress;Playwright;Python,Test-Driven Development;Git;Jira;SQL,0,49162,70691
+job-0284,Game Developer,Orbit Digital,"Seattle, USA",mid,full-time,False,C++;C#;Unity;Unreal Engine;Game Design,Data Structures;Git,2,79337,117103
+job-0285,AI / LLM Engineer,Willow Security,"São Paulo, Brazil",mid,full-time,False,REST APIs;Prompt Engineering;FastAPI;Large Language Models;Machine Learning;Python;Natural Language Processing,PyTorch;Elasticsearch;Docker,3,74761,116124
+job-0286,Junior Software Engineer,Lumen Works,"Austin, USA",entry,full-time,False,Object-Oriented Programming;Algorithms;System Design;Git;Data Structures;Unit Testing;Python,Computer Networks,0,53173,70116
+job-0287,Junior Software Engineer,Quanta Finance,"São Paulo, Brazil",entry,part-time,False,Python;Java;SQL;Git;Object-Oriented Programming;Unit Testing;Data Structures,Linux,1,53120,74774
+job-0288,Junior Cybersecurity Analyst,Mosaic Finance,"Sydney, Australia",entry,part-time,False,Penetration Testing;Python;Network Security;SIEM;Wireshark,Bash;Communication,0,48091,73915
+job-0289,DevOps Engineer Intern,Quanta Robotics,"São Paulo, Brazil",internship,internship,False,Bash;Kubernetes;Git;Docker;Linux,Python;Network Security;GitHub Actions;Nginx,0,1310,1896
+job-0290,Junior Full Stack Developer,Nimbus Cloud,"Bengaluru, India",entry,full-time,False,JavaScript;React;Node.js;Git;REST APIs;CSS;HTML,CI/CD;AWS;Docker,1,50310,72808
+job-0291,Cybersecurity Analyst,Willow Labs,Remote,mid,full-time,True,Network Security;Penetration Testing;Linux;Wireshark,Communication;Operating Systems;Web Security;Bash,2,82378,113072
+job-0292,Junior Software Engineer,Driftwood Labs,"São Paulo, Brazil",entry,part-time,False,SQL;System Design;Algorithms;Java,Operating Systems,0,53745,65628
+job-0293,Cloud Engineer,Granite Labs,Remote,mid,full-time,True,Terraform;Docker;Kubernetes;AWS;Computer Networks;Serverless;Linux,Google Cloud;Azure;Network Security;CI/CD,2,78719,118571
+job-0294,Frontend Developer,Evergreen Security,"Hyderabad, India",mid,part-time,False,Git;Web Accessibility;JavaScript;TypeScript,Next.js,3,79175,116102
+job-0295,Data Analyst Intern,Pinecrest Studios,Remote,internship,internship,True,Pandas;SQL;Data Visualization;Power BI,R;Database Design,0,1334,1727
+job-0296,Data Scientist Intern,Mosaic AI,Remote,internship,internship,True,SQL;Python;Data Visualization;Linear Algebra;NumPy;Machine Learning;Statistics,Communication;Deep Learning;Jupyter,0,1462,1950
+job-0297,Senior Machine Learning Engineer,Juniper AI,"São Paulo, Brazil",senior,full-time,False,Statistics;Deep Learning;scikit-learn;Python;MLOps,REST APIs;SQL;Data Structures;AWS,6,109063,164653
+job-0298,Junior Cybersecurity Analyst,Umbra Networks,"Pune, India",entry,full-time,False,SIEM;Python;Cryptography;Network Security,Operating Systems,1,51706,66592
+job-0299,Senior Full Stack Developer,Mosaic Cloud,"Chennai, India",senior,full-time,False,Express.js;JavaScript;CSS;Node.js;SQL;React,Docker,6,109186,155924
+job-0300,Senior DevOps Engineer,Helix Security,"Lagos, Nigeria",senior,full-time,False,Docker;Linux;Prometheus;Terraform;AWS;CI/CD,Python;GitHub Actions,6,114352,172012

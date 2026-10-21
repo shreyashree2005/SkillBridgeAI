@@ -1,0 +1,3982 @@
+[
+ {
+  "id": "review-0001",
+  "reviewer": "user-0145",
+  "subject": "user-0439",
+  "session": "session-0005",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-10T17:37:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0002",
+  "reviewer": "user-0705",
+  "subject": "user-0431",
+  "session": "session-0007",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-07-26T17:21:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0003",
+  "reviewer": "user-0256",
+  "subject": "user-0968",
+  "session": "session-0008",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-09T09:55:07.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0004",
+  "reviewer": "user-0305",
+  "subject": "user-0358",
+  "session": "session-0009",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-30T20:08:40.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0005",
+  "reviewer": "user-0567",
+  "subject": "user-0263",
+  "session": "session-0011",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-05-26T14:21:43.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0006",
+  "reviewer": "user-0095",
+  "subject": "user-0504",
+  "session": "session-0012",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-04-07T10:40:08.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0007",
+  "reviewer": "user-0036",
+  "subject": "user-0303",
+  "session": "session-0015",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-08-28T21:37:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0008",
+  "reviewer": "user-0707",
+  "subject": "user-0783",
+  "session": "session-0016",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-10T11:15:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0009",
+  "reviewer": "user-0351",
+  "subject": "user-0654",
+  "session": "session-0018",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-08-04T22:10:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0010",
+  "reviewer": "user-0298",
+  "subject": "user-0478",
+  "session": "session-0022",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-26T09:05:02.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0011",
+  "reviewer": "user-0242",
+  "subject": "user-0766",
+  "session": "session-0024",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-06T08:33:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0012",
+  "reviewer": "user-0804",
+  "subject": "user-0784",
+  "session": "session-0025",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-28T21:24:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0013",
+  "reviewer": "user-0019",
+  "subject": "user-0766",
+  "session": "session-0033",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-22T04:24:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0014",
+  "reviewer": "user-0153",
+  "subject": "user-0745",
+  "session": "session-0034",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-09-11T11:55:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0015",
+  "reviewer": "user-0592",
+  "subject": "user-0506",
+  "session": "session-0035",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-05-22T18:23:43.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0016",
+  "reviewer": "user-0533",
+  "subject": "user-0263",
+  "session": "session-0037",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-07-17T11:11:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0017",
+  "reviewer": "user-0565",
+  "subject": "user-0697",
+  "session": "session-0038",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-02T03:33:32.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0018",
+  "reviewer": "user-0847",
+  "subject": "user-0642",
+  "session": "session-0041",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-07-15T19:28:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0019",
+  "reviewer": "user-0719",
+  "subject": "user-0885",
+  "session": "session-0046",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-29T19:58:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0020",
+  "reviewer": "user-0762",
+  "subject": "user-0254",
+  "session": "session-0049",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-05-25T14:37:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0021",
+  "reviewer": "user-0480",
+  "subject": "user-0950",
+  "session": "session-0050",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-07-08T03:56:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0022",
+  "reviewer": "user-0863",
+  "subject": "user-0007",
+  "session": "session-0051",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-07-08T05:06:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0023",
+  "reviewer": "user-0957",
+  "subject": "user-0722",
+  "session": "session-0053",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-29T21:12:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0024",
+  "reviewer": "user-0743",
+  "subject": "user-0498",
+  "session": "session-0056",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-09-21T01:27:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0025",
+  "reviewer": "user-0330",
+  "subject": "user-0334",
+  "session": "session-0057",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-06-20T00:43:55.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0026",
+  "reviewer": "user-0797",
+  "subject": "user-0766",
+  "session": "session-0060",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-07-25T11:55:02.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0027",
+  "reviewer": "user-0253",
+  "subject": "user-0218",
+  "session": "session-0061",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-07-04T09:35:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0028",
+  "reviewer": "user-0722",
+  "subject": "user-0099",
+  "session": "session-0063",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-27T03:19:26.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0029",
+  "reviewer": "user-0519",
+  "subject": "user-0248",
+  "session": "session-0071",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-09-11T12:26:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0030",
+  "reviewer": "user-0022",
+  "subject": "user-0676",
+  "session": "session-0075",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-31T01:26:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0031",
+  "reviewer": "user-0638",
+  "subject": "user-0615",
+  "session": "session-0076",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-06-29T16:32:24.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0032",
+  "reviewer": "user-0267",
+  "subject": "user-0244",
+  "session": "session-0078",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-07-28T06:45:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0033",
+  "reviewer": "user-0243",
+  "subject": "user-0504",
+  "session": "session-0079",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-09T05:12:42.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0034",
+  "reviewer": "user-0099",
+  "subject": "user-0950",
+  "session": "session-0080",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-15T23:08:40.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0035",
+  "reviewer": "user-0474",
+  "subject": "user-0752",
+  "session": "session-0082",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-18T08:51:53.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0036",
+  "reviewer": "user-0940",
+  "subject": "user-0934",
+  "session": "session-0083",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-27T12:23:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0037",
+  "reviewer": "user-0839",
+  "subject": "user-0358",
+  "session": "session-0086",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-03T02:20:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0038",
+  "reviewer": "user-0343",
+  "subject": "user-0882",
+  "session": "session-0088",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-04-12T13:06:51.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0039",
+  "reviewer": "user-0203",
+  "subject": "user-0766",
+  "session": "session-0090",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-11T01:11:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0040",
+  "reviewer": "user-0275",
+  "subject": "user-0276",
+  "session": "session-0091",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-07-12T00:02:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0041",
+  "reviewer": "user-0830",
+  "subject": "user-0582",
+  "session": "session-0093",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-03T09:52:55.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0042",
+  "reviewer": "user-0859",
+  "subject": "user-0671",
+  "session": "session-0096",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-04-14T10:52:40.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0043",
+  "reviewer": "user-0011",
+  "subject": "user-0080",
+  "session": "session-0097",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-11T20:19:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0044",
+  "reviewer": "user-0496",
+  "subject": "user-0498",
+  "session": "session-0100",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-05-19T02:05:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0045",
+  "reviewer": "user-0107",
+  "subject": "user-0523",
+  "session": "session-0101",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-22T22:06:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0046",
+  "reviewer": "user-0604",
+  "subject": "user-0227",
+  "session": "session-0103",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-13T01:42:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0047",
+  "reviewer": "user-0929",
+  "subject": "user-0700",
+  "session": "session-0105",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-06T04:45:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0048",
+  "reviewer": "user-0855",
+  "subject": "user-0934",
+  "session": "session-0107",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-09-25T12:35:07.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0049",
+  "reviewer": "user-0188",
+  "subject": "user-0722",
+  "session": "session-0111",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-06-19T23:17:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0050",
+  "reviewer": "user-0071",
+  "subject": "user-0784",
+  "session": "session-0114",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-02T18:06:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0051",
+  "reviewer": "user-0337",
+  "subject": "user-0960",
+  "session": "session-0115",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-08-17T04:05:29.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0052",
+  "reviewer": "user-0486",
+  "subject": "user-0780",
+  "session": "session-0118",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-07-18T03:28:51.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0053",
+  "reviewer": "user-0888",
+  "subject": "user-0265",
+  "session": "session-0121",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-16T21:38:21.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0054",
+  "reviewer": "user-0375",
+  "subject": "user-0818",
+  "session": "session-0122",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-24T07:16:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0055",
+  "reviewer": "user-0199",
+  "subject": "user-0509",
+  "session": "session-0123",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-20T13:31:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0056",
+  "reviewer": "user-0443",
+  "subject": "user-0157",
+  "session": "session-0124",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-01T04:30:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0057",
+  "reviewer": "user-0173",
+  "subject": "user-0498",
+  "session": "session-0127",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-21T12:14:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0058",
+  "reviewer": "user-0970",
+  "subject": "user-0304",
+  "session": "session-0129",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-22T16:28:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0059",
+  "reviewer": "user-0278",
+  "subject": "user-0537",
+  "session": "session-0133",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-03-27T03:02:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0060",
+  "reviewer": "user-0279",
+  "subject": "user-0718",
+  "session": "session-0136",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-05-25T06:08:33.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0061",
+  "reviewer": "user-0654",
+  "subject": "user-0506",
+  "session": "session-0142",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-17T15:39:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0062",
+  "reviewer": "user-0069",
+  "subject": "user-0334",
+  "session": "session-0146",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-20T04:01:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0063",
+  "reviewer": "user-0770",
+  "subject": "user-0868",
+  "session": "session-0147",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-18T23:30:21.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0064",
+  "reviewer": "user-0576",
+  "subject": "user-0700",
+  "session": "session-0149",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-12T02:24:17.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0065",
+  "reviewer": "user-0063",
+  "subject": "user-0794",
+  "session": "session-0152",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-29T02:08:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0066",
+  "reviewer": "user-0861",
+  "subject": "user-0468",
+  "session": "session-0156",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-06T15:05:35.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0067",
+  "reviewer": "user-0285",
+  "subject": "user-0898",
+  "session": "session-0157",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-04-25T19:52:01.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0068",
+  "reviewer": "user-0839",
+  "subject": "user-0718",
+  "session": "session-0161",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-13T19:20:26.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0069",
+  "reviewer": "user-0225",
+  "subject": "user-0244",
+  "session": "session-0162",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-13T21:40:32.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0070",
+  "reviewer": "user-0154",
+  "subject": "user-0628",
+  "session": "session-0163",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-07-28T19:54:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0071",
+  "reviewer": "user-0313",
+  "subject": "user-0430",
+  "session": "session-0164",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-19T22:47:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0072",
+  "reviewer": "user-0736",
+  "subject": "user-0506",
+  "session": "session-0165",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-05-13T07:46:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0073",
+  "reviewer": "user-0707",
+  "subject": "user-0058",
+  "session": "session-0175",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-05-27T09:23:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0074",
+  "reviewer": "user-0110",
+  "subject": "user-0303",
+  "session": "session-0179",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-27T11:18:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0075",
+  "reviewer": "user-0238",
+  "subject": "user-0972",
+  "session": "session-0180",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-29T13:20:41.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0076",
+  "reviewer": "user-0116",
+  "subject": "user-0504",
+  "session": "session-0181",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-09-19T08:11:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0077",
+  "reviewer": "user-0646",
+  "subject": "user-0281",
+  "session": "session-0184",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-03-23T04:37:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0078",
+  "reviewer": "user-0869",
+  "subject": "user-0439",
+  "session": "session-0192",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-07-12T04:16:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0079",
+  "reviewer": "user-0857",
+  "subject": "user-0608",
+  "session": "session-0193",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-08-21T19:07:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0080",
+  "reviewer": "user-0390",
+  "subject": "user-0473",
+  "session": "session-0194",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-05-18T19:31:42.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0081",
+  "reviewer": "user-0947",
+  "subject": "user-0373",
+  "session": "session-0195",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-07-26T04:29:17.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0082",
+  "reviewer": "user-0991",
+  "subject": "user-0392",
+  "session": "session-0201",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-06-09T13:27:53.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0083",
+  "reviewer": "user-0895",
+  "subject": "user-0117",
+  "session": "session-0202",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-06T02:26:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0084",
+  "reviewer": "user-0022",
+  "subject": "user-0975",
+  "session": "session-0203",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-05-31T15:51:43.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0085",
+  "reviewer": "user-0872",
+  "subject": "user-0498",
+  "session": "session-0206",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-06-24T14:14:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0086",
+  "reviewer": "user-0687",
+  "subject": "user-0372",
+  "session": "session-0208",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-09T14:31:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0087",
+  "reviewer": "user-0169",
+  "subject": "user-0468",
+  "session": "session-0210",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-10T16:58:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0088",
+  "reviewer": "user-0596",
+  "subject": "user-0833",
+  "session": "session-0212",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-04T01:32:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0089",
+  "reviewer": "user-0447",
+  "subject": "user-0773",
+  "session": "session-0214",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-06-29T13:28:08.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0090",
+  "reviewer": "user-0156",
+  "subject": "user-0627",
+  "session": "session-0215",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-05-22T18:42:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0091",
+  "reviewer": "user-0455",
+  "subject": "user-0934",
+  "session": "session-0216",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-09-09T18:52:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0092",
+  "reviewer": "user-0234",
+  "subject": "user-0249",
+  "session": "session-0220",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-03T20:59:35.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0093",
+  "reviewer": "user-0976",
+  "subject": "user-0773",
+  "session": "session-0221",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-24T19:59:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0094",
+  "reviewer": "user-0681",
+  "subject": "user-0431",
+  "session": "session-0227",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-13T16:39:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0095",
+  "reviewer": "user-0942",
+  "subject": "user-0228",
+  "session": "session-0231",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-06-04T16:22:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0096",
+  "reviewer": "user-0421",
+  "subject": "user-0984",
+  "session": "session-0232",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-05-05T06:22:04.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0097",
+  "reviewer": "user-0766",
+  "subject": "user-0634",
+  "session": "session-0237",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-03-25T21:08:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0098",
+  "reviewer": "user-0138",
+  "subject": "user-0287",
+  "session": "session-0238",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-23T12:23:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0099",
+  "reviewer": "user-0475",
+  "subject": "user-0218",
+  "session": "session-0240",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-27T00:44:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0100",
+  "reviewer": "user-0253",
+  "subject": "user-0265",
+  "session": "session-0241",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-07-30T10:53:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0101",
+  "reviewer": "user-0126",
+  "subject": "user-0218",
+  "session": "session-0242",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-22T02:48:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0102",
+  "reviewer": "user-0443",
+  "subject": "user-0218",
+  "session": "session-0243",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-07T13:05:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0103",
+  "reviewer": "user-0937",
+  "subject": "user-0331",
+  "session": "session-0245",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-08-22T03:54:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0104",
+  "reviewer": "user-0017",
+  "subject": "user-0287",
+  "session": "session-0255",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-02T21:57:55.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0105",
+  "reviewer": "user-0373",
+  "subject": "user-0975",
+  "session": "session-0258",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-25T00:33:01.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0106",
+  "reviewer": "user-0534",
+  "subject": "user-0287",
+  "session": "session-0261",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-05-30T17:58:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0107",
+  "reviewer": "user-0727",
+  "subject": "user-0957",
+  "session": "session-0262",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-04-10T02:03:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0108",
+  "reviewer": "user-0276",
+  "subject": "user-0080",
+  "session": "session-0264",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-24T18:20:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0109",
+  "reviewer": "user-0651",
+  "subject": "user-0228",
+  "session": "session-0266",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-11T23:43:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0110",
+  "reviewer": "user-0708",
+  "subject": "user-0590",
+  "session": "session-0267",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-12T17:50:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0111",
+  "reviewer": "user-0686",
+  "subject": "user-0691",
+  "session": "session-0268",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-06-14T02:42:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0112",
+  "reviewer": "user-0069",
+  "subject": "user-0642",
+  "session": "session-0270",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-18T23:38:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0113",
+  "reviewer": "user-0794",
+  "subject": "user-0331",
+  "session": "session-0271",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-09-27T21:23:50.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0114",
+  "reviewer": "user-0816",
+  "subject": "user-0654",
+  "session": "session-0272",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-29T13:08:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0115",
+  "reviewer": "user-0433",
+  "subject": "user-0752",
+  "session": "session-0275",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-04-11T14:08:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0116",
+  "reviewer": "user-0833",
+  "subject": "user-0337",
+  "session": "session-0276",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-24T13:26:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0117",
+  "reviewer": "user-0978",
+  "subject": "user-0931",
+  "session": "session-0280",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-01T01:00:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0118",
+  "reviewer": "user-1000",
+  "subject": "user-0833",
+  "session": "session-0281",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-06-22T07:36:51.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0119",
+  "reviewer": "user-0082",
+  "subject": "user-0437",
+  "session": "session-0287",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-03-19T15:24:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0120",
+  "reviewer": "user-0081",
+  "subject": "user-0728",
+  "session": "session-0288",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-05-13T08:44:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0121",
+  "reviewer": "user-0251",
+  "subject": "user-0794",
+  "session": "session-0289",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-27T21:13:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0122",
+  "reviewer": "user-0713",
+  "subject": "user-0187",
+  "session": "session-0290",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-21T14:32:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0123",
+  "reviewer": "user-0054",
+  "subject": "user-0925",
+  "session": "session-0292",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-09-09T11:08:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0124",
+  "reviewer": "user-0090",
+  "subject": "user-0392",
+  "session": "session-0294",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-16T22:30:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0125",
+  "reviewer": "user-0641",
+  "subject": "user-0537",
+  "session": "session-0295",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-09T06:55:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0126",
+  "reviewer": "user-0700",
+  "subject": "user-0287",
+  "session": "session-0298",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-14T08:06:02.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0127",
+  "reviewer": "user-0266",
+  "subject": "user-0248",
+  "session": "session-0299",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-19T21:04:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0128",
+  "reviewer": "user-0423",
+  "subject": "user-0616",
+  "session": "session-0303",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-12T08:14:42.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0129",
+  "reviewer": "user-0412",
+  "subject": "user-0543",
+  "session": "session-0306",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-05-22T02:22:42.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0130",
+  "reviewer": "user-0832",
+  "subject": "user-0634",
+  "session": "session-0308",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-29T21:19:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0131",
+  "reviewer": "user-0857",
+  "subject": "user-0950",
+  "session": "session-0309",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-11T10:43:02.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0132",
+  "reviewer": "user-0715",
+  "subject": "user-0934",
+  "session": "session-0310",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-05-22T05:27:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0133",
+  "reviewer": "user-0745",
+  "subject": "user-0667",
+  "session": "session-0311",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-18T10:59:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0134",
+  "reviewer": "user-0931",
+  "subject": "user-0921",
+  "session": "session-0312",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-30T21:19:12.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0135",
+  "reviewer": "user-0736",
+  "subject": "user-0373",
+  "session": "session-0313",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-20T07:40:32.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0136",
+  "reviewer": "user-0635",
+  "subject": "user-0545",
+  "session": "session-0315",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-28T03:22:37.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0137",
+  "reviewer": "user-0964",
+  "subject": "user-0783",
+  "session": "session-0318",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-02T19:31:19.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0138",
+  "reviewer": "user-0986",
+  "subject": "user-0338",
+  "session": "session-0320",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-24T00:40:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0139",
+  "reviewer": "user-0978",
+  "subject": "user-0968",
+  "session": "session-0321",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-05-14T00:09:21.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0140",
+  "reviewer": "user-0283",
+  "subject": "user-0331",
+  "session": "session-0324",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-29T12:02:45.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0141",
+  "reviewer": "user-0948",
+  "subject": "user-0306",
+  "session": "session-0325",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-29T03:29:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0142",
+  "reviewer": "user-0860",
+  "subject": "user-0560",
+  "session": "session-0326",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-04-11T15:44:35.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0143",
+  "reviewer": "user-0200",
+  "subject": "user-0306",
+  "session": "session-0328",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-09T21:30:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0144",
+  "reviewer": "user-0317",
+  "subject": "user-0334",
+  "session": "session-0329",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-19T03:51:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0145",
+  "reviewer": "user-0847",
+  "subject": "user-0362",
+  "session": "session-0330",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-08T10:31:42.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0146",
+  "reviewer": "user-0580",
+  "subject": "user-0638",
+  "session": "session-0331",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-09-10T12:28:41.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0147",
+  "reviewer": "user-0452",
+  "subject": "user-0031",
+  "session": "session-0335",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-04-03T13:28:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0148",
+  "reviewer": "user-0076",
+  "subject": "user-0056",
+  "session": "session-0336",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-05-15T18:25:35.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0149",
+  "reviewer": "user-0375",
+  "subject": "user-0065",
+  "session": "session-0338",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-03-29T02:31:54.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0150",
+  "reviewer": "user-0088",
+  "subject": "user-0934",
+  "session": "session-0339",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-07-19T22:48:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0151",
+  "reviewer": "user-0208",
+  "subject": "user-0883",
+  "session": "session-0342",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-25T18:46:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0152",
+  "reviewer": "user-0777",
+  "subject": "user-0751",
+  "session": "session-0345",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-19T01:19:53.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0153",
+  "reviewer": "user-0463",
+  "subject": "user-0893",
+  "session": "session-0347",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-17T06:44:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0154",
+  "reviewer": "user-0577",
+  "subject": "user-0766",
+  "session": "session-0351",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-04-12T19:11:05.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0155",
+  "reviewer": "user-0066",
+  "subject": "user-0671",
+  "session": "session-0355",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-14T02:01:45.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0156",
+  "reviewer": "user-0911",
+  "subject": "user-0847",
+  "session": "session-0358",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-27T17:46:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0157",
+  "reviewer": "user-0148",
+  "subject": "user-0100",
+  "session": "session-0360",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-20T03:45:54.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0158",
+  "reviewer": "user-0130",
+  "subject": "user-0868",
+  "session": "session-0362",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-22T02:56:24.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0159",
+  "reviewer": "user-0996",
+  "subject": "user-0506",
+  "session": "session-0365",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-16T00:08:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0160",
+  "reviewer": "user-0909",
+  "subject": "user-0898",
+  "session": "session-0366",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-06-07T03:19:08.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0161",
+  "reviewer": "user-0008",
+  "subject": "user-0752",
+  "session": "session-0368",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-18T06:42:24.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0162",
+  "reviewer": "user-0166",
+  "subject": "user-0033",
+  "session": "session-0371",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-09T19:03:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0163",
+  "reviewer": "user-0146",
+  "subject": "user-0937",
+  "session": "session-0374",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-06-26T12:09:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0164",
+  "reviewer": "user-0029",
+  "subject": "user-0287",
+  "session": "session-0375",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-07-17T11:42:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0165",
+  "reviewer": "user-0631",
+  "subject": "user-0265",
+  "session": "session-0377",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-09-07T03:46:05.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0166",
+  "reviewer": "user-0699",
+  "subject": "user-0548",
+  "session": "session-0380",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-07-07T05:03:43.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0167",
+  "reviewer": "user-0975",
+  "subject": "user-0597",
+  "session": "session-0384",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-07-25T11:10:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0168",
+  "reviewer": "user-0768",
+  "subject": "user-0287",
+  "session": "session-0386",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-02T19:19:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0169",
+  "reviewer": "user-0508",
+  "subject": "user-0108",
+  "session": "session-0387",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-05-19T08:21:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0170",
+  "reviewer": "user-0465",
+  "subject": "user-0691",
+  "session": "session-0389",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-21T18:04:19.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0171",
+  "reviewer": "user-0312",
+  "subject": "user-0196",
+  "session": "session-0390",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-09-06T18:13:04.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0172",
+  "reviewer": "user-0870",
+  "subject": "user-0781",
+  "session": "session-0395",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-20T09:54:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0173",
+  "reviewer": "user-0838",
+  "subject": "user-0323",
+  "session": "session-0397",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-06-17T04:37:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0174",
+  "reviewer": "user-0731",
+  "subject": "user-0950",
+  "session": "session-0401",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-02T07:21:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0175",
+  "reviewer": "user-0189",
+  "subject": "user-0306",
+  "session": "session-0402",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-06T02:12:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0176",
+  "reviewer": "user-0805",
+  "subject": "user-0331",
+  "session": "session-0403",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-04-21T08:52:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0177",
+  "reviewer": "user-0884",
+  "subject": "user-0334",
+  "session": "session-0404",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-07-13T16:09:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0178",
+  "reviewer": "user-0863",
+  "subject": "user-0287",
+  "session": "session-0405",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-05-31T05:53:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0179",
+  "reviewer": "user-0687",
+  "subject": "user-0157",
+  "session": "session-0409",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-26T19:49:45.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0180",
+  "reviewer": "user-0749",
+  "subject": "user-0439",
+  "session": "session-0410",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-28T21:30:28.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0181",
+  "reviewer": "user-0039",
+  "subject": "user-0893",
+  "session": "session-0418",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-23T13:23:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0182",
+  "reviewer": "user-0731",
+  "subject": "user-0287",
+  "session": "session-0420",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-03-23T22:50:26.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0183",
+  "reviewer": "user-0209",
+  "subject": "user-0751",
+  "session": "session-0422",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-05-29T17:03:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0184",
+  "reviewer": "user-0317",
+  "subject": "user-0818",
+  "session": "session-0426",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-04-16T14:48:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0185",
+  "reviewer": "user-0635",
+  "subject": "user-0766",
+  "session": "session-0427",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-11T01:12:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0186",
+  "reviewer": "user-0783",
+  "subject": "user-0937",
+  "session": "session-0429",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-05-08T03:08:07.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0187",
+  "reviewer": "user-0421",
+  "subject": "user-0812",
+  "session": "session-0431",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-06-27T21:25:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0188",
+  "reviewer": "user-0008",
+  "subject": "user-0781",
+  "session": "session-0433",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-30T09:10:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0189",
+  "reviewer": "user-0450",
+  "subject": "user-0343",
+  "session": "session-0436",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-16T22:47:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0190",
+  "reviewer": "user-0251",
+  "subject": "user-0783",
+  "session": "session-0438",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-04T19:52:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0191",
+  "reviewer": "user-0520",
+  "subject": "user-0154",
+  "session": "session-0439",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-21T01:54:35.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0192",
+  "reviewer": "user-0365",
+  "subject": "user-0330",
+  "session": "session-0440",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-04-26T04:40:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0193",
+  "reviewer": "user-0286",
+  "subject": "user-0985",
+  "session": "session-0445",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-16T18:52:37.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0194",
+  "reviewer": "user-0839",
+  "subject": "user-0752",
+  "session": "session-0448",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-04T15:21:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0195",
+  "reviewer": "user-0887",
+  "subject": "user-0081",
+  "session": "session-0449",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-07-20T21:14:41.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0196",
+  "reviewer": "user-0200",
+  "subject": "user-0968",
+  "session": "session-0450",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-08-03T23:39:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0197",
+  "reviewer": "user-0309",
+  "subject": "user-0931",
+  "session": "session-0451",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-06-29T10:14:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0198",
+  "reviewer": "user-0340",
+  "subject": "user-0117",
+  "session": "session-0455",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-20T10:49:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0199",
+  "reviewer": "user-0653",
+  "subject": "user-0249",
+  "session": "session-0460",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-08-06T00:48:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0200",
+  "reviewer": "user-0756",
+  "subject": "user-0421",
+  "session": "session-0462",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-08T01:09:12.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0201",
+  "reviewer": "user-0986",
+  "subject": "user-0934",
+  "session": "session-0464",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-08-09T16:52:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0202",
+  "reviewer": "user-0312",
+  "subject": "user-0527",
+  "session": "session-0468",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-23T01:10:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0203",
+  "reviewer": "user-0205",
+  "subject": "user-0261",
+  "session": "session-0469",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-27T08:58:45.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0204",
+  "reviewer": "user-0295",
+  "subject": "user-0849",
+  "session": "session-0470",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-08-13T00:35:17.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0205",
+  "reviewer": "user-0041",
+  "subject": "user-0031",
+  "session": "session-0471",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-15T06:26:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0206",
+  "reviewer": "user-0763",
+  "subject": "user-0773",
+  "session": "session-0473",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-07-22T05:36:35.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0207",
+  "reviewer": "user-0229",
+  "subject": "user-0982",
+  "session": "session-0474",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-04-23T10:25:04.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0208",
+  "reviewer": "user-0104",
+  "subject": "user-0372",
+  "session": "session-0475",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-04T15:32:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0209",
+  "reviewer": "user-0861",
+  "subject": "user-0454",
+  "session": "session-0476",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-05-26T06:41:29.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0210",
+  "reviewer": "user-0448",
+  "subject": "user-0265",
+  "session": "session-0477",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-04-23T09:19:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0211",
+  "reviewer": "user-0078",
+  "subject": "user-0466",
+  "session": "session-0478",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-07-20T14:13:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0212",
+  "reviewer": "user-0419",
+  "subject": "user-0849",
+  "session": "session-0479",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-06-19T21:03:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0213",
+  "reviewer": "user-0283",
+  "subject": "user-0108",
+  "session": "session-0481",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-08T11:56:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0214",
+  "reviewer": "user-0372",
+  "subject": "user-0039",
+  "session": "session-0482",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-13T03:15:12.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0215",
+  "reviewer": "user-0922",
+  "subject": "user-0744",
+  "session": "session-0484",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-07-11T07:12:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0216",
+  "reviewer": "user-0047",
+  "subject": "user-0450",
+  "session": "session-0487",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-03-28T23:34:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0217",
+  "reviewer": "user-0483",
+  "subject": "user-0197",
+  "session": "session-0489",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-05-23T18:53:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0218",
+  "reviewer": "user-0896",
+  "subject": "user-0560",
+  "session": "session-0491",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-28T10:10:19.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0219",
+  "reviewer": "user-0208",
+  "subject": "user-0833",
+  "session": "session-0492",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-09T07:22:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0220",
+  "reviewer": "user-0955",
+  "subject": "user-0745",
+  "session": "session-0498",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-07-26T09:54:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0221",
+  "reviewer": "user-0555",
+  "subject": "user-0931",
+  "session": "session-0499",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-19T01:15:01.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0222",
+  "reviewer": "user-0974",
+  "subject": "user-0338",
+  "session": "session-0501",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-03-24T17:38:29.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0223",
+  "reviewer": "user-0859",
+  "subject": "user-0545",
+  "session": "session-0506",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-04-09T07:23:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0224",
+  "reviewer": "user-0691",
+  "subject": "user-0783",
+  "session": "session-0512",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-05-18T22:32:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0225",
+  "reviewer": "user-0168",
+  "subject": "user-0812",
+  "session": "session-0513",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-07-03T16:03:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0226",
+  "reviewer": "user-0304",
+  "subject": "user-0473",
+  "session": "session-0514",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-16T04:38:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0227",
+  "reviewer": "user-0226",
+  "subject": "user-0263",
+  "session": "session-0516",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-17T02:46:41.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0228",
+  "reviewer": "user-0113",
+  "subject": "user-0840",
+  "session": "session-0518",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-27T12:52:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0229",
+  "reviewer": "user-0961",
+  "subject": "user-0110",
+  "session": "session-0521",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-05-28T12:36:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0230",
+  "reviewer": "user-0663",
+  "subject": "user-0303",
+  "session": "session-0522",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-24T06:03:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0231",
+  "reviewer": "user-0817",
+  "subject": "user-0607",
+  "session": "session-0523",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-03-29T18:53:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0232",
+  "reviewer": "user-0861",
+  "subject": "user-0781",
+  "session": "session-0524",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-04-27T08:05:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0233",
+  "reviewer": "user-0165",
+  "subject": "user-0182",
+  "session": "session-0531",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-10T11:34:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0234",
+  "reviewer": "user-0686",
+  "subject": "user-0454",
+  "session": "session-0533",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-04T03:19:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0235",
+  "reviewer": "user-0449",
+  "subject": "user-0992",
+  "session": "session-0535",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-06-27T21:35:17.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0236",
+  "reviewer": "user-0254",
+  "subject": "user-0250",
+  "session": "session-0542",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-10-01T15:12:30.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0237",
+  "reviewer": "user-0999",
+  "subject": "user-0849",
+  "session": "session-0544",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-04-16T06:08:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0238",
+  "reviewer": "user-0513",
+  "subject": "user-0741",
+  "session": "session-0546",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-09-12T00:00:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0239",
+  "reviewer": "user-0573",
+  "subject": "user-0527",
+  "session": "session-0547",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-08-13T06:20:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0240",
+  "reviewer": "user-0896",
+  "subject": "user-0077",
+  "session": "session-0548",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-03-24T06:13:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0241",
+  "reviewer": "user-0447",
+  "subject": "user-0622",
+  "session": "session-0553",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-10T23:42:07.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0242",
+  "reviewer": "user-0555",
+  "subject": "user-0080",
+  "session": "session-0554",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-02T16:55:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0243",
+  "reviewer": "user-0535",
+  "subject": "user-0245",
+  "session": "session-0555",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-07-18T18:45:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0244",
+  "reviewer": "user-0002",
+  "subject": "user-0402",
+  "session": "session-0557",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-08-21T11:36:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0245",
+  "reviewer": "user-0462",
+  "subject": "user-0982",
+  "session": "session-0560",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-06-15T21:45:05.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0246",
+  "reviewer": "user-0712",
+  "subject": "user-0454",
+  "session": "session-0561",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-06T00:43:41.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0247",
+  "reviewer": "user-0725",
+  "subject": "user-0287",
+  "session": "session-0567",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-05-16T22:35:16.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0248",
+  "reviewer": "user-0969",
+  "subject": "user-0803",
+  "session": "session-0568",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-06-23T21:34:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0249",
+  "reviewer": "user-0908",
+  "subject": "user-0548",
+  "session": "session-0569",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-09-20T02:05:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0250",
+  "reviewer": "user-0947",
+  "subject": "user-0372",
+  "session": "session-0573",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-11T01:31:45.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0251",
+  "reviewer": "user-0239",
+  "subject": "user-0081",
+  "session": "session-0578",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-04-06T18:25:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0252",
+  "reviewer": "user-0969",
+  "subject": "user-0847",
+  "session": "session-0579",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-07-02T21:19:51.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0253",
+  "reviewer": "user-0430",
+  "subject": "user-0094",
+  "session": "session-0580",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-18T17:27:52.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0254",
+  "reviewer": "user-0204",
+  "subject": "user-0752",
+  "session": "session-0581",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-05T09:42:24.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0255",
+  "reviewer": "user-0621",
+  "subject": "user-0031",
+  "session": "session-0582",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-16T01:04:12.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0256",
+  "reviewer": "user-0253",
+  "subject": "user-0263",
+  "session": "session-0583",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-14T17:52:19.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0257",
+  "reviewer": "user-0535",
+  "subject": "user-0241",
+  "session": "session-0585",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-23T06:42:01.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0258",
+  "reviewer": "user-0855",
+  "subject": "user-0803",
+  "session": "session-0587",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-21T05:15:33.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0259",
+  "reviewer": "user-0239",
+  "subject": "user-0263",
+  "session": "session-0590",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-27T02:21:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0260",
+  "reviewer": "user-0210",
+  "subject": "user-0590",
+  "session": "session-0593",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-08-17T03:18:07.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0261",
+  "reviewer": "user-0583",
+  "subject": "user-0992",
+  "session": "session-0594",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-09-15T18:04:40.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0262",
+  "reviewer": "user-0301",
+  "subject": "user-0431",
+  "session": "session-0597",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-06T05:37:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0263",
+  "reviewer": "user-0465",
+  "subject": "user-0768",
+  "session": "session-0602",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-09-29T11:51:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0264",
+  "reviewer": "user-0805",
+  "subject": "user-0392",
+  "session": "session-0603",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-06T18:52:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0265",
+  "reviewer": "user-0841",
+  "subject": "user-0925",
+  "session": "session-0605",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-03T20:32:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0266",
+  "reviewer": "user-0632",
+  "subject": "user-0372",
+  "session": "session-0607",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-04T03:29:25.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0267",
+  "reviewer": "user-0947",
+  "subject": "user-0957",
+  "session": "session-0609",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-07-26T03:10:29.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0268",
+  "reviewer": "user-0010",
+  "subject": "user-0794",
+  "session": "session-0611",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-08-02T04:37:32.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0269",
+  "reviewer": "user-0277",
+  "subject": "user-0546",
+  "session": "session-0613",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-07-22T11:43:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0270",
+  "reviewer": "user-0851",
+  "subject": "user-0442",
+  "session": "session-0614",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-22T07:31:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0271",
+  "reviewer": "user-0452",
+  "subject": "user-0437",
+  "session": "session-0615",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-04-17T05:10:21.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0272",
+  "reviewer": "user-0494",
+  "subject": "user-0213",
+  "session": "session-0616",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-15T18:50:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0273",
+  "reviewer": "user-0806",
+  "subject": "user-0622",
+  "session": "session-0619",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-09-11T07:32:33.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0274",
+  "reviewer": "user-0074",
+  "subject": "user-0654",
+  "session": "session-0621",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-03-29T19:07:50.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0275",
+  "reviewer": "user-0620",
+  "subject": "user-0590",
+  "session": "session-0623",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-16T20:08:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0276",
+  "reviewer": "user-0379",
+  "subject": "user-0937",
+  "session": "session-0625",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-08-15T07:07:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0277",
+  "reviewer": "user-0021",
+  "subject": "user-0402",
+  "session": "session-0630",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-08-15T06:44:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0278",
+  "reviewer": "user-0067",
+  "subject": "user-0081",
+  "session": "session-0631",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-08-16T10:05:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0279",
+  "reviewer": "user-0578",
+  "subject": "user-0978",
+  "session": "session-0633",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-25T01:34:51.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0280",
+  "reviewer": "user-0593",
+  "subject": "user-0187",
+  "session": "session-0635",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-30T08:02:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0281",
+  "reviewer": "user-0459",
+  "subject": "user-0283",
+  "session": "session-0637",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-09-11T04:45:24.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0282",
+  "reviewer": "user-0429",
+  "subject": "user-0766",
+  "session": "session-0638",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-04-24T01:40:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0283",
+  "reviewer": "user-0719",
+  "subject": "user-0199",
+  "session": "session-0641",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-05-08T18:33:24.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0284",
+  "reviewer": "user-0939",
+  "subject": "user-0752",
+  "session": "session-0644",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-20T05:33:37.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0285",
+  "reviewer": "user-0238",
+  "subject": "user-0169",
+  "session": "session-0646",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-01T13:29:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0286",
+  "reviewer": "user-0620",
+  "subject": "user-0768",
+  "session": "session-0647",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-06-27T06:26:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0287",
+  "reviewer": "user-0131",
+  "subject": "user-0676",
+  "session": "session-0652",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-08T23:03:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0288",
+  "reviewer": "user-0867",
+  "subject": "user-0197",
+  "session": "session-0657",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-25T10:11:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0289",
+  "reviewer": "user-0704",
+  "subject": "user-0506",
+  "session": "session-0658",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-07-27T02:40:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0290",
+  "reviewer": "user-0947",
+  "subject": "user-0454",
+  "session": "session-0659",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-04T09:39:54.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0291",
+  "reviewer": "user-0618",
+  "subject": "user-0543",
+  "session": "session-0663",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-06-08T20:50:04.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0292",
+  "reviewer": "user-0327",
+  "subject": "user-0885",
+  "session": "session-0664",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-09-03T03:28:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0293",
+  "reviewer": "user-0402",
+  "subject": "user-0982",
+  "session": "session-0667",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-09-04T08:37:55.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0294",
+  "reviewer": "user-0974",
+  "subject": "user-0582",
+  "session": "session-0668",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-04-03T22:44:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0295",
+  "reviewer": "user-0078",
+  "subject": "user-0931",
+  "session": "session-0669",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-18T10:15:58.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0296",
+  "reviewer": "user-0012",
+  "subject": "user-0211",
+  "session": "session-0671",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-06-25T14:57:41.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0297",
+  "reviewer": "user-0816",
+  "subject": "user-0875",
+  "session": "session-0673",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-06-29T23:23:05.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0298",
+  "reviewer": "user-0171",
+  "subject": "user-0523",
+  "session": "session-0676",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-07-12T22:43:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0299",
+  "reviewer": "user-0965",
+  "subject": "user-0527",
+  "session": "session-0679",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-06-24T04:41:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0300",
+  "reviewer": "user-0227",
+  "subject": "user-0197",
+  "session": "session-0681",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-08-01T07:28:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0301",
+  "reviewer": "user-0346",
+  "subject": "user-0033",
+  "session": "session-0682",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-03-26T02:53:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0302",
+  "reviewer": "user-0804",
+  "subject": "user-0898",
+  "session": "session-0683",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-14T07:23:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0303",
+  "reviewer": "user-0318",
+  "subject": "user-0849",
+  "session": "session-0684",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-05-17T18:40:40.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0304",
+  "reviewer": "user-0332",
+  "subject": "user-0047",
+  "session": "session-0685",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-28T06:25:36.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0305",
+  "reviewer": "user-0238",
+  "subject": "user-0254",
+  "session": "session-0690",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-14T12:07:04.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0306",
+  "reviewer": "user-0509",
+  "subject": "user-0423",
+  "session": "session-0692",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-27T08:00:16.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0307",
+  "reviewer": "user-0358",
+  "subject": "user-0925",
+  "session": "session-0693",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-05-05T03:26:27.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0308",
+  "reviewer": "user-0632",
+  "subject": "user-0317",
+  "session": "session-0694",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-07-03T14:16:50.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0309",
+  "reviewer": "user-0791",
+  "subject": "user-0852",
+  "session": "session-0695",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-06T21:10:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0310",
+  "reviewer": "user-0155",
+  "subject": "user-0218",
+  "session": "session-0696",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-06-30T13:52:04.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0311",
+  "reviewer": "user-0234",
+  "subject": "user-0957",
+  "session": "session-0697",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-03-21T21:17:53.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0312",
+  "reviewer": "user-0434",
+  "subject": "user-0466",
+  "session": "session-0705",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-27T04:21:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0313",
+  "reviewer": "user-0047",
+  "subject": "user-0199",
+  "session": "session-0707",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-04-19T11:08:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0314",
+  "reviewer": "user-0455",
+  "subject": "user-0925",
+  "session": "session-0708",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-05-26T02:32:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0315",
+  "reviewer": "user-0169",
+  "subject": "user-0077",
+  "session": "session-0709",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-05-01T16:24:38.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0316",
+  "reviewer": "user-0349",
+  "subject": "user-0094",
+  "session": "session-0712",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-05-06T21:03:15.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0317",
+  "reviewer": "user-0045",
+  "subject": "user-0349",
+  "session": "session-0713",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-09-10T18:20:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0318",
+  "reviewer": "user-0198",
+  "subject": "user-0642",
+  "session": "session-0718",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-03-25T02:37:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0319",
+  "reviewer": "user-0270",
+  "subject": "user-0227",
+  "session": "session-0719",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-14T20:11:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0320",
+  "reviewer": "user-0586",
+  "subject": "user-0768",
+  "session": "session-0720",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-07-10T06:58:32.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0321",
+  "reviewer": "user-0130",
+  "subject": "user-0047",
+  "session": "session-0721",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-08T01:19:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0322",
+  "reviewer": "user-0557",
+  "subject": "user-0506",
+  "session": "session-0722",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-01T02:53:56.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0323",
+  "reviewer": "user-0525",
+  "subject": "user-0556",
+  "session": "session-0723",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-13T23:38:39.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0324",
+  "reviewer": "user-0548",
+  "subject": "user-0847",
+  "session": "session-0724",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-24T16:28:55.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0325",
+  "reviewer": "user-0292",
+  "subject": "user-0197",
+  "session": "session-0728",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-01T19:59:53.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0326",
+  "reviewer": "user-0713",
+  "subject": "user-0392",
+  "session": "session-0730",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-24T18:59:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0327",
+  "reviewer": "user-0995",
+  "subject": "user-0608",
+  "session": "session-0731",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-07-04T14:55:11.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0328",
+  "reviewer": "user-0748",
+  "subject": "user-0753",
+  "session": "session-0732",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-08-28T12:03:57.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0329",
+  "reviewer": "user-0503",
+  "subject": "user-0241",
+  "session": "session-0735",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-12T10:46:37.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0330",
+  "reviewer": "user-0865",
+  "subject": "user-0875",
+  "session": "session-0737",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-04-12T09:53:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0331",
+  "reviewer": "user-0677",
+  "subject": "user-0741",
+  "session": "session-0739",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-17T03:22:09.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0332",
+  "reviewer": "user-0678",
+  "subject": "user-0249",
+  "session": "session-0743",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-08-19T14:02:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0333",
+  "reviewer": "user-0640",
+  "subject": "user-0392",
+  "session": "session-0745",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-03-19T00:03:12.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0334",
+  "reviewer": "user-0562",
+  "subject": "user-0077",
+  "session": "session-0747",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-07-24T13:03:21.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0335",
+  "reviewer": "user-0575",
+  "subject": "user-0666",
+  "session": "session-0749",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-08-31T08:52:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0336",
+  "reviewer": "user-0462",
+  "subject": "user-0745",
+  "session": "session-0750",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-05-14T18:47:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0337",
+  "reviewer": "user-0693",
+  "subject": "user-0560",
+  "session": "session-0752",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-08-16T22:41:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0338",
+  "reviewer": "user-0669",
+  "subject": "user-0752",
+  "session": "session-0757",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-08-21T20:50:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0339",
+  "reviewer": "user-0562",
+  "subject": "user-0768",
+  "session": "session-0762",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-06-13T09:46:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0340",
+  "reviewer": "user-0105",
+  "subject": "user-0281",
+  "session": "session-0763",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-03-18T11:42:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0341",
+  "reviewer": "user-0406",
+  "subject": "user-0997",
+  "session": "session-0767",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-03-24T17:19:54.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0342",
+  "reviewer": "user-0174",
+  "subject": "user-0925",
+  "session": "session-0772",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-04-10T09:37:46.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0343",
+  "reviewer": "user-0370",
+  "subject": "user-0625",
+  "session": "session-0773",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-03-31T17:46:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0344",
+  "reviewer": "user-0666",
+  "subject": "user-0007",
+  "session": "session-0775",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-06-05T20:29:46.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0345",
+  "reviewer": "user-0688",
+  "subject": "user-0100",
+  "session": "session-0779",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-06-08T03:17:17.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0346",
+  "reviewer": "user-0556",
+  "subject": "user-0751",
+  "session": "session-0785",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-28T04:00:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0347",
+  "reviewer": "user-0767",
+  "subject": "user-0197",
+  "session": "session-0786",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-22T06:25:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0348",
+  "reviewer": "user-0949",
+  "subject": "user-0349",
+  "session": "session-0787",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-05-21T15:29:14.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0349",
+  "reviewer": "user-0310",
+  "subject": "user-0741",
+  "session": "session-0791",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-07-18T02:34:26.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0350",
+  "reviewer": "user-0073",
+  "subject": "user-0047",
+  "session": "session-0799",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-03-28T12:44:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0351",
+  "reviewer": "user-0167",
+  "subject": "user-0287",
+  "session": "session-0803",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-06-18T21:48:51.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0352",
+  "reviewer": "user-0938",
+  "subject": "user-0454",
+  "session": "session-0805",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-06-07T08:17:47.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0353",
+  "reviewer": "user-0515",
+  "subject": "user-0957",
+  "session": "session-0806",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-07-13T06:23:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0354",
+  "reviewer": "user-0318",
+  "subject": "user-0667",
+  "session": "session-0807",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-07-02T09:30:02.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0355",
+  "reviewer": "user-0434",
+  "subject": "user-0560",
+  "session": "session-0809",
+  "rating": 5,
+  "comment": "Explained everything clearly and shared great resources.",
+  "createdAt": "2026-07-10T01:12:48.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0356",
+  "reviewer": "user-0331",
+  "subject": "user-0338",
+  "session": "session-0812",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-07-13T21:39:40.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0357",
+  "reviewer": "user-0675",
+  "subject": "user-0780",
+  "session": "session-0817",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-07T04:18:50.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0358",
+  "reviewer": "user-0941",
+  "subject": "user-0975",
+  "session": "session-0819",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-09-10T21:10:08.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0359",
+  "reviewer": "user-0196",
+  "subject": "user-0218",
+  "session": "session-0821",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-18T10:08:37.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0360",
+  "reviewer": "user-0674",
+  "subject": "user-0263",
+  "session": "session-0822",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-04-19T10:17:29.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0361",
+  "reviewer": "user-0530",
+  "subject": "user-0337",
+  "session": "session-0824",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-07-23T20:36:08.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0362",
+  "reviewer": "user-0948",
+  "subject": "user-0317",
+  "session": "session-0830",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-30T15:32:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0363",
+  "reviewer": "user-0304",
+  "subject": "user-0057",
+  "session": "session-0835",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-04-21T05:04:05.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0364",
+  "reviewer": "user-0558",
+  "subject": "user-0303",
+  "session": "session-0836",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-06-29T11:22:01.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0365",
+  "reviewer": "user-0711",
+  "subject": "user-0744",
+  "session": "session-0837",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-19T05:01:18.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0366",
+  "reviewer": "user-0111",
+  "subject": "user-0430",
+  "session": "session-0838",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-04T00:23:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0367",
+  "reviewer": "user-0196",
+  "subject": "user-0992",
+  "session": "session-0839",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-09-23T13:22:59.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0368",
+  "reviewer": "user-0090",
+  "subject": "user-0466",
+  "session": "session-0841",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-03-25T12:23:49.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0369",
+  "reviewer": "user-0281",
+  "subject": "user-0666",
+  "session": "session-0845",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-21T11:36:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0370",
+  "reviewer": "user-0829",
+  "subject": "user-0642",
+  "session": "session-0847",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-04-29T11:48:44.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0371",
+  "reviewer": "user-0467",
+  "subject": "user-0169",
+  "session": "session-0850",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-09-24T22:41:34.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0372",
+  "reviewer": "user-0040",
+  "subject": "user-0642",
+  "session": "session-0851",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-08-20T00:57:16.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0373",
+  "reviewer": "user-0835",
+  "subject": "user-0245",
+  "session": "session-0856",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-09-02T03:31:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0374",
+  "reviewer": "user-0332",
+  "subject": "user-0343",
+  "session": "session-0858",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-25T07:10:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0375",
+  "reviewer": "user-0947",
+  "subject": "user-0794",
+  "session": "session-0859",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-09-18T21:42:16.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0376",
+  "reviewer": "user-0328",
+  "subject": "user-0197",
+  "session": "session-0861",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-06-28T15:46:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0377",
+  "reviewer": "user-0410",
+  "subject": "user-0691",
+  "session": "session-0864",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-06-21T15:44:07.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0378",
+  "reviewer": "user-0462",
+  "subject": "user-0196",
+  "session": "session-0865",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-08-24T23:12:23.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0379",
+  "reviewer": "user-0765",
+  "subject": "user-0306",
+  "session": "session-0866",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-06-26T15:35:19.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0380",
+  "reviewer": "user-0457",
+  "subject": "user-0847",
+  "session": "session-0868",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-12T05:50:05.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0381",
+  "reviewer": "user-0819",
+  "subject": "user-0057",
+  "session": "session-0869",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-05-25T16:28:03.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0382",
+  "reviewer": "user-0025",
+  "subject": "user-0047",
+  "session": "session-0870",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-09-13T20:59:28.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0383",
+  "reviewer": "user-0826",
+  "subject": "user-0700",
+  "session": "session-0874",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-08-05T09:27:43.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0384",
+  "reviewer": "user-0746",
+  "subject": "user-0978",
+  "session": "session-0876",
+  "rating": 3,
+  "comment": "Decent session but we didn't cover everything I hoped.",
+  "createdAt": "2026-09-18T13:07:22.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0385",
+  "reviewer": "user-0072",
+  "subject": "user-0851",
+  "session": "session-0878",
+  "rating": 4,
+  "comment": "Good mentor, gave me a clear plan to follow.",
+  "createdAt": "2026-03-22T06:37:08.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0386",
+  "reviewer": "user-0129",
+  "subject": "user-0211",
+  "session": "session-0879",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-03-31T22:37:50.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0387",
+  "reviewer": "user-0325",
+  "subject": "user-0840",
+  "session": "session-0880",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-06-05T14:04:00.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0388",
+  "reviewer": "user-0673",
+  "subject": "user-0880",
+  "session": "session-0881",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-04-26T21:09:16.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0389",
+  "reviewer": "user-0803",
+  "subject": "user-0358",
+  "session": "session-0883",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-05T08:22:20.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0390",
+  "reviewer": "user-0075",
+  "subject": "user-0752",
+  "session": "session-0884",
+  "rating": 4,
+  "comment": "Useful tips, would book again.",
+  "createdAt": "2026-08-08T09:56:13.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0391",
+  "reviewer": "user-0601",
+  "subject": "user-0337",
+  "session": "session-0885",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-08-18T16:17:10.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0392",
+  "reviewer": "user-0397",
+  "subject": "user-0197",
+  "session": "session-0888",
+  "rating": 3,
+  "comment": "Okay overall, some parts were too advanced for me.",
+  "createdAt": "2026-09-15T17:28:31.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0393",
+  "reviewer": "user-0894",
+  "subject": "user-0657",
+  "session": "session-0889",
+  "rating": 2,
+  "comment": "Session started late and felt unstructured.",
+  "createdAt": "2026-05-11T01:55:33.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0394",
+  "reviewer": "user-0846",
+  "subject": "user-0766",
+  "session": "session-0892",
+  "rating": 1,
+  "comment": "Mentor did not show up on time and the session was cut short.",
+  "createdAt": "2026-03-17T15:57:28.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0395",
+  "reviewer": "user-0899",
+  "subject": "user-0154",
+  "session": "session-0894",
+  "rating": 4,
+  "comment": "Very helpful session, a bit rushed at the end.",
+  "createdAt": "2026-08-14T15:45:53.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0396",
+  "reviewer": "user-0314",
+  "subject": "user-0263",
+  "session": "session-0895",
+  "rating": 5,
+  "comment": "Super patient and practical — highly recommend!",
+  "createdAt": "2026-07-03T17:54:06.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0397",
+  "reviewer": "user-0520",
+  "subject": "user-0248",
+  "session": "session-0897",
+  "rating": 5,
+  "comment": "Helped me fix my project in one session.",
+  "createdAt": "2026-08-07T22:50:28.000Z",
+  "isSynthetic": true
+ },
+ {
+  "id": "review-0398",
+  "reviewer": "user-0988",
+  "subject": "user-0506",
+  "session": "session-0899",
+  "rating": 5,
+  "comment": "Clear explanations with real-world examples.",
+  "createdAt": "2026-08-10T15:47:48.000Z",
+  "isSynthetic": true
+ }
+]

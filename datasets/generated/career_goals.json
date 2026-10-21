@@ -1,0 +1,7002 @@
+[
+ {
+  "id": "goal-0001",
+  "user": "user-0198",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-05-23T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0002",
+  "user": "user-0615",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-17T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0003",
+  "user": "user-0578",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-12T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0004",
+  "user": "user-0620",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-01-11T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0005",
+  "user": "user-0557",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-06-20T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0006",
+  "user": "user-0997",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-09-16T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0007",
+  "user": "user-0779",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-02-26T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0008",
+  "user": "user-0128",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-18T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0009",
+  "user": "user-0434",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-07-08T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0010",
+  "user": "user-0093",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-07-18T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0011",
+  "user": "user-0605",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-05-22T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0012",
+  "user": "user-0694",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-06-21T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0013",
+  "user": "user-0764",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-01-02T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0014",
+  "user": "user-0802",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0015",
+  "user": "user-0051",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-26T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0016",
+  "user": "user-0365",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-09-28T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0017",
+  "user": "user-0540",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-10-17T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0018",
+  "user": "user-0125",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-15T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0019",
+  "user": "user-0993",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-09-15T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0020",
+  "user": "user-0197",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-03-24T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0021",
+  "user": "user-0980",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-29T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0022",
+  "user": "user-0245",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-19T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0023",
+  "user": "user-0498",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-09-16T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0024",
+  "user": "user-0740",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-10-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0025",
+  "user": "user-0597",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-08-07T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0026",
+  "user": "user-0499",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-24T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0027",
+  "user": "user-0274",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-02-27T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0028",
+  "user": "user-0232",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-01-01T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0029",
+  "user": "user-0024",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0030",
+  "user": "user-0991",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-27T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0031",
+  "user": "user-0047",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-08-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0032",
+  "user": "user-0257",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-09T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0033",
+  "user": "user-0229",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-20T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0034",
+  "user": "user-0106",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2026-12-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0035",
+  "user": "user-0523",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2026-12-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0036",
+  "user": "user-0712",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-10-02T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0037",
+  "user": "user-0852",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-07-22T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0038",
+  "user": "user-0887",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-05-09T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0039",
+  "user": "user-0623",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-07-06T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0040",
+  "user": "user-0988",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-04-10T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0041",
+  "user": "user-0065",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-05-09T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0042",
+  "user": "user-0148",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-05-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0043",
+  "user": "user-0062",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-10-05T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0044",
+  "user": "user-0965",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-07-17T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0045",
+  "user": "user-0009",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-06-14T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0046",
+  "user": "user-0781",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-08-28T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0047",
+  "user": "user-0976",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0048",
+  "user": "user-0018",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2026-12-10T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0049",
+  "user": "user-0754",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-04-13T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0050",
+  "user": "user-0549",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-04-14T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0051",
+  "user": "user-0652",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-01-15T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0052",
+  "user": "user-0560",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-04T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0053",
+  "user": "user-0968",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-06-09T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0054",
+  "user": "user-0486",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-02-11T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0055",
+  "user": "user-0746",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-05-15T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0056",
+  "user": "user-0354",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-08-12T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0057",
+  "user": "user-0892",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-02-14T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0058",
+  "user": "user-0583",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-05-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0059",
+  "user": "user-0929",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-08-03T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0060",
+  "user": "user-0473",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-10-24T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0061",
+  "user": "user-0030",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-05-06T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0062",
+  "user": "user-0179",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-01-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0063",
+  "user": "user-0748",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-31T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0064",
+  "user": "user-0412",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-04-28T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0065",
+  "user": "user-0204",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-01T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0066",
+  "user": "user-0355",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-03-16T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0067",
+  "user": "user-0660",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2026-12-12T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0068",
+  "user": "user-0218",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-08-30T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0069",
+  "user": "user-0492",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0070",
+  "user": "user-0774",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-08-05T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0071",
+  "user": "user-0076",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-06-28T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0072",
+  "user": "user-0472",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2026-12-29T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0073",
+  "user": "user-0478",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-05-31T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0074",
+  "user": "user-0321",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-01-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0075",
+  "user": "user-0053",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-12T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0076",
+  "user": "user-0105",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-12T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0077",
+  "user": "user-0804",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-09-18T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0078",
+  "user": "user-0884",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0079",
+  "user": "user-0212",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-09-27T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0080",
+  "user": "user-0593",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-09-13T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0081",
+  "user": "user-0436",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-16T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0082",
+  "user": "user-0215",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-06-06T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0083",
+  "user": "user-0675",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-25T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0084",
+  "user": "user-0506",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2026-12-20T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0085",
+  "user": "user-0760",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-07-07T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0086",
+  "user": "user-0481",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-01-07T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0087",
+  "user": "user-0131",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-03-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0088",
+  "user": "user-0987",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-10-29T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0089",
+  "user": "user-0798",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2026-12-09T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0090",
+  "user": "user-0273",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-24T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0091",
+  "user": "user-0949",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-06-09T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0092",
+  "user": "user-0800",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-04-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0093",
+  "user": "user-0443",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-07-21T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0094",
+  "user": "user-0336",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-11-01T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0095",
+  "user": "user-0050",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2026-12-25T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0096",
+  "user": "user-0687",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-10-22T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0097",
+  "user": "user-0451",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-09-15T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0098",
+  "user": "user-0227",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-07-05T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0099",
+  "user": "user-0992",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-07-30T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0100",
+  "user": "user-0224",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-04-27T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0101",
+  "user": "user-0430",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-08-09T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0102",
+  "user": "user-0119",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-01-18T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0103",
+  "user": "user-0649",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-13T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0104",
+  "user": "user-0262",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-13T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0105",
+  "user": "user-0002",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-02T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0106",
+  "user": "user-0471",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-06-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0107",
+  "user": "user-0175",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-01-29T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0108",
+  "user": "user-0329",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-26T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0109",
+  "user": "user-0153",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-11-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0110",
+  "user": "user-0864",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-02T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0111",
+  "user": "user-0830",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-03-04T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0112",
+  "user": "user-0259",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-04-22T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0113",
+  "user": "user-0839",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-09-15T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0114",
+  "user": "user-0650",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-08T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0115",
+  "user": "user-0853",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-01-11T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0116",
+  "user": "user-0025",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-07-09T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0117",
+  "user": "user-0644",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-04-06T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0118",
+  "user": "user-0545",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-28T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0119",
+  "user": "user-0829",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-04-22T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0120",
+  "user": "user-0167",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-08-06T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0121",
+  "user": "user-0266",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-03-04T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0122",
+  "user": "user-0092",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-10-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0123",
+  "user": "user-0422",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-02-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0124",
+  "user": "user-0579",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-06-04T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0125",
+  "user": "user-0999",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-01-29T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0126",
+  "user": "user-0893",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-02-06T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0127",
+  "user": "user-0100",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-11-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0128",
+  "user": "user-0931",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-07-06T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0129",
+  "user": "user-0352",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-03-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0130",
+  "user": "user-0237",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-06-09T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0131",
+  "user": "user-0945",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2026-12-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0132",
+  "user": "user-0235",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-10-27T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0133",
+  "user": "user-0228",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-02-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0134",
+  "user": "user-0710",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2026-12-15T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0135",
+  "user": "user-0568",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-05-28T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0136",
+  "user": "user-0319",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-01-20T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0137",
+  "user": "user-0302",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-03T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0138",
+  "user": "user-0493",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-03-08T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0139",
+  "user": "user-0320",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-04-21T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0140",
+  "user": "user-0115",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-03-02T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0141",
+  "user": "user-0251",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-07-11T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0142",
+  "user": "user-0739",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-05-17T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0143",
+  "user": "user-0575",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2026-12-21T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0144",
+  "user": "user-0646",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-06T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0145",
+  "user": "user-0747",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-08-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0146",
+  "user": "user-0889",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-05-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0147",
+  "user": "user-0879",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-05-29T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0148",
+  "user": "user-0489",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-07T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0149",
+  "user": "user-0666",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-29T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0150",
+  "user": "user-0491",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-20T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0151",
+  "user": "user-0911",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-04-29T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0152",
+  "user": "user-0101",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-06T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0153",
+  "user": "user-0090",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-08-07T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0154",
+  "user": "user-0572",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-09-05T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0155",
+  "user": "user-0283",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-07-12T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0156",
+  "user": "user-0185",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-06-20T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0157",
+  "user": "user-0989",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-08T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0158",
+  "user": "user-0536",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-06-10T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0159",
+  "user": "user-0821",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-03-22T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0160",
+  "user": "user-0469",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-08-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0161",
+  "user": "user-0776",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2026-12-28T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0162",
+  "user": "user-0483",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-02-15T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0163",
+  "user": "user-0249",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-09-06T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0164",
+  "user": "user-0554",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-08-11T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0165",
+  "user": "user-0178",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-03-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0166",
+  "user": "user-0291",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-08-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0167",
+  "user": "user-0541",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-01-20T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0168",
+  "user": "user-0456",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-05-17T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0169",
+  "user": "user-0460",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-26T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0170",
+  "user": "user-0330",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-06-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0171",
+  "user": "user-0210",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-19T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0172",
+  "user": "user-0164",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-10-23T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0173",
+  "user": "user-0029",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-05-18T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0174",
+  "user": "user-0631",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-25T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0175",
+  "user": "user-0924",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-01-23T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0176",
+  "user": "user-0785",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0177",
+  "user": "user-0926",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-10-31T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0178",
+  "user": "user-0011",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2026-12-24T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0179",
+  "user": "user-0453",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-07T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0180",
+  "user": "user-0114",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-03-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0181",
+  "user": "user-0628",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-05-14T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0182",
+  "user": "user-0941",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-22T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0183",
+  "user": "user-0910",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-04-22T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0184",
+  "user": "user-0854",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-05-09T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0185",
+  "user": "user-0698",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-07-08T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0186",
+  "user": "user-0891",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-18T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0187",
+  "user": "user-0932",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-04-05T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0188",
+  "user": "user-0127",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-10-30T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0189",
+  "user": "user-0682",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-10-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0190",
+  "user": "user-0951",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-18T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0191",
+  "user": "user-0641",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-06-25T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0192",
+  "user": "user-0799",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-05-19T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0193",
+  "user": "user-0375",
+  "targetRole": "Backend Developer",
+  "targetDate": "2026-12-24T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0194",
+  "user": "user-0033",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-14T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0195",
+  "user": "user-0495",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-10-09T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0196",
+  "user": "user-0454",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-05-13T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0197",
+  "user": "user-0195",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-09-09T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0198",
+  "user": "user-0316",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-08-28T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0199",
+  "user": "user-0608",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-04-10T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0200",
+  "user": "user-0054",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-04-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0201",
+  "user": "user-0140",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-02-27T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0202",
+  "user": "user-0700",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-01-02T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0203",
+  "user": "user-0328",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-22T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0204",
+  "user": "user-0049",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-01-28T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0205",
+  "user": "user-0432",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-01-15T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0206",
+  "user": "user-0163",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-08-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0207",
+  "user": "user-0505",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-01-07T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0208",
+  "user": "user-0952",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0209",
+  "user": "user-0816",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-06-25T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0210",
+  "user": "user-0207",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-09T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0211",
+  "user": "user-0928",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-06T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0212",
+  "user": "user-0824",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-04T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0213",
+  "user": "user-0394",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-06-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0214",
+  "user": "user-0538",
+  "targetRole": "Game Developer",
+  "targetDate": "2026-12-26T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0215",
+  "user": "user-0372",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-08-15T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0216",
+  "user": "user-0293",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-05-07T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0217",
+  "user": "user-0022",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-05-20T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0218",
+  "user": "user-0342",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-03-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0219",
+  "user": "user-0647",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-02-06T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0220",
+  "user": "user-0855",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-25T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0221",
+  "user": "user-0803",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-24T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0222",
+  "user": "user-0717",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-07-21T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0223",
+  "user": "user-0265",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-07-28T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0224",
+  "user": "user-0366",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-01-29T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0225",
+  "user": "user-0370",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-02-25T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0226",
+  "user": "user-0890",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-01-26T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0227",
+  "user": "user-0464",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-08-17T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0228",
+  "user": "user-0981",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-09-02T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0229",
+  "user": "user-0971",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-01-24T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0230",
+  "user": "user-0922",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-05-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0231",
+  "user": "user-0936",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-07-19T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0232",
+  "user": "user-0857",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-07-30T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0233",
+  "user": "user-0135",
+  "targetRole": "Data Scientist",
+  "targetDate": "2026-11-30T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0234",
+  "user": "user-0144",
+  "targetRole": "Data Scientist",
+  "targetDate": "2026-12-07T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0235",
+  "user": "user-0531",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-09-11T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0236",
+  "user": "user-0625",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-03-05T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0237",
+  "user": "user-0880",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-07-29T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0238",
+  "user": "user-0083",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-05-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0239",
+  "user": "user-0162",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0240",
+  "user": "user-0632",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0241",
+  "user": "user-0551",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-01-21T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0242",
+  "user": "user-0793",
+  "targetRole": "Data Scientist",
+  "targetDate": "2026-12-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0243",
+  "user": "user-0497",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-10-10T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0244",
+  "user": "user-0878",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-04-07T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0245",
+  "user": "user-0383",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-25T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0246",
+  "user": "user-0752",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-27T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0247",
+  "user": "user-0648",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0248",
+  "user": "user-0250",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-05T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0249",
+  "user": "user-0339",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-05-24T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0250",
+  "user": "user-0862",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-01-05T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0251",
+  "user": "user-0512",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-04T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0252",
+  "user": "user-0285",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-10-12T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0253",
+  "user": "user-0521",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-01-12T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0254",
+  "user": "user-0916",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-02-24T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0255",
+  "user": "user-0780",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-27T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0256",
+  "user": "user-0720",
+  "targetRole": "Backend Developer",
+  "targetDate": "2026-12-08T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0257",
+  "user": "user-0470",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-08-03T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0258",
+  "user": "user-0730",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-04-02T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0259",
+  "user": "user-0032",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0260",
+  "user": "user-0678",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-06-26T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0261",
+  "user": "user-0567",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-09-18T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0262",
+  "user": "user-0141",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-08-24T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0263",
+  "user": "user-0094",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-05-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0264",
+  "user": "user-0704",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-01-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0265",
+  "user": "user-0670",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0266",
+  "user": "user-0503",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2026-12-01T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0267",
+  "user": "user-0485",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-08-03T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0268",
+  "user": "user-0796",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-09-08T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0269",
+  "user": "user-0130",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-10-25T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0270",
+  "user": "user-0729",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-07-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0271",
+  "user": "user-0184",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-26T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0272",
+  "user": "user-0677",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-04-10T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0273",
+  "user": "user-0496",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-02-15T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0274",
+  "user": "user-0656",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2026-12-23T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0275",
+  "user": "user-0091",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0276",
+  "user": "user-0371",
+  "targetRole": "Game Developer",
+  "targetDate": "2026-12-16T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0277",
+  "user": "user-0520",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-10-07T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0278",
+  "user": "user-0071",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-06-22T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0279",
+  "user": "user-0680",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-05-27T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0280",
+  "user": "user-0077",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-01-12T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0281",
+  "user": "user-0665",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-04-30T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0282",
+  "user": "user-0103",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-04-14T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0283",
+  "user": "user-0190",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-11T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0284",
+  "user": "user-0886",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-08-16T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0285",
+  "user": "user-0758",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-01-11T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0286",
+  "user": "user-0066",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-03-05T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0287",
+  "user": "user-0885",
+  "targetRole": "Game Developer",
+  "targetDate": "2026-12-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0288",
+  "user": "user-0490",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-01T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0289",
+  "user": "user-0061",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-06-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0290",
+  "user": "user-0602",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-03-01T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0291",
+  "user": "user-0374",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-10-03T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0292",
+  "user": "user-0465",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-04-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0293",
+  "user": "user-0925",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-06-19T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0294",
+  "user": "user-0295",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-03-10T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0295",
+  "user": "user-0390",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-09-21T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0296",
+  "user": "user-0182",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-06-16T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0297",
+  "user": "user-0517",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-04-22T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0298",
+  "user": "user-0112",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-02-09T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0299",
+  "user": "user-0741",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-10-24T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0300",
+  "user": "user-0688",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2026-12-20T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0301",
+  "user": "user-0074",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0302",
+  "user": "user-0081",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-05-28T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0303",
+  "user": "user-0565",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-05T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0304",
+  "user": "user-0832",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-29T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0305",
+  "user": "user-0844",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-10-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0306",
+  "user": "user-0701",
+  "targetRole": "Backend Developer",
+  "targetDate": "2026-12-16T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0307",
+  "user": "user-0584",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-03-30T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0308",
+  "user": "user-0407",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-05-22T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0309",
+  "user": "user-0108",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-04T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0310",
+  "user": "user-0636",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-10-22T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0311",
+  "user": "user-0134",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-01-19T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0312",
+  "user": "user-0005",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-22T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0313",
+  "user": "user-0811",
+  "targetRole": "Backend Developer",
+  "targetDate": "2026-12-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0314",
+  "user": "user-0334",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-03-27T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0315",
+  "user": "user-0020",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-07-07T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0316",
+  "user": "user-0715",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-02-26T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0317",
+  "user": "user-0046",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-09-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0318",
+  "user": "user-0170",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-10-05T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0319",
+  "user": "user-0759",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-04-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0320",
+  "user": "user-0419",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-09-26T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0321",
+  "user": "user-0303",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-04-24T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0322",
+  "user": "user-0211",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-01-18T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0323",
+  "user": "user-0962",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-05-30T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0324",
+  "user": "user-0124",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-01-26T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0325",
+  "user": "user-0341",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-10-30T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0326",
+  "user": "user-0908",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-05-04T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0327",
+  "user": "user-0358",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-10-10T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0328",
+  "user": "user-0986",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-07-09T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0329",
+  "user": "user-0966",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-08-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0330",
+  "user": "user-0494",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-10-25T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0331",
+  "user": "user-0059",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-08-12T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0332",
+  "user": "user-0467",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-21T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0333",
+  "user": "user-0598",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-24T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0334",
+  "user": "user-0504",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-05-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0335",
+  "user": "user-0510",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-02-18T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0336",
+  "user": "user-0946",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-01-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0337",
+  "user": "user-0515",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-10-08T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0338",
+  "user": "user-0912",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-04T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0339",
+  "user": "user-0305",
+  "targetRole": "Software Engineer",
+  "targetDate": "2026-12-12T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0340",
+  "user": "user-0350",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-06-29T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0341",
+  "user": "user-0956",
+  "targetRole": "Data Scientist",
+  "targetDate": "2026-12-24T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0342",
+  "user": "user-0111",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-07-07T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0343",
+  "user": "user-0468",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-04-30T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0344",
+  "user": "user-0048",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-11-03T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0345",
+  "user": "user-0822",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-01-01T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0346",
+  "user": "user-0337",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-01-27T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0347",
+  "user": "user-0591",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-02T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0348",
+  "user": "user-0919",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-06-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0349",
+  "user": "user-0300",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-11T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0350",
+  "user": "user-0627",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-01-30T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0351",
+  "user": "user-0318",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-21T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0352",
+  "user": "user-0788",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2026-12-18T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0353",
+  "user": "user-0532",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-31T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0354",
+  "user": "user-0155",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-05-10T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0355",
+  "user": "user-0457",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-07-14T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0356",
+  "user": "user-0455",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-11-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0357",
+  "user": "user-0416",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-02-28T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0358",
+  "user": "user-0786",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-06-28T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0359",
+  "user": "user-0268",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-08-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0360",
+  "user": "user-0870",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-08-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0361",
+  "user": "user-0719",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-05-11T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0362",
+  "user": "user-0672",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-03-11T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0363",
+  "user": "user-0226",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-02-02T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0364",
+  "user": "user-0034",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0365",
+  "user": "user-0658",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-05T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0366",
+  "user": "user-0613",
+  "targetRole": "Data Engineer",
+  "targetDate": "2026-12-27T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0367",
+  "user": "user-0869",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-05-26T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0368",
+  "user": "user-0388",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0369",
+  "user": "user-0359",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-01-02T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0370",
+  "user": "user-0849",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-06-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0371",
+  "user": "user-0189",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-01-23T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0372",
+  "user": "user-0671",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-27T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0373",
+  "user": "user-0586",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-05-07T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0374",
+  "user": "user-0619",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-10-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0375",
+  "user": "user-0778",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-02-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0376",
+  "user": "user-0533",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-02-16T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0377",
+  "user": "user-0344",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-01-27T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0378",
+  "user": "user-0313",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-01-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0379",
+  "user": "user-0299",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-27T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0380",
+  "user": "user-0442",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-06-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0381",
+  "user": "user-0151",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0382",
+  "user": "user-0373",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-02-07T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0383",
+  "user": "user-0364",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-01-22T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0384",
+  "user": "user-0441",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-19T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0385",
+  "user": "user-0214",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-26T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0386",
+  "user": "user-0810",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2026-11-30T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0387",
+  "user": "user-0445",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-03-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0388",
+  "user": "user-0875",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0389",
+  "user": "user-0985",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0390",
+  "user": "user-0695",
+  "targetRole": "Data Analyst",
+  "targetDate": "2026-12-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0391",
+  "user": "user-0160",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-03-11T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0392",
+  "user": "user-0290",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-07-23T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0393",
+  "user": "user-0221",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-03-20T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0394",
+  "user": "user-0784",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-03-29T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0395",
+  "user": "user-0369",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-05T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0396",
+  "user": "user-0939",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-20T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0397",
+  "user": "user-0016",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-01-17T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0398",
+  "user": "user-0404",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-03T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0399",
+  "user": "user-0888",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-08-09T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0400",
+  "user": "user-0753",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-09T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0401",
+  "user": "user-0979",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-12T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0402",
+  "user": "user-0459",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-06-29T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0403",
+  "user": "user-0231",
+  "targetRole": "Game Developer",
+  "targetDate": "2026-12-07T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0404",
+  "user": "user-1000",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-03-08T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0405",
+  "user": "user-0843",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-05-31T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0406",
+  "user": "user-0596",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2026-12-14T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0407",
+  "user": "user-0395",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-04-15T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0408",
+  "user": "user-0147",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-05-14T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0409",
+  "user": "user-0087",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-06-29T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0410",
+  "user": "user-0703",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2026-12-31T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0411",
+  "user": "user-0073",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-09-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0412",
+  "user": "user-0347",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-20T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0413",
+  "user": "user-0380",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-08-10T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0414",
+  "user": "user-0425",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-11-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0415",
+  "user": "user-0096",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-04-23T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0416",
+  "user": "user-0872",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-04-13T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0417",
+  "user": "user-0209",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-26T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0418",
+  "user": "user-0309",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-03-25T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0419",
+  "user": "user-0642",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-01-16T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0420",
+  "user": "user-0271",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-03-29T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0421",
+  "user": "user-0286",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0422",
+  "user": "user-0669",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-01-11T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0423",
+  "user": "user-0953",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-05-04T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0424",
+  "user": "user-0248",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-07-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0425",
+  "user": "user-0205",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-10-12T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0426",
+  "user": "user-0508",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-03-03T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0427",
+  "user": "user-0954",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-06-03T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0428",
+  "user": "user-0014",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-09-17T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0429",
+  "user": "user-0332",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0430",
+  "user": "user-0150",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-02-20T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0431",
+  "user": "user-0882",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-05-15T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0432",
+  "user": "user-0139",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-07-25T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0433",
+  "user": "user-0331",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-07-20T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0434",
+  "user": "user-0944",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-05-31T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0435",
+  "user": "user-0600",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-03-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0436",
+  "user": "user-0311",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0437",
+  "user": "user-0072",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-03-06T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0438",
+  "user": "user-0244",
+  "targetRole": "Backend Developer",
+  "targetDate": "2026-12-20T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0439",
+  "user": "user-0676",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-09-21T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0440",
+  "user": "user-0026",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-03-30T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0441",
+  "user": "user-0324",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-07-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0442",
+  "user": "user-0421",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-09-04T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0443",
+  "user": "user-0845",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-10-11T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0444",
+  "user": "user-0681",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-05-04T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0445",
+  "user": "user-0574",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-02-17T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0446",
+  "user": "user-0995",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-09-11T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0447",
+  "user": "user-0132",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-07-27T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0448",
+  "user": "user-0052",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-09-29T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0449",
+  "user": "user-0895",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-02-07T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0450",
+  "user": "user-0013",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-05-21T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0451",
+  "user": "user-0406",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-08-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0452",
+  "user": "user-0790",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2026-12-22T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0453",
+  "user": "user-0718",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-11T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0454",
+  "user": "user-0906",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-07-10T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0455",
+  "user": "user-0057",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-04-26T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0456",
+  "user": "user-0686",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-08-21T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0457",
+  "user": "user-0744",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-07-24T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0458",
+  "user": "user-0640",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-03-02T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0459",
+  "user": "user-0393",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-04-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0460",
+  "user": "user-0121",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-05-24T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0461",
+  "user": "user-0082",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-01-01T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0462",
+  "user": "user-0828",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-03-01T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0463",
+  "user": "user-0312",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-05-13T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0464",
+  "user": "user-0901",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-12T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0465",
+  "user": "user-0915",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-08-26T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0466",
+  "user": "user-0856",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-02T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0467",
+  "user": "user-0146",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-10-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0468",
+  "user": "user-0927",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-08-28T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0469",
+  "user": "user-0795",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-17T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0470",
+  "user": "user-0116",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-03-26T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0471",
+  "user": "user-0837",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-02-18T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0472",
+  "user": "user-0181",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-08-25T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0473",
+  "user": "user-0097",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-02-16T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0474",
+  "user": "user-0361",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-06-23T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0475",
+  "user": "user-0191",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-05-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0476",
+  "user": "user-0763",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-09-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0477",
+  "user": "user-0284",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-11T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0478",
+  "user": "user-0400",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-04-08T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0479",
+  "user": "user-0905",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-03-08T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0480",
+  "user": "user-0378",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-22T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0481",
+  "user": "user-0558",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-02T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0482",
+  "user": "user-0427",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-10-17T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0483",
+  "user": "user-0424",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-10-21T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0484",
+  "user": "user-0812",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-03-26T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0485",
+  "user": "user-0281",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-01-10T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0486",
+  "user": "user-0873",
+  "targetRole": "Software Engineer",
+  "targetDate": "2026-12-01T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0487",
+  "user": "user-0019",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-12-20T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0488",
+  "user": "user-0903",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-08-31T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0489",
+  "user": "user-0067",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-09-18T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0490",
+  "user": "user-0120",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-17T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0491",
+  "user": "user-0930",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-09-05T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0492",
+  "user": "user-0405",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-02-23T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0493",
+  "user": "user-0814",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-21T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0494",
+  "user": "user-0846",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-02-08T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0495",
+  "user": "user-0479",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0496",
+  "user": "user-0438",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0497",
+  "user": "user-0484",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-02-11T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0498",
+  "user": "user-0564",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-11-05T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0499",
+  "user": "user-0326",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-07T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0500",
+  "user": "user-0659",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-07-16T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0501",
+  "user": "user-0449",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-21T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0502",
+  "user": "user-0306",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-06-03T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0503",
+  "user": "user-0750",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-04-23T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0504",
+  "user": "user-0909",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-08-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0505",
+  "user": "user-0010",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-01-24T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0506",
+  "user": "user-0301",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-03-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0507",
+  "user": "user-0398",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-08-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0508",
+  "user": "user-0805",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-11T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0509",
+  "user": "user-0261",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-09-16T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0510",
+  "user": "user-0683",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-02-15T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0511",
+  "user": "user-0756",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-02-01T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0512",
+  "user": "user-0736",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-10-10T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0513",
+  "user": "user-0732",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-06-20T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0514",
+  "user": "user-0123",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-04-25T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0515",
+  "user": "user-0970",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-11-02T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0516",
+  "user": "user-0199",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-04T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0517",
+  "user": "user-0645",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-03-15T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0518",
+  "user": "user-0768",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-06-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0519",
+  "user": "user-0902",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-08-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0520",
+  "user": "user-0296",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-04-08T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0521",
+  "user": "user-0035",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-02-27T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0522",
+  "user": "user-0983",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-26T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0523",
+  "user": "user-0410",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-08-19T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0524",
+  "user": "user-0399",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-23T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0525",
+  "user": "user-0618",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-10-11T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0526",
+  "user": "user-0571",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-08-04T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0527",
+  "user": "user-0143",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0528",
+  "user": "user-0007",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-09-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0529",
+  "user": "user-0782",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-02-20T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0530",
+  "user": "user-0308",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2026-11-30T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0531",
+  "user": "user-0706",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-03-16T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0532",
+  "user": "user-0826",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-10-16T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0533",
+  "user": "user-0827",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-02-10T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0534",
+  "user": "user-0530",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-02-21T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0535",
+  "user": "user-0994",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-05-19T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0536",
+  "user": "user-0367",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-31T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0537",
+  "user": "user-0258",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-06-05T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0538",
+  "user": "user-0791",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-07-01T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0539",
+  "user": "user-0815",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-09-16T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0540",
+  "user": "user-0588",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-08-12T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0541",
+  "user": "user-0749",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-06-21T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0542",
+  "user": "user-0216",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-11-03T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0543",
+  "user": "user-0696",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-02-03T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0544",
+  "user": "user-0256",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-09-21T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0545",
+  "user": "user-0222",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-27T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0546",
+  "user": "user-0982",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-02-14T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0547",
+  "user": "user-0475",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-02-28T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0548",
+  "user": "user-0569",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-10-18T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0549",
+  "user": "user-0630",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-09-07T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0550",
+  "user": "user-0726",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2026-12-30T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0551",
+  "user": "user-0288",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-11-01T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0552",
+  "user": "user-0028",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-10-30T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0553",
+  "user": "user-0346",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-02-11T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0554",
+  "user": "user-0287",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-03-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0555",
+  "user": "user-0762",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-10-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0556",
+  "user": "user-0513",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-15T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0557",
+  "user": "user-0444",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-09-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0558",
+  "user": "user-0133",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2026-12-18T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0559",
+  "user": "user-0797",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-01T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0560",
+  "user": "user-0376",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-06-07T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0561",
+  "user": "user-0699",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-08-10T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0562",
+  "user": "user-0610",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-04-25T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0563",
+  "user": "user-0230",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-04-28T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0564",
+  "user": "user-0576",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-07-14T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0565",
+  "user": "user-0961",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-01-01T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0566",
+  "user": "user-0253",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-09-19T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0567",
+  "user": "user-0480",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-06-30T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0568",
+  "user": "user-0866",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-06T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0569",
+  "user": "user-0708",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-04-07T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0570",
+  "user": "user-0702",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-09-19T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0571",
+  "user": "user-0345",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-03-23T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0572",
+  "user": "user-0381",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-03-12T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0573",
+  "user": "user-0673",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-06-28T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0574",
+  "user": "user-0548",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-04-12T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0575",
+  "user": "user-0294",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-07-05T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0576",
+  "user": "user-0017",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-01-26T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0577",
+  "user": "user-0709",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-10-28T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0578",
+  "user": "user-0635",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-01-18T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0579",
+  "user": "user-0353",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-08-06T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0580",
+  "user": "user-0937",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-07-09T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0581",
+  "user": "user-0838",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-06-08T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0582",
+  "user": "user-0773",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-01T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0583",
+  "user": "user-0429",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-07-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0584",
+  "user": "user-0735",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-10-05T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0585",
+  "user": "user-0550",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-06-21T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0586",
+  "user": "user-0751",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-02-14T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0587",
+  "user": "user-0818",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-29T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0588",
+  "user": "user-0877",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-02-09T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0589",
+  "user": "user-0193",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-01-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0590",
+  "user": "user-0667",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-27T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0591",
+  "user": "user-0833",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-09-29T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0592",
+  "user": "user-0794",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-12T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0593",
+  "user": "user-0242",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-09-27T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0594",
+  "user": "user-0721",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-04-11T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0595",
+  "user": "user-0236",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-08-02T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0596",
+  "user": "user-0086",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-01-05T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0597",
+  "user": "user-0070",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-10-13T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0598",
+  "user": "user-0307",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-19T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0599",
+  "user": "user-0848",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-07T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0600",
+  "user": "user-0679",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-07-19T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0601",
+  "user": "user-0349",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-07-19T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0602",
+  "user": "user-0136",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-03-19T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0603",
+  "user": "user-0745",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2026-12-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0604",
+  "user": "user-0582",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-10-20T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0605",
+  "user": "user-0556",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-08-27T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0606",
+  "user": "user-0920",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-07-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0607",
+  "user": "user-0110",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0608",
+  "user": "user-0004",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-05-05T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0609",
+  "user": "user-0831",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-09T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0610",
+  "user": "user-0643",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-29T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0611",
+  "user": "user-0955",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-06-26T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0612",
+  "user": "user-0177",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-07-14T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0613",
+  "user": "user-0368",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-02-23T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0614",
+  "user": "user-0934",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2026-12-24T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0615",
+  "user": "user-0559",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-09-01T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0616",
+  "user": "user-0614",
+  "targetRole": "Data Engineer",
+  "targetDate": "2026-12-29T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0617",
+  "user": "user-0079",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-07T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0618",
+  "user": "user-0847",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-06-15T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0619",
+  "user": "user-0883",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-21T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0620",
+  "user": "user-0297",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-22T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0621",
+  "user": "user-0714",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-01-16T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0622",
+  "user": "user-0037",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-01-12T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0623",
+  "user": "user-0043",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-07-08T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0624",
+  "user": "user-0662",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-13T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0625",
+  "user": "user-0546",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-11T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0626",
+  "user": "user-0691",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-05-24T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0627",
+  "user": "user-0476",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-10-17T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0628",
+  "user": "user-0808",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-01-20T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0629",
+  "user": "user-0634",
+  "targetRole": "Software Engineer",
+  "targetDate": "2026-12-30T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0630",
+  "user": "user-0863",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2026-12-15T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0631",
+  "user": "user-0098",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-06-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0632",
+  "user": "user-0622",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-10-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0633",
+  "user": "user-0609",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-02-13T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0634",
+  "user": "user-0984",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-08-22T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0635",
+  "user": "user-0914",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-06-21T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0636",
+  "user": "user-0263",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-05-08T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0637",
+  "user": "user-0113",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-08-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0638",
+  "user": "user-0001",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-08-06T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0639",
+  "user": "user-0095",
+  "targetRole": "Software Engineer",
+  "targetDate": "2026-12-26T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0640",
+  "user": "user-0522",
+  "targetRole": "Data Scientist",
+  "targetDate": "2027-09-22T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0641",
+  "user": "user-0428",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-01-18T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0642",
+  "user": "user-0542",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-04-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0643",
+  "user": "user-0270",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-06-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0644",
+  "user": "user-0668",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-07-18T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0645",
+  "user": "user-0626",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-08-24T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0646",
+  "user": "user-0638",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-07-22T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0647",
+  "user": "user-0363",
+  "targetRole": "QA Automation Engineer",
+  "targetDate": "2027-03-28T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0648",
+  "user": "user-0534",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-01-27T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0649",
+  "user": "user-0711",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-05-08T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0650",
+  "user": "user-0275",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-03-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0651",
+  "user": "user-0414",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-04-15T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0652",
+  "user": "user-0192",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-04-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0653",
+  "user": "user-0639",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-01-07T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0654",
+  "user": "user-0317",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-03-18T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0655",
+  "user": "user-0933",
+  "targetRole": "Cloud Engineer",
+  "targetDate": "2027-01-14T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0656",
+  "user": "user-0562",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-04-08T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0657",
+  "user": "user-0203",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-10-26T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0658",
+  "user": "user-0840",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-02-20T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0659",
+  "user": "user-0813",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-07-01T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0660",
+  "user": "user-0104",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2027-02-02T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0661",
+  "user": "user-0850",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-06-24T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0662",
+  "user": "user-0252",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-07-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0663",
+  "user": "user-0716",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-03-17T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0664",
+  "user": "user-0611",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-08-18T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0665",
+  "user": "user-0787",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-06-05T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0666",
+  "user": "user-0415",
+  "targetRole": "Mobile App Developer",
+  "targetDate": "2027-02-20T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0667",
+  "user": "user-0958",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-07-29T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0668",
+  "user": "user-0333",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-17T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0669",
+  "user": "user-0595",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-04-28T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0670",
+  "user": "user-0874",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-09-26T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0671",
+  "user": "user-0604",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-09-19T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0672",
+  "user": "user-0898",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-05-03T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0673",
+  "user": "user-0657",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-09-13T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0674",
+  "user": "user-0452",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-05-20T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0675",
+  "user": "user-0267",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-04-19T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0676",
+  "user": "user-0159",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-02-24T12:00:00.000Z",
+  "hoursPerWeek": 4,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0677",
+  "user": "user-0068",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-09-22T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0678",
+  "user": "user-0894",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-03-11T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0679",
+  "user": "user-0401",
+  "targetRole": "Backend Developer",
+  "targetDate": "2027-01-12T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0680",
+  "user": "user-0637",
+  "targetRole": "Data Engineer",
+  "targetDate": "2026-12-31T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0681",
+  "user": "user-0690",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2026-12-06T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0682",
+  "user": "user-0693",
+  "targetRole": "Cybersecurity Analyst",
+  "targetDate": "2027-04-16T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0683",
+  "user": "user-0975",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-04-30T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0684",
+  "user": "user-0842",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2027-05-10T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0685",
+  "user": "user-0524",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-08-02T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0686",
+  "user": "user-0899",
+  "targetRole": "UI/UX Designer",
+  "targetDate": "2026-12-23T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0687",
+  "user": "user-0058",
+  "targetRole": "Embedded Systems Engineer",
+  "targetDate": "2026-12-29T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0688",
+  "user": "user-0038",
+  "targetRole": "Data Engineer",
+  "targetDate": "2027-07-05T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0689",
+  "user": "user-0446",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-06-20T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0690",
+  "user": "user-0963",
+  "targetRole": "Machine Learning Engineer",
+  "targetDate": "2027-06-23T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0691",
+  "user": "user-0904",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-06-05T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0692",
+  "user": "user-0474",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-08-14T12:00:00.000Z",
+  "hoursPerWeek": 6,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0693",
+  "user": "user-0243",
+  "targetRole": "Game Developer",
+  "targetDate": "2027-06-03T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0694",
+  "user": "user-0514",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-06-14T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0695",
+  "user": "user-0947",
+  "targetRole": "Full Stack Developer",
+  "targetDate": "2027-10-17T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "paused",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0696",
+  "user": "user-0881",
+  "targetRole": "AI / LLM Engineer",
+  "targetDate": "2027-06-10T12:00:00.000Z",
+  "hoursPerWeek": 15,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0697",
+  "user": "user-0722",
+  "targetRole": "Frontend Developer",
+  "targetDate": "2027-01-16T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0698",
+  "user": "user-0674",
+  "targetRole": "Software Engineer",
+  "targetDate": "2027-06-11T12:00:00.000Z",
+  "hoursPerWeek": 10,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0699",
+  "user": "user-0561",
+  "targetRole": "DevOps Engineer",
+  "targetDate": "2027-02-04T12:00:00.000Z",
+  "hoursPerWeek": 12,
+  "status": "active",
+  "notes": "",
+  "isSynthetic": true
+ },
+ {
+  "id": "goal-0700",
+  "user": "user-0973",
+  "targetRole": "Data Analyst",
+  "targetDate": "2027-08-12T12:00:00.000Z",
+  "hoursPerWeek": 8,
+  "status": "achieved",
+  "notes": "",
+  "isSynthetic": true
+ }
+]
