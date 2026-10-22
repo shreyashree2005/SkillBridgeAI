@@ -15,7 +15,7 @@ services:
       - key: PYTHON_VERSION
         value: 3.13.7
       - key: AI_SERVICE_KEY
-        sync: false
+        generateValue: true
       - key: LLM_PROVIDER
         value: none
       - key: ANTHROPIC_API_KEY
@@ -36,9 +36,14 @@ services:
       - key: JWT_SECRET
         generateValue: true
       - key: AI_SERVICE_KEY
-        sync: false
+        fromService:
+          type: web
+          name: skillbridge-ai-service
+          envVarKey: AI_SERVICE_KEY
       - key: AI_SERVICE_URL
         sync: false
+      - key: AI_TIMEOUT_MS
+        value: "90000"
       - key: CLIENT_URL
         sync: false
 
