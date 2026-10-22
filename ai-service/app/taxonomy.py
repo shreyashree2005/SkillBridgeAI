@@ -22,7 +22,7 @@ AMBIGUOUS_TERMS = {
     "collaboration", "accessibility", "prototyping", "mentoring", "prompting", "torch", "expo",
 }
 # URLs and e-mail addresses are links, not skill claims ("github.com/me" ≠ GitHub skill).
-URL_RX = re.compile(r"(https?://\S+|www\.\S+|[\w.+-]+@[\w-]+\.[\w.-]+|[\w-]+\.(?:com|org|io|dev|me|example|net|app)/\S*)", re.I)
+URL_RX = re.compile(r"(https?://\S+|www\.\S+|[\w.+-]+@[\w-]+\.[\w.-]+|\b[\w-]+\.(?:com|org|io|dev|me|example|net|app)/\S*)", re.I)
 LIST_LINE = re.compile(r"[,|/•·;]|^\s*[-*]\s")
 
 

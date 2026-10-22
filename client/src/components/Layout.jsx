@@ -47,8 +47,11 @@ export function ProtectedRoute() {
 
 export function PublicOnlyRoute() {
   const { user, loading } = useAuth();
+  // Only bounce users who were ALREADY logged in when they opened /login or
+  // /register. Right after logging in, the page itself decides where to go.
+  const [wasLoggedIn] = useState(() => Boolean(user));
   if (loading) return null;
-  return user ? <Navigate to="/dashboard" replace /> : <Outlet />;
+  return user && wasLoggedIn ? <Navigate to="/dashboard" replace /> : <Outlet />;
 }
 
 export default function AppLayout() {

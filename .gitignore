@@ -29,3 +29,6 @@ server/uploads/
 
 # Legacy prototype backend (superseded by server/, kept locally only)
 backend/
+
+# E2E artifacts
+client/e2e/screenshots/

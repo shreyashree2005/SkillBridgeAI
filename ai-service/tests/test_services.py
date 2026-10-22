@@ -22,6 +22,12 @@ def test_ambiguous_terms_need_list_context():
     assert "Go" in tax.extract_skills("Languages: Go, Python, Rust")
 
 
+def test_links_are_not_skill_claims():
+    tax = get_taxonomy()
+    assert tax.extract_skills("me@example.com | github.com/me | https://linkedin.com/in/me") == []
+    assert tax.extract_skills("Tools: GitHub, Docker") == ["GitHub", "Docker"]
+
+
 def test_canonical_and_implied():
     tax = get_taxonomy()
     assert tax.canonical("reactjs") == "React"

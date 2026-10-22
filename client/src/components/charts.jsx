@@ -15,11 +15,6 @@ const barPath = (x, y, w, h, r = 4) => {
   const rr = Math.min(r, h, w / 2);
   return `M${x},${y + h}V${y + rr}Q${x},${y} ${x + rr},${y}H${x + w - rr}Q${x + w},${y} ${x + w},${y + rr}V${y + h}Z`;
 };
-const hbarPath = (x, y, w, h, r = 4) => {
-  if (w <= 0) return '';
-  const rr = Math.min(r, w, h / 2);
-  return `M${x},${y}H${x + w - rr}Q${x + w},${y} ${x + w},${y + rr}V${y + h - rr}Q${x + w},${y + h} ${x + w - rr},${y + h}H${x}Z`;
-};
 
 function Tip({ tip }) {
   if (!tip) return null;
@@ -94,36 +89,29 @@ export function GroupedBars({ data, xKey, series, height = 200, caption, formatX
   );
 }
 
-/** Horizontal bars with an ordinal ramp. items: [{ label, value }] */
+/** Horizontal bars with an ordinal ramp, built in HTML so labels keep their
+ *  real font size at any card width. items: [{ label, value }] */
 export function HBars({ items, caption, colors }) {
   const [tip, setTip] = useState(null);
-  const W = 560; const rowH = 30; const labelW = 110; const valueW = 36;
-  const H = items.length * rowH;
   const max = Math.max(1, ...items.map((i) => i.value));
   const total = items.reduce((s, i) => s + i.value, 0);
   return (
-    <div className="chart-wrap" onMouseLeave={() => setTip(null)}>
-      <svg className="chart" viewBox={`0 0 ${W} ${H}`} role="img" aria-label={caption}>
-        {items.map((it, i) => {
-          const w = ((W - labelW - valueW) * it.value) / max;
-          const yy = i * rowH + 7;
-          return (
-            <g key={it.label}
-              onMouseMove={(e) => {
-                const rect = e.currentTarget.ownerSVGElement.getBoundingClientRect();
-                setTip({ x: ((labelW + Math.max(w, 20) / 2) / W) * rect.width, y: (yy / H) * rect.height,
-                  content: <><b>{it.label}</b>: {it.value}{total ? ` (${Math.round((it.value / total) * 100)}%)` : ''}</> });
-              }}>
-              <rect className="hover-band" x={0} y={i * rowH + 1} width={W} height={rowH - 2} rx={4} />
-              <text x={0} y={yy + 12} style={{ fill: 'var(--text-2)', fontSize: 12 }}>{it.label}</text>
-              <rect x={labelW} y={yy} width={W - labelW - valueW} height={16} rx={4} fill="var(--surface-2)" />
-              <path d={hbarPath(labelW, yy, w, 16)} fill={colors[i % colors.length]} />
-              <text x={W} y={yy + 12} textAnchor="end" className="tnum" style={{ fill: 'var(--text)', fontSize: 12 }}>{it.value}</text>
-              <rect className="hit" x={0} y={i * rowH} width={W} height={rowH} />
-            </g>
-          );
-        })}
-      </svg>
+    <div className="chart-wrap hbars" onMouseLeave={() => setTip(null)} role="img" aria-label={caption}>
+      {items.map((it, i) => (
+        <div key={it.label} className="hbar-row"
+          onMouseMove={(e) => {
+            const box = e.currentTarget.parentElement.getBoundingClientRect();
+            const row = e.currentTarget.getBoundingClientRect();
+            setTip({ x: e.clientX - box.left, y: row.top - box.top,
+              content: <><b>{it.label}</b>: {it.value}{total ? ` (${Math.round((it.value / total) * 100)}%)` : ''}</> });
+          }}>
+          <span className="hbar-label">{it.label}</span>
+          <span className="hbar-track">
+            {it.value > 0 && <span className="hbar-fill" style={{ width: `${(it.value / max) * 100}%`, background: colors[i % colors.length] }} />}
+          </span>
+          <span className="hbar-value tnum">{it.value}</span>
+        </div>
+      ))}
       <Tip tip={tip} />
       <DataTable caption={caption} columns={['Category', 'Count']} rows={items.map((i) => [i.label, i.value])} />
     </div>

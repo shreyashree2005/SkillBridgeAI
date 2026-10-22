@@ -51,8 +51,9 @@ export default function Landing() {
         <p className="subtle" style={{ marginTop: 12 }}>Demo login: demo@skillbridge.example · DemoPass123 (after seeding)</p>
       </section>
 
-      <div className="hero-preview" aria-hidden>
-        <div className="frame">
+      <div className="hero-preview">
+        <p className="subtle" style={{ textAlign: 'center', marginBottom: 10 }}>Illustrative example of what you'll see after adding your skills and resume</p>
+        <div className="frame" aria-hidden>
           <div className="grid-3">
             <div className="card card-body stack">
               <span className="subtle">Skill coverage · Full Stack Developer</span>
