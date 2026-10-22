@@ -71,7 +71,8 @@ function Thread({ conversation, onSent, onBack }) {
     }
     setSending(false);
     if (!res.ok) return toast.error(res.error || 'Could not send message');
-    setMessages((prev) => (prev.some((x) => x._id === res.message._id) ? prev : [...prev, res.message]));
+    // prev is null if the history request hasn't returned yet (slow network).
+    setMessages((prev) => (prev?.some((x) => x._id === res.message._id) ? prev : [...(prev || []), res.message]));
     setText('');
     onSent(res.message);
   };
