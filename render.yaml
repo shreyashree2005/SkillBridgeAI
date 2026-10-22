@@ -5,6 +5,7 @@ services:
   - type: web
     name: skillbridge-ai-service
     runtime: python
+    region: singapore
     rootDir: ai-service
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
@@ -24,6 +25,7 @@ services:
   - type: web
     name: skillbridge-api
     runtime: node
+    region: singapore
     rootDir: server
     buildCommand: npm ci
     startCommand: npm start
