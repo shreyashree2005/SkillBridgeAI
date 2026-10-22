@@ -1,8 +1,17 @@
 {
-  "dependencies": {
-    "bcryptjs": "^3.0.3",
-    "dotenv": "^17.4.2",
-    "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.9.0"
+  "name": "skillbridge-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SkillBridge AI monorepo helper scripts (client, server, ai-service).",
+  "scripts": {
+    "setup": "npm --prefix server install && npm --prefix client install",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "datasets": "python datasets/generator/generate.py",
+    "test:server": "npm --prefix server test",
+    "lint:client": "npm --prefix client run lint",
+    "build:client": "npm --prefix client run build",
+    "e2e": "npm --prefix client run e2e"
   }
 }
