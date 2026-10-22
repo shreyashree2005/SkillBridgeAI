@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { Bookmark, BookmarkCheck, FolderGit2, Plus, Sparkles, Users } from 'lucide-react';
 import { api } from '../lib/api';
@@ -60,9 +60,12 @@ function useBookmarkToggle(setData) {
 
 function Discover() {
   const [params, setParams] = useSearchParams();
-  const [q, setQ] = useState(params.get('q') || '');
+  const urlQ = params.get('q') || '';
+  const [q, setQ] = useState(urlQ);
   const [filters, setFilters] = useState({ category: '', status: '', sort: 'newest', lookingForMembers: '' });
   const [page, setPage] = useState(1);
+  // Keep the box in sync when the query changes from outside (e.g. the top search bar).
+  useEffect(() => { setQ(urlQ); setPage(1); }, [urlQ]);
   const dq = useDebounce(q, 300);
   const list = useFetch(() => api.get('/projects', { q: dq, ...filters, page, limit: 12 }), [dq, filters, page]);
   const toggle = useBookmarkToggle(list.setData);

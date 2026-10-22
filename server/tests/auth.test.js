@@ -48,6 +48,15 @@ describe('Authentication', () => {
     assert.equal(after.status, 401);
   });
 
+  it('rejects forged tokens (alg "none" and wrong secret)', async () => {
+    const jwt = require('jsonwebtoken');
+    const { user } = await registerUser();
+    const unsigned = jwt.sign({ id: user._id, v: 0 }, null, { algorithm: 'none' });
+    const wrongKey = jwt.sign({ id: user._id, v: 0 }, 'not-the-real-secret-at-all', { algorithm: 'HS256' });
+    assert.equal((await api(unsigned).get('/api/auth/me')).status, 401);
+    assert.equal((await api(wrongKey).get('/api/auth/me')).status, 401);
+  });
+
   it('keeps the original /signup route working', async () => {
     const res = await request(app).post('/api/auth/signup')
       .send({ firstName: 'Old', lastName: 'Route', email: 'signup@test.example', password: 'Passw0rd!' });

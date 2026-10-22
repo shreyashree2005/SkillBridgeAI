@@ -44,3 +44,25 @@
 - E-mail verification and password reset need an e-mail provider.
 - Optional: httpOnly-cookie sessions, group chat, file attachments, OCR for scanned resumes, CI pipeline
   (GitHub Actions running the three test suites).
+
+---
+
+## Pre-merge audit (second pass)
+
+Re-ran every suite and added a 13-step two-user browser suite for workflows the first suite did not cover.
+
+| # | Finding | Severity | Fix |
+|---|---|---|---|
+| 1 | 1,335 of 2,634 seeded notifications linked to dataset ids (`/projects/project-0348`) → "Project not found" | Functional bug | Seed rewrites links to real ObjectIds; re-seeding repaired existing documents (0 broken links verified) |
+| 2 | Rate limits keyed only by IP: students behind one campus/hostel IP would lock each other out (20 logins / 15 min for the whole network) | Design bug | Login/register limited per account+IP (10/15 min) with a 100/15 min per-IP backstop; API and AI limits per logged-in user. Verified: 11th bad login on one account → 429 while another account on the same IP logs in |
+| 3 | Top search bar did nothing when already on the Projects page | UI bug | Projects page now follows the `q` URL parameter |
+| 4 | A browser tab closing mid-WebSocket crashed the Vite dev/preview server (`ECONNABORTED` in its proxy) | Dev-experience bug | Proxy error handlers in `vite.config.js`; server survived 6 consecutive suite runs |
+| 5 | JWT verification did not pin the algorithm | Hardening | Sign and verify with `HS256` only; test proves `alg: none` and wrong-key tokens are rejected |
+| 6 | Login answered faster for unknown e-mails (timing could reveal registered accounts) | Hardening | Unknown e-mails are compared against a dummy bcrypt hash |
+| 7 | AI service exposed `/docs` and `/openapi.json` in production | Hardening | Disabled when `AI_ENV=production` (verified 404) |
+
+Verified without changes: no `.env` ever committed and neither real JWT secret appears in history; hostile inputs
+(Mongo operators in body and query, 300 KB bodies, malformed JSON, `javascript:` URLs, invalid ids, other users'
+resources) are rejected or scoped; AI outage → clear 503 while the rest of the app works; production start-up refuses
+weak secrets or a missing AI key; seeded data has 0 broken references and consistent counters; every frontend API
+call (87) maps to a backend route and every in-app link (71) to a page.

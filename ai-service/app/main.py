@@ -44,8 +44,14 @@ async def lifespan(_app):
     yield
 
 
+IS_PROD = settings.environment == "production"
+
 app = FastAPI(
     lifespan=lifespan,
+    # Interactive docs are handy locally but should not be public in production.
+    docs_url=None if IS_PROD else "/docs",
+    redoc_url=None if IS_PROD else "/redoc",
+    openapi_url=None if IS_PROD else "/openapi.json",
     title="SkillBridge AI Service",
     version="1.0.0",
     description="Resume analysis, matching, recommendations, roadmaps, interview practice and a career assistant.",

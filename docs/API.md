@@ -14,7 +14,7 @@ error → `{ "success": false, "message": "...", "errors"?: [{ "field", "message
 **Pagination:** list endpoints accept `page` and `limit` (max 100) and return
 `{ items, pagination: { page, limit, total, pages } }`.
 
-**Rate limits:** auth 20 requests / 15 min; AI endpoints 30 / min; everything else 300 / min (per IP).
+**Rate limits:** login/register 10 attempts / 15 min per account (plus 100 / 15 min per IP); AI endpoints 30 / min and everything else 300 / min **per logged-in user** (anonymous requests per IP). Keyed by account so students behind one campus IP are not locked out together.
 
 ---
 

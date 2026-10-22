@@ -187,9 +187,10 @@ database. Synthetic users can log in with `Synthetic2026!` (override with `SEED_
 | Suite | Command | What it covers | Result at hand-off |
 |---|---|---|---|
 | AI service | `cd ai-service && python -m pytest -q` | Parsing (real PDF & DOCX), matching, gap, roadmap ordering, recommenders, interview rubric, assistant grounding, API auth/validation, **skill-extraction accuracy on 500 resumes** | 31 passed |
-| Server | `npm run test:server` | Auth & token revocation, validation, ownership checks, projects, learning, mentoring + reviews, chat, applications, dashboard, **real AI-service integration**, **Socket.IO live delivery** | 21 passed |
+| Server | `npm run test:server` | Auth, forged-token rejection & token revocation, validation, ownership checks, projects, learning, mentoring + reviews, chat, applications, dashboard, **real AI-service integration**, **Socket.IO live delivery** | 22 passed |
 | Client lint/build | `npm run lint:client && npm run build:client` | oxlint (no-undef, unused vars, hooks rules) + production build | 0 errors |
-| Browser E2E | `npm run e2e` (needs all services running) | 27 real-browser steps: register, profile, every page, project, resume, job match, roadmap, assistant, interview, two-user live chat, dark mode, mobile layout, logout | 27/27, 3 consecutive runs |
+| Browser E2E | `npm run e2e` (needs all services running) | 27 real-browser steps: register, profile, every page, project, resume, job match, roadmap, assistant, interview, two-user live chat, dark mode, mobile layout, logout | 27/27 |
+| Browser workflows | `npm run e2e:workflows` | 13 two-user journeys: login form, top search, course progress, mentoring offer→booking→accept→complete→review→rating, join request→accept, team finder, notifications, seeded notification links, application board, real PDF upload, disguised-file rejection, full interview | 13/13 |
 
 Server tests use an isolated `skillbridge_test` database (the helper refuses to wipe any database not ending in
 `_test`). AI-dependent server tests are **skipped, not faked,** when the AI service is down. E2E uses an installed

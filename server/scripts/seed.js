@@ -254,7 +254,11 @@ const seed = async (d) => {
   const demoNotes = [
     { id: 'notification-demo-1', user: DEMO.id, type: 'system', title: 'Welcome to SkillBridge AI 👋', body: 'Complete your profile and upload a resume to unlock AI recommendations.', link: '/profile', read: false, createdAt: '2026-09-30T09:00:00.000Z', isSynthetic: true },
   ];
-  counts.notifications = await upsertMany(models.Notification, [...d.notifications, ...demoNotes].map(({ id, user, ...n }) => ({ ...n, _id: ref(id), user: ref(user) })));
+  // Dataset links use dataset ids (/projects/project-0001); rewrite them to the seeded ObjectIds.
+  const fixLink = (link = '') => link.replace(/^\/(projects|learning)\/((?:project|course)-[\w-]+)$/, (_, area, id) => `/${area}/${ref(id)}`);
+  counts.notifications = await upsertMany(models.Notification, [...d.notifications, ...demoNotes].map(({ id, user, link, ...n }) => ({
+    ...n, link: fixLink(link), _id: ref(id), user: ref(user),
+  })));
 
   // A demo conversation so chat is not empty on first login.
   const partner = d.users[0];

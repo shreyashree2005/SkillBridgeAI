@@ -16,7 +16,7 @@ const call = async (path, init = {}) => {
     });
   } catch (err) {
     const reason = err.name === 'TimeoutError' ? 'timed out' : 'is not reachable';
-    throw new AppError(503, `The AI service ${reason}. Make sure it is running (see README → AI service).`);
+    throw new AppError(503, `The AI service ${reason}. Make sure it is running (see README → Troubleshooting).`);
   }
 
   const data = await res.json().catch(() => ({}));

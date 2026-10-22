@@ -12,6 +12,7 @@
     "test:server": "npm --prefix server test",
     "lint:client": "npm --prefix client run lint",
     "build:client": "npm --prefix client run build",
-    "e2e": "npm --prefix client run e2e"
+    "e2e": "npm --prefix client run e2e",
+    "e2e:workflows": "npm --prefix client run e2e:workflows"
   }
 }
